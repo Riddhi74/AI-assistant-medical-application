@@ -1,0 +1,869 @@
+[DISEASE: Glaucoma]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/glaucoma.html]
+Glaucoma | Blindness | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+Glaucoma is a group of diseases that can damage the optic nerve of one, or both, of your eyes. This can result in vision loss. There are different types of glaucoma, but the most common type is open-angle glaucoma. Other less common types include angle-closure glaucoma, and congenital glaucoma.
+You may not have any symptoms of glaucoma. Regular eye exams by an eye care provider can check for glaucoma and other eye problems to help protect your vision. Treatments that lower eye pressure help slow the disease. Without treatment, glaucoma can eventually lead to blindness.
+What causes glaucoma?
+Medical experts aren't sure what causes glaucoma, but the most common types usually happen when the fluid pressure inside your eye slowly rises, damaging the optic nerve. Other types of glaucoma may be caused by medical conditions, or a baby may be born with it.
+Not everyone with high eye pressure develops glaucoma. Some people may even get glaucoma with normal eye pressure. The amount of pressure your optic nerve can handle is different for each person. Getting regular dilated eye exams helps your provider figure out what level of eye pressure is normal for you.
+What are the symptoms of glaucoma?
+Often there are no symptoms of glaucoma at first. Or symptoms may start so slowly that you may not notice them. Without treatment, you slowly lose your peripheral (side) vision. It may seem like you're looking through a tunnel. Over time, your straight-ahead vision may decrease until no vision remains.
+If you have sudden symptoms of intense eye pain, blurry vision, red eyes, or an upset stomach (nausea), you need to go to your eye care provider or an emergency room right away. These could be symptoms of angle-closure glaucoma. This less common type of glaucoma causes fluid to build up quickly in your eye.
+How is glaucoma diagnosed?
+A comprehensive eye exam can tell if you have glaucoma. This would include:
+A dilated eye exam. This involves getting eye drops that dilate (widen) your pupils. This allows more light to enter your eye. Your eye care provider examines your eyes using a special magnifying lens. This provides a clear view of important tissues at the back of your eye to check for glaucoma or other eye problems. For a few hours after the exam your vision may be blurry and sensitive to light, so you will need someone to take you home.
+Visual field testing. This check of your peripheral (side) vision allows your eye care provider to find out how well you can see objects off to the side of your vision without moving your eyes.
+Tonometry. This measures the pressure inside your eye.
+If you're at higher risk for glaucoma, you should get comprehensive eye exams every one to two years. You're at higher risk if you:
+Are Black or African American and over age 40
+Are over age 60, especially if you're Hispanic or Latino
+Have a family history of glaucoma
+You're also at higher risk if you have high blood pressure or diabetes and should get a dilated eye exam at least once a year. Talk with your provider about your risk and how often you should get your eyes checked.
+What are the treatments for glaucoma?
+Early treatment can help protect your eyes against vision loss. There is no cure, but glaucoma can usually be controlled. Without treatment it can eventually cause blindness. Treatments can include:
+Prescription eye drops are the most common treatment to lower the pressure in your eye and prevent damage to your optic nerve.
+Other treatments may include oral medicines, laser treatment, and/or surgery.
+A combination of these treatments may be used to lower eye pressure and help drain the fluid out of your eye.
+Can glaucoma be prevented?
+There is no way to prevent glaucoma. Eye exams can help find glaucoma or other eye problems before they can affect your vision. If you have glaucoma, be sure to continue with treatment to prevent your vision from getting worse.
+NIH: National Eye Institute
+(National Eye Institute)
+Glaucoma: Symptoms and Causes
+(Mayo Foundation for Medical Education and Research)
+(National Eye Institute)
+Understanding Glaucoma: Symptoms, Causes, Diagnosis, Treatment
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Eye Exam and Vision Testing Basics
+(American Academy of Ophthalmology)
+(BrightFocus Foundation)
+(Glaucoma Research Foundation)
+(Centers for Disease Control and Prevention)
+Treatments and Therapies
+Does Marijuana Help Treat Glaucoma or Other Eye Conditions?
+(American Academy of Ophthalmology)
+Generic Medications: Are They the Same?
+(Glaucoma Research Foundation)
+Glaucoma Alternative Therapies
+(Glaucoma Research Foundation)
+(National Eye Institute)
+Treatments for Glaucoma
+(BrightFocus Foundation)
+Glaucoma Eye Drops: Suggestions on Use
+(Glaucoma Research Foundation)
+Living with Glaucoma
+(Glaucoma Research Foundation)
+African Americans and Glaucoma
+(Glaucoma Research Foundation)
+Diabetes and Your Eyesight
+(Glaucoma Research Foundation)
+Dry Eyes and Glaucoma: Double Trouble
+(Glaucoma Research Foundation)
+Talking with Your Eye Doctor
+(National Eye Institute)
+Early-onset glaucoma: MedlinePlus Genetics
+Nail-patella syndrome: MedlinePlus Genetics
+How Glaucoma May Affect Vision
+(BrightFocus Foundation)
+How the Build Up of Aqueous Humor Can Damage the Optic Nerve
+(BrightFocus Foundation)
+(National Eye Institute)
+Videos and Tutorials
+(Medical Encyclopedia)
+(National Eye Institute)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Glaucoma
+Article: Effect of the Support, Educate, Empower Personalized Glaucoma Coaching Program on...
+Article: Predicting 10 Year Glaucoma Using Anterior Segment Biometry for Infants with...
+Article: Agreement between intraocular pressure measurement using Goldmann applanation tonometry with and...
+Glaucoma -- see more articles
+American Foundation for the Blind
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+National Eye Institute
+(Nemours Foundation)
+Glaucoma in Children
+(American Association for Pediatric Ophthalmology and Strabismus)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+The primary NIH organization for research on
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 13, 2025
+
+---
+
+[DISEASE: Cataract]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/cataract.html]
+Cataracts | Cataract Surgery | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+A cataract is a clouding of the clear lens inside your eye. This cloudiness blocks light from reaching the back of the eye, making it harder to see clearly. A cataract can affect one or both eyes, but it doesn't spread from one eye to the other.
+Cataracts usually develop slowly. As they get worse, your vision can become blurry or dim. Brighter lighting or new eyeglasses may help at first, but if cataracts begin to interfere with your daily activities, you may need cataract surgery.
+Without treatment, cataracts can cause severe or even permanent loss of vision.
+What causes cataracts?
+Most cataracts develop as part of the normal aging process. This happens when the protein in the lens of your eye clumps together. Over time, these protein clumps grow larger and thicker, making it harder to see. The lens may turn yellow or brown, which can affect how you see colors.
+Cataracts can also develop after an eye injury or surgery for another eye condition, like glaucoma.
+Who is more likely to develop cataracts?
+Cataracts are very common in older adults. By age 80, more than half of all Americans either have a cataract or have had cataract surgery. Your risk for developing cataracts increases as you get older. You may also be at an increased risk if you:
+Have certain health problems, like diabetes
+Have a family history of cataracts
+Have had an eye injury or eye surgery
+Take steroid medicines, used to treat conditions like arthritis or allergies
+Drink excessive amounts of alcohol
+Have spent a lot of time in the sun
+What are the symptoms of cataracts?
+You may not notice cataracts at first because they usually develop slowly. That's why regular eye exams are important. Common symptoms may include:
+Blurry or cloudy vision
+Colors that seem faded
+Glare from headlights, lamps, or sunlight that seems too bright
+Not being able to see well at night
+Double vision (this may go away as the cataract gets bigger)
+Frequent changes in your glasses or contact lens prescription
+Trouble reading or doing other everyday activities
+Talk with your provider about these symptoms since they could also be signs of other eye problems.
+How are cataracts diagnosed?
+A comprehensive eye exam is the best way to check for cataracts. Your provider will do several tests to check your vision and eye health. This includes a dilated eye exam, where your pupils are widened with special eye drops. This allows more light to enter your eye so your provider can clearly see tissues at the back.
+How are cataracts treated?
+Surgery is the only way to remove a cataract. At first, you may be able to improve your vision with new glasses and brighter lighting. But if cataracts are getting in the way of everyday activities like reading, driving, or watching TV, surgery is an option. During surgery, the cloudy lens is removed and replaced with an artificial lens, called an intraocular lens (IOL).
+Can cataracts be prevented?
+If you're worried that you're at risk for cataracts, talk to your provider to see if there's anything you can do to lower your risk. A few ways to protect your eyes include:
+Wear sunglasses and a wide-brimmed hat to block ultraviolet (UV) sunlight and help delay cataracts.
+Protect your eyes from injury when using power tools or playing certain sports.
+Eat a healthy diet with plenty of fruits, vegetables, leafy greens, nuts, and whole grains.
+NIH: National Eye Institute
+(National Eye Institute)
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Eye Exam and Vision Testing Basics
+(American Academy of Ophthalmology)
+Preoperative Testing
+(American Academy of Ophthalmology)
+Treatments and Therapies
+After Cataract Surgery: Long-Term Eye Care
+(Department of Veterans Affairs)
+Cataract surgery - series -- Normal anatomy
+(Medical Encyclopedia)
+Cataract Surgery: Risks, Recovery, Costs
+(American Academy of Ophthalmology)
+IOL Implants: Lens Replacement after Cataracts
+(American Academy of Ophthalmology)
+Intraocular Lens Dislocation
+(American Society of Retina Specialists)
+Retained Lens Fragments
+(American Society of Retina Specialists)
+Cloudy Vision? It Could be Cataracts
+What Do Cataracts Look Like?
+(American Academy of Ophthalmology)
+Autosomal dominant optic atrophy and cataract: MedlinePlus Genetics
+Hyperferritinemia-cataract syndrome: MedlinePlus Genetics
+Videos and Tutorials
+(Medical Encyclopedia)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Cataract
+ClinicalTrials.gov: Intraocular Lenses
+Article: Lens Biomechanics and Mechanotransduction Signaling: Dual Pillars of Age-Related Cataract Pathogenesis.
+Article: Patient factors in determining the urgency of cataract referral.
+Article: An Evaluation of the Mean Teacher Framework for Semi-Supervised Cataract Surgical...
+Cataract -- see more articles
+All About Vision: Glossary
+(National Eye Institute)
+(National Eye Institute)
+American Foundation for the Blind
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+(American Association for Pediatric Ophthalmology and Strabismus)
+Intraocular Lens Implant (IOL)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Aging and Health: Cataracts
+(AGS Health in Aging Foundation)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Cataract surgery - series -- Normal anatomy
+Cataracts - what to ask your doctor
+Related Health Topics
+Vision Impairment and Blindness
+The primary NIH organization for research on
+National Eye Institute
+Not Seeing Clearly? Cataracts Might Be the Problem
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 25, 2025
+
+---
+
+[DISEASE: Maculardegeneration]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/maculardegeneration.html]
+Macular Degeneration | Age-related Macular Degeneration | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Macular Degeneration
+Macular Degeneration
+Also called: Age-related macular degeneration, AMD
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+Macular degeneration, or age-related macular degeneration (AMD), is a leading cause of vision loss in Americans 60 and older. It is a disease that destroys your sharp, central vision. You need central vision to see objects clearly and to do tasks such as reading and driving.
+AMD affects the macula, the part of the eye that allows you to see fine detail. It does not hurt, but it causes cells in the macula to die. There are two types: wet and dry. Wet AMD happens when abnormal blood vessels grow under the macula. These new blood vessels often leak blood and fluid. Wet AMD damages the macula quickly. Blurred vision is a common early symptom. Dry AMD happens when the light-sensitive cells in the macula slowly break down. You gradually lose your central vision. A common early symptom is that straight lines appear crooked.
+Regular comprehensive eye exams can detect macular degeneration before the disease causes vision loss. Treatment can slow vision loss. It does not restore vision.
+NIH: National Eye Institute
+Age-Related Macular Degeneration
+(National Eye Institute)
+What Is Macular Degeneration?
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Prevention and Risk Factors
+Prevention of Age-Related Macular Degeneration
+(BrightFocus Foundation)
+Treatments and Therapies
+Age-Related Eye Disease Studies (AREDS/AREDS2)
+(National Eye Institute)
+Choosing Wisely When It Comes to Eye Care: Antibiotics for Eye Injections
+(American Academy of Ophthalmology)
+Diet, Nutrition, and Eye Health Supplements
+(American Academy of Ophthalmology)
+Dry Macular Degeneration
+(Mayo Foundation for Medical Education and Research)
+Wet Macular Degeneration
+(Mayo Foundation for Medical Education and Research)
+Age-related macular degeneration: MedlinePlus Genetics
+Stargardt macular degeneration: MedlinePlus Genetics
+Videos and Tutorials
+Macular degeneration
+(Medical Encyclopedia)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Macular Degeneration
+Article: Comparing community-based monitoring to hospital-based care of patients with quiescent age-related...
+Article: Transcranial Direct Current Stimulation Does Not Enhance Perceptual Learning of Chinese...
+Article: Avacincaptad Pegol for Geographic Atrophy Secondary to Age-Related Macular Degeneration: Two-Year...
+Macular Degeneration -- see more articles
+(National Eye Institute)
+American Foundation for the Blind
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+National Eye Institute
+Age-related macular degeneration
+(Medical Encyclopedia)
+Fluorescein angiography
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Intravitreal injection
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Age-related macular degeneration
+Fluorescein angiography
+Intravitreal injection
+Macular degeneration
+Related Health Topics
+Vision Impairment and Blindness
+The primary NIH organization for research on
+Macular Degeneration is the
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 12, 2024
+
+---
+
+[DISEASE: Diabeticeyeproblems]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/diabeticeyeproblems.html]
+Diabetic Retinopathy | Diabetic Eye Disease | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Diabetic Eye Problems
+Diabetic Eye Problems
+Also called: Diabetic retinopathy
+Prevention and Risk Factors
+Videos and Tutorials
+Statistics and Research
+Diabetes is a disease in which your blood glucose, or blood sugar, levels are too high. Glucose comes from foods you eat. The cells of your body need glucose for energy. A hormone called insulin helps the glucose get into your cells.
+With type 1 diabetes, your body doesn't make insulin. With type 2 diabetes, your body doesn't make or use insulin well. Without enough insulin, glucose builds up in your blood and causes high blood glucose levels.
+What eye problems can diabetes cause?
+Over time, high blood glucose may damage the blood vessels and lenses in your eyes. This can lead to serious diabetic eye problems which can harm your vision and sometimes cause blindness. Some common diabetic eye problems include:
+Diabetic retinopathy, which is the leading cause of blindness in American adults. It affects blood vessels in the retina (the light-sensitive layer of tissue in the back of your eye). The blood vessels may swell and leak fluid into your eye. If it's not treated, it can cause serious problems such as vision loss and retinal detachment, where the retina is pulled away from its normal position at the back of your eye.
+Diabetic macular edema (DME), which happens when blood vessels in the retina leak fluid into the macula (the part of the retina needed for sharp, central vision). This usually develops in people who already have other signs of diabetic retinopathy.
+Glaucoma, a group of eye diseases that can damage the optic nerve (the bundle of nerves that connects the eye to the brain). Glaucoma from diabetes happens when the blood vessels in the front of your eye are damaged, and new blood vessels grow near the iris (the colored part of your eye). The blood vessels block the space where fluid drains from your eye. This causes fluid to build up and pressure to increase inside your eye.
+Cataract, which is the leading cause of blindness worldwide. It happens when the clear lens in the front of your eye becomes cloudy. Cataracts are common as people age. But people with diabetes are more likely to develop cataracts younger and faster than people without diabetes. Researchers think that high glucose levels cause deposits to build up in the lenses of your eyes.
+Who is more likely to develop diabetic eye problems?
+Anyone with diabetes can develop diabetic eye disease. But your risk of developing it is higher if you have diabetes and:
+Have had diabetes for a long time
+Don't have good control over your high blood glucose or high blood pressure
+Have high blood cholesterol
+What are the symptoms of diabetic eye problems?
+In the early stages, diabetic eye problems usually don't have any symptoms. That's why regular dilated eye exams are so important, even if you think your eyes are healthy.
+You should also watch for sudden changes in your vision that could be signs of an emergency. Call your eye care professional right away if you notice any of these symptoms:
+Many new spots or dark wavy strings floating in your vision (floaters)
+A dark shadow over part of your vision, like a curtain
+Talk with your eye care professional if you have these symptoms, even if they come and go:
+Spots or dark wavy strings floating in your vision
+Blurry or wavy vision
+Vision that changes a lot
+Trouble seeing colors
+How are diabetic eye problems diagnosed?
+Eye care professionals do dilated eye exams to diagnose eye problems. A dilated eye exam uses eye drops to open your pupils wide so your eye care professional can look for signs of eye problems and treat them before they harm your vision. They will also test your vision and measure the pressure in your eyes.
+What are the treatments for diabetic eye problems?
+Treatment for diabetic eye problems depends on the problem and how serious it is. Some of the treatments include:
+Lasers to stop blood vessels from leaking
+Injections (shots) in the eye to stop new, leaky blood vessels from growing
+Surgery to remove blood and scar tissue or replace a cloudy lens
+Eye drops to lower fluid pressure in the eye
+But these treatments aren't cures. Eye problems can come back. That's why your best defense against serious vision loss is to take control of your diabetes and get regular eye exams. It's also important to keep your blood pressure and cholesterol in a healthy range.
+NIH: National Institute of Diabetes and Digestive and Kidney Diseases
+Diabetic Eye Disease
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Diabetic Retinopathy
+(National Eye Institute)
+Diabetic Retinopathy: Causes, Symptoms, Treatment
+(American Academy of Ophthalmology)
+(American Diabetes Association)
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Eye Exam and Vision Testing Basics
+(American Academy of Ophthalmology)
+Prevention and Risk Factors
+Diabetic Eye Disease
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Eye Care: MedlinePlus Health Topic
+Stay on TRACK to Prevent Blindness from Diabetes
+(National Eye Institute)
+Talking with Your Eye Doctor
+(National Eye Institute)
+What Is Macular Edema?
+(American Academy of Ophthalmology)
+Videos and Tutorials
+Diabetes - retinal conditions
+(Medical Encyclopedia)
+Diabetic Retinopathy Videos
+(American Academy of Ophthalmology)
+(Medical Encyclopedia)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+NEI-Funded Study Shows Low Blood Sugar Contributes to Eye Damage and Vision Loss in Diabetic Retinopathy
+(National Eye Institute)
+ClinicalTrials.gov: Diabetic Retinopathy
+Article: Assessing the Role of Statins as an Adjunctive Anti-VEGF Therapy for...
+Article: Phase 1 dose-escalation study of IBI324, a VEGF-A/Ang-2 bispecific antibody, for...
+Article: Intravitreal aflibercept 8 mg in patients from Japan with diabetic macular...
+Diabetic Eye Problems -- see more articles
+All About Vision: Glossary
+(National Eye Institute)
+(National Eye Institute)
+American Diabetes Association
+American Foundation for the Blind
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+National Institute of Diabetes and Digestive and Kidney Diseases
+Diabetes and eye disease
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Fluorescein angiography
+(Medical Encyclopedia)
+Intravitreal injection
+(Medical Encyclopedia)
+Laser photocoagulation - eye
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Diabetes - retinal conditions
+Diabetes and eye disease
+Fluorescein angiography
+Intravitreal injection
+Laser photocoagulation - eye
+Related Health Topics
+Diabetes Complications
+Vision Impairment and Blindness
+The primary NIH organization for research on
+Diabetic Eye Problems is the
+National Eye Institute
+Find health information in languages other than English on Diabetic Eye Problems
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 13, 2024
+
+---
+
+[DISEASE: Conjunctivitis]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/conjunctivitis.html]
+MedlinePlus: We're sorry, we can't find the page you requested
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+We're sorry. We can't find the page you requested.
+You might want to search the MedlinePlus site:
+Or, try one of these pages:
+MedlinePlus Homepage
+Medical Encyclopedia
+If you need help, see our site map or contact us.
+Guidelines for Links
+MedlinePlus Connect for EHRs
+
+---
+
+[DISEASE: Retinaldetachment]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/retinaldetachment.html]
+Retinal Detachment | Retina | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Statistics and Research
+The retina is a layer of tissue in the back of your eye that senses light and sends images to your brain. It provides the sharp, central vision needed for reading, driving, and seeing fine detail. A retinal detachment lifts or pulls the retina from its normal position. It can occur at any age, but it is more common in people over age 40. It affects men more than women and whites more than African Americans. A retinal detachment is also more likely to occur in people who:
+Are extremely nearsighted
+Have had a retinal detachment in the other eye
+Have a family history of retinal detachment
+Have had cataract surgery
+Have other eye diseases or disorders
+Have had an eye injury
+Symptoms include an increase in the number of floaters, which are little "cobwebs" or specks that float about in your field of vision, and/or light flashes in the eye. It may also seem like there is a "curtain" over your field of vision.
+A retinal detachment is a medical emergency. If not promptly treated, it can cause permanent vision loss. If you have any symptoms, see an eye care professional immediately. Treatment includes different types of surgery.
+NIH: National Eye Institute
+(American Academy of Ophthalmology)
+(National Eye Institute)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Treatments and Therapies
+Retinal detachment repair - series
+(Medical Encyclopedia)
+(National Eye Institute)
+(National Eye Institute)
+Complex Retinal Detachment
+(American Society of Retina Specialists)
+Flashes and Floaters
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Retinal Detachment
+Article: Comparison Between 3D Heads-Up Display System and Standard Operating Microscope in...
+Article: Axial Length Asymmetry in Patients with Unilateral Retinal Detachment.
+Article: From Observation to Surgery: A Review of Literature and an Updated...
+Retinal Detachment -- see more articles
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+(Medical Encyclopedia)
+Retinal detachment repair
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Retinal detachment repair
+Retinal detachment repair - series
+Related Health Topics
+The primary NIH organization for research on
+Retinal Detachment is the
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 3, 2025
+
+---
+
+[DISEASE: Amblyopia]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/amblyopia.html]
+Amblyopia | Lazy Eye | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Lazy eye
+Treatments and Therapies
+Statistics and Research
+Amblyopia, or "lazy eye," is the most common cause of visual impairment in children. It happens when an eye fails to work properly with the brain. The eye may look normal, but the brain favors the other eye. In some cases, it can affect both eyes. Causes include:
+Strabismus - a disorder in which the two eyes don't line up in the same direction
+Refractive error in an eye - when one eye cannot focus as well as the other, because of a problem with its shape. This includes nearsightedness, farsightedness, and astigmatism.
+Cataract - a clouding in the lens of the eye
+It can be hard to diagnose amblyopia. It is often found during a routine vision exam.
+Treatment for amblyopia forces the child to use the eye with weaker vision. There are two common ways to do this. One is to have the child wear a patch over the good eye for several hours each day, over a number of weeks to months. The other is with eye drops that temporarily blur vision. Each day, the child gets a drop of a drug called atropine in the stronger eye. It is also sometimes necessary to treat the underlying cause. This could include glasses or surgery.
+NIH: National Eye Institute
+(American Association for Pediatric Ophthalmology and Strabismus)
+Amblyopia (For Parents)
+(Nemours Foundation)
+Amblyopia (Lazy Eye)
+(National Eye Institute)
+Amblyopia: What Is Lazy Eye?
+(American Academy of Ophthalmology)
+Treatments and Therapies
+Amblyopia (Lazy Eye) Treatment: Eye Patching, Drops, Digital Therapies and More
+(American Academy of Pediatrics)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Nutritional and Toxic Optic Neuropathies
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Amblyopia
+(National Eye Institute)
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+(American Association for Pediatric Ophthalmology and Strabismus)
+(Medical Encyclopedia)
+Amblyopia (Lazy Eye)
+(National Eye Institute)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+Vision Impairment and Blindness
+The primary NIH organization for research on
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 16, 2025
+
+---
+
+[DISEASE: Cornealdisorders]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/cornealdisorders.html]
+Corneal Disease | Cornea | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Statistics and Research
+Your cornea is the outermost layer of your eye. It is clear and shaped like a dome. The cornea helps to shield the rest of the eye from germs, dust, and other harmful matter. It also helps your eye to focus. If you wear contact lenses, they float on top of your corneas.
+Problems with the cornea include:
+Dystrophies - conditions in which parts of the cornea lose clarity due to a buildup of cloudy material
+Treatments of corneal disorders include medicines, corneal transplantation, and corneal laser surgery.
+NIH: National Eye Institute
+(National Eye Institute)
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Eye Problems: Symptom Checker Flowchart
+(American Academy of Family Physicians)
+Treatments and Therapies
+(Mayo Foundation for Medical Education and Research)
+(National Eye Institute)
+Eye Infections from Contact Lenses
+(American Academy of Ophthalmology)
+(American Academy of Family Physicians)
+What Is a Corneal Ulcer (Keratitis)?
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+(Mayo Foundation for Medical Education and Research)
+Herpes Eye Infections: What is Herpes Keratitis?
+(American Academy of Ophthalmology)
+(Mayo Foundation for Medical Education and Research)
+Peripheral Ulcerative Keratitis
+What Is a Pinguecula and a Pterygium (Surfer's Eye)?
+(American Academy of Ophthalmology)
+What Is Bacterial Keratitis?
+(American Academy of Ophthalmology)
+What Is Corneal Laceration?
+(American Academy of Ophthalmology)
+What Is Fungal Keratitis?
+(American Academy of Ophthalmology)
+Complete LCAT deficiency: MedlinePlus Genetics
+Congenital stromal corneal dystrophy: MedlinePlus Genetics
+Fish-eye disease: MedlinePlus Genetics
+Fuchs endothelial dystrophy: MedlinePlus Genetics
+Keratitis-ichthyosis-deafness syndrome: MedlinePlus Genetics
+Keratoconus: MedlinePlus Genetics
+Lattice corneal dystrophy type I: MedlinePlus Genetics
+Lattice corneal dystrophy type II: MedlinePlus Genetics
+Meesmann corneal dystrophy: MedlinePlus Genetics
+Peters anomaly: MedlinePlus Genetics
+Peters plus syndrome: MedlinePlus Genetics
+Corneal Foreign Body
+Corneal transplant - series
+(Medical Encyclopedia)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Corneal Diseases
+ClinicalTrials.gov: Corneal Injuries
+Article: Correlation between tear cytokine profiles and corneal injury degree in patients...
+Article: Terahertz Photons Promote Corneal Injury Repair via Epithelial Proliferation, Migration, and...
+Article: Macrophage Extracellular Vesicles: Therapeutic Strategies for Corneal Fibrosis in Rare Diseases.
+Corneal Disorders -- see more articles
+(National Eye Institute)
+American Foundation for the Blind
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+Corneal Abrasions (For Parents)
+(Nemours Foundation)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Corneal ulcers and infections
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Corneal transplant - discharge
+Corneal transplant - series
+Corneal ulcers and infections
+Fluorescein eye stain
+Interstitial keratitis
+Related Health Topics
+The primary NIH organization for research on
+Corneal Disorders is the
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 11, 2025
+
+---
+
+[DISEASE: Refractiveerrors]
+[CATEGORY: eye_disease]
+[TYPE: medlineplus_eye]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/refractiveerrors.html]
+Refractive Errors | Astigmatism | Myopia | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Farsightedness, Hyperopia, Myopia, Nearsightedness
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What are refractive errors?
+The cornea and lens of your eye bend (refract) light rays to focus them on the retina. Refractive errors happen when the shape of your eye prevents light from focusing correctly on the retina. This causes blurry vision. Changes in the eye's shape affect how light rays bend and focus, leading to vision problems.
+What causes refractive errors?
+Refractive errors can happen when:
+The eyeball is too long or too short.
+The cornea changes shape.
+The lens becomes less flexible as you age.
+Each type of refractive error is different, but they all make it hard to see clearly.
+What are common refractive errors?
+Four common types of refractive errors include:
+Nearsightedness (myopia), blurred vision when looking at faraway objects.
+Farsightedness (hyperopia), blurred vision when looking at close-up objects.
+Astigmatism, blurred or distorted vision at all distances, which can make night vision harder.
+Presbyopia, difficulty seeing things up close because the lens becomes less flexible with age. It affects adults in middle age and older and often begins around age 45.
+Who is at risk for refractive errors?
+Anyone can have refractive errors. It's the most common type of vision problem. You may be more likely to have one if other family members wear glasses or contact lenses.
+Most types of refractive errors start in childhood or are present at birth. Presbyopia is different. Nearly everyone develops it as they age, typically starting around age 45.
+What are the symptoms of refractive errors?
+Sometimes you may not notice vision changes right away, which is why regular eye exams are so important.
+The most common symptom is blurred vision. Other symptoms may include:
+Glare or halos around bright lights
+A need to squint to see clearly
+Eye strain or tired eyes
+Difficulty focusing when reading or using a computer
+If you already wear glasses or contact lenses and notice these symptoms, you may need a new prescription. Tell your eye care specialist if your vision changes or if you have problems with your glasses or contact lenses
+How are refractive errors diagnosed?
+An eye care specialist can diagnose refractive errors during a comprehensive eye exam. You'll be tested to see how well you can see at different distances, both with and without corrective lenses (glasses or contact lenses). Your provider may also use special eye drops to dilate (widen) your pupils to check for other eye conditions.
+Different eye care specialists may be involved in your care. Here are some of the most common:
+Ophthalmologists are medical doctors who treat eye diseases, prescribe glasses or contact lenses, and perform eye surgery.
+Optometrists perform eye exams, diagnose vision problems, and prescribe glasses or contact lenses.
+Opticians fit or adjust glasses or contact lenses based on a prescription from your eye care specialist.
+How are refractive errors treated?
+Refractive errors are usually easy to correct with:
+Laser eye surgery, in some cases
+Your eye care specialist can help choose the best treatment for your vision and lifestyle.
+NIH: National Eye Institute
+(National Eye Institute)
+(National Eye Institute)
+Types of Refractive Errors
+(National Eye Institute)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Eye Exam and Vision Testing Basics
+(American Academy of Ophthalmology)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Prevention and Risk Factors
+Get a Dilated Eye Exam
+(National Eye Institute)
+Treatments and Therapies
+(Mayo Foundation for Medical Education and Research)
+Eye Wear: MedlinePlus Health Topic
+Laser Eye Surgery: MedlinePlus Health Topic
+Phakic Intraocular Lenses
+(Food and Drug Administration)
+What Is Refractive Surgery?
+(American Academy of Ophthalmology)
+Abnormal Head Position
+(American Association for Pediatric Ophthalmology and Strabismus)
+What Are the Risks and How Can I Find the Right Doctor for Me? (Refractive Surgery)
+(Food and Drug Administration)
+(Mayo Foundation for Medical Education and Research)
+(National Eye Institute)
+(Mayo Foundation for Medical Education and Research)
+Progressive (High) Myopia
+(American Association for Pediatric Ophthalmology and Strabismus)
+Deafness and myopia syndrome: MedlinePlus Genetics
+Farsightedness: MedlinePlus Genetics
+Nearsightedness: MedlinePlus Genetics
+Corneal transplant - series
+(Medical Encyclopedia)
+Statistics and Research
+Eye Health Data and Statistics
+(National Eye Institute)
+ClinicalTrials.gov: Astigmatism
+ClinicalTrials.gov: Hyperopia
+ClinicalTrials.gov: Intraocular Lenses
+ClinicalTrials.gov: Myopia
+ClinicalTrials.gov: Presbyopia
+ClinicalTrials.gov: Refractive Errors
+Article: Vision screening of Greenlandic children evaluating efficacy, coverage and future directions.
+Article: Screening-detected refractive errors in infants born after assisted reproductive technology: a...
+Article: Refractive error, amblyopia and ocular alignment among schoolchildren in Saudi Arabia.
+Refractive Errors -- see more articles
+(National Eye Institute)
+Find a Doctor of Optometry
+(American Optometric Association)
+Find an Ophthalmologist
+(American Academy of Ophthalmology)
+Finding an Eye Doctor
+(National Eye Institute)
+National Eye Institute
+(American Association for Pediatric Ophthalmology and Strabismus)
+Farsightedness (Hyperopia) (For Parents)
+(Nemours Foundation)
+Nearsightedness (Myopia) (For Parents)
+(Nemours Foundation)
+(American Association for Pediatric Ophthalmology and Strabismus)
+Refractive Errors in Children
+(American Association for Pediatric Ophthalmology and Strabismus)
+Treatment of Increasing Myopia in Children
+(American Association for Pediatric Ophthalmology and Strabismus)
+(Nemours Foundation)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Corneal transplant - discharge
+Corneal transplant - series
+Refractive corneal surgery - discharge
+Refractive corneal surgery - what to ask your doctor
+Related Health Topics
+Vision Impairment and Blindness
+The primary NIH organization for research on
+Refractive Errors is the
+National Eye Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 1, 2025

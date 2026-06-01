@@ -1,0 +1,1835 @@
+[DISEASE: Alzheimersdisease]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/alzheimersdisease.html]
+Alzheimer's Disease | AD | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+What is Alzheimer's disease?
+Alzheimer's disease (AD) is the most common form of dementia among older people. Dementia is a brain disorder that seriously affects thinking and memory skills. If you have AD, it can impair your ability to reason or learn new skills until it becomes difficult to complete daily activities.
+AD begins slowly over many years. It first involves the parts of the brain that control thought, memory, and language. It may be mistaken for normal memory changes with aging. However, AD is not a normal part of aging. The brain changes from the disease lead to symptoms that get worse over time.
+What are the symptoms of Alzheimer's disease?
+People with AD may have trouble remembering recent events or the names of people they know. Behavior may vary from person to person and day to day. AD progresses in stages. Late-onset AD occurs in adults aged 65 and older, which is when most people develop the disease. Early-onset AD happens before age 65, which is not common.
+Some symptoms of AD can include:
+Getting lost in familiar places
+Repeating the same question
+Not recognizing family members
+Having trouble speaking, reading, or writing
+Not taking care of yourself, such as not bathing or eating poorly
+In AD, over time, symptoms get worse. Later on, people with AD may become anxious or aggressive or wander away from home. Eventually, they need total care. This can cause great stress for family members who must care for them.
+Who is more likely to develop Alzheimer's disease?
+Researchers don't fully understand what causes AD. Age is the biggest risk factor. Your risk is also higher if a family member has had the disease. Although people who develop Alzheimer's don't always have a history of the disease in their families.
+Researchers believe the causes of AD may be a combination of age-related changes in the brain, along with genetic, health, and lifestyle factors. Some medical conditions that are associated with a higher risk of AD include:
+Mild cognitive impairment
+Concussion or other traumatic brain injury (TBI)
+A related problem, mild cognitive impairment (MCI), causes more memory problems than normal for people of the same age. Many, but not all, people with MCI will develop AD.
+How is Alzheimer's disease diagnosed?
+Some health conditions can cause memory loss or symptoms like AD. Talk with your health care provider if you're having noticeable changes in your memory. To determine if your symptoms are related to AD and not normal aging or another health condition, your provider may:
+Review your medical history and any medicines you're taking
+Conduct tests to check your memory, thinking, and problem-solving skills
+Ask about changes in behavior or personality
+Do tests to rule out any medical or mental health conditions
+Refer you to a provider that specializes in caring for older adults
+Recommend a neurologist, a doctor who specializes in treating diseases of the brain and nervous system
+What are the treatments for Alzheimer's disease?
+No treatment can stop the disease. However, some medicines may help keep symptoms from getting worse for a limited time.
+Can Alzheimer's disease be prevented?
+You can't change some risk factors, like your age. But changing certain lifestyle factors may promote your brain health and help you live a healthier lifestyle overall. This can include to:
+Manage chronic health issues such as high blood pressure or hearing loss
+Get regular physical activity
+Quit smoking (or don't start)
+Develop strong social connections
+NIH: National Institute on Aging
+Alzheimer's and Dementia
+(National Institute on Aging)
+(National Institute of Neurological Disorders and Stroke)
+Alzheimer's Disease Fact Sheet
+(National Institute on Aging)
+What Is Alzheimer's Disease?
+(Department of Health and Human Services)
+What Is Alzheimer's Disease?
+(National Institute on Aging)
+10 Early Signs and Symptoms of Alzheimer's
+(Alzheimer's Association)
+What Are the Signs of Alzheimer's Disease?
+(National Institute on Aging)
+How is Alzheimer's Disease Diagnosed?
+(National Institute on Aging)
+Prevention and Risk Factors
+(Alzheimer's Association)
+Thinking About Your Risk for Alzheimer's Disease? Five Questions To Consider
+(National Institute on Aging)
+What Do We Know about Diet and Prevention of Alzheimer's Disease?
+(National Institute on Aging)
+Treatments and Therapies
+7 Things To Know About Dietary Supplements for Cognitive Function, Dementia, and Alzheimer's Disease
+(National Center for Complementary and Integrative Health)
+Alzheimer's Disease at a Glance
+(National Center for Complementary and Integrative Health)
+Alzheimer's Treatment
+(National Institute on Aging)
+How Is Alzheimer's Disease Treated?
+(National Institute on Aging)
+Treatments for Sleep Changes
+(Alzheimer's Association)
+Alzheimer's Caregivers: MedlinePlus Health Topic
+Coping with Agitation, Aggression, and Sundowning in Alzheimer's Disease
+(National Institute on Aging)
+Diet, Exercise, and Health
+(Fisher Center for Alzheimer's Research Foundation)
+Resources for People with Alzheimer's Disease and Related Dementias
+(National Institute on Aging)
+Stages and Behaviors
+(Alzheimer's Association)
+Sundowning: Late-Day Confusion
+(Mayo Foundation for Medical Education and Research)
+Tips for Caregivers: Helping People With Alzheimer's Disease Eat Well
+(National Institute on Aging)
+(Alzheimer's Association)
+Alzheimer's Disease in People with Down Syndrome
+(National Institute on Aging)
+(Alzheimer's Association)
+Alzheimer's Prevention: Does it Exist?
+(Mayo Foundation for Medical Education and Research)
+Brain Donation: A Gift for Future Generations
+(National Institute on Aging)
+Posterior Cortical Atrophy
+(Mayo Foundation for Medical Education and Research)
+Understanding Memory Loss: What To Do When You Have Trouble Remembering
+(National Institute on Aging)
+Urinary Incontinence in Older Adults
+(National Institute on Aging)
+What Causes Alzheimer's Disease?
+(National Institute on Aging)
+10 Frequently Asked Questions About Alzheimer's Disease
+(National Institute on Aging)
+Alzheimer's Caregiving: Coping With Hallucinations, Delusions, and Paranoia
+(National Institute on Aging)
+Alzheimer's Caregiving: Managing Personality and Behavior Changes
+(National Institute on Aging)
+Common Medical Problems in Alzheimer's Disease: Information for Caregivers
+(National Institute on Aging)
+Communicating With Someone Who Has Alzheimer's Disease
+(National Institute on Aging)
+Stages of Alzheimer's
+(Alzheimer's Association)
+Alzheimer disease: MedlinePlus Genetics
+Alzheimer's Disease Genetics Fact Sheet
+(National Institute on Aging)
+If My Parent Has Alzheimer's Disease, Will I Have It, Too?
+(National Institute on Aging)
+Videos and Tutorials
+(Medical Encyclopedia)
+How Alzheimer's Changes the Brain
+(National Institute on Aging)
+Statistics and Research
+Accurate Blood Test for Alzheimer's Disease
+Alzheimer's Disease Facts and Figures
+(Alzheimer's Association)
+(Alzheimer's Association)
+FastStats: Alzheimer's Disease
+(National Center for Health Statistics)
+Gene Expression Signatures of Alzheimer's Disease
+(National Institute on Aging)
+Research on Alzheimer's Disease and Related Dementias
+(Department of Health and Human Services)
+Scam Susceptibility May Signal Risk for Cognitive Decline
+(National Institute on Aging)
+Treatments and Research
+(Alzheimer's Association)
+ClinicalTrials.gov: Alzheimer Disease
+Find Clinical Trials
+(Department of Health and Human Services)
+Participating in Alzheimer's Disease and Related Dementias Research
+(National Institute on Aging)
+Article: Dulaglutide and neurodegeneration biomarkers: REWIND post hoc analysis.
+Article: A phase 2, randomized, multicenter, double-blind, placebo-controlled trial of S-adenosyl methionine...
+Article: Cognitive and Brain Reserve as Modifiers of Early Alzheimer Disease-Related Cognitive...
+Alzheimer's Disease -- see more articles
+Alzheimer's: Glossary
+(Alzheimer's Association)
+Brain Basics: The Life and Death of a Neuron
+(National Institute of Neurological Disorders and Stroke)
+Alzheimer's Association
+Alzheimer's Disease Research Centers: National Research Centers, Local Resources
+(Department of Health and Human Services)
+(Department of Health and Human Services)
+National Institute of Neurological Disorders and Stroke
+National Institute on Aging
+(Medical Encyclopedia)
+Alzheimer's Caregiving: Bathing, Dressing, and Grooming
+(National Institute on Aging)
+Changes in Intimacy and Sexuality in Alzheimer's Disease
+(National Institute on Aging)
+Communicating With Someone Who Has Alzheimer's Disease
+(National Institute on Aging)
+Helping Family and Friends Understand Alzheimer's Disease
+(National Institute on Aging)
+Mental status testing
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Dementia - home care
+Mental status testing
+Related Health Topics
+Alzheimer's Caregivers
+Mild Cognitive Impairment
+The primary NIH organization for research on
+Alzheimer's Disease is the
+National Institute on Aging
+Find health information in languages other than English on Alzheimer's Disease
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated March 12, 2025
+
+---
+
+[DISEASE: Parkinsonsdisease]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/parkinsonsdisease.html]
+Parkinson's Disease | PD | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Paralysis agitans, Shaking palsy
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+Parkinson's disease (PD) is a type of movement disorder. It happens when nerve cells in the brain don't produce enough of a brain chemical called dopamine. Sometimes it is genetic, but most cases do not seem to run in families. Exposure to chemicals in the environment might play a role.
+Symptoms begin gradually, often on one side of the body. Later they affect both sides. They include:
+Trembling of hands, arms, legs, jaw and face
+Stiffness of the arms, legs and trunk
+Slowness of movement
+Poor balance and coordination
+As symptoms get worse, people with the disease may have trouble walking, talking, or doing simple tasks. They may also have problems such as depression, sleep problems, or trouble chewing, swallowing, or speaking.
+There is no specific test for PD, so it can be difficult to diagnose. Doctors use a medical history and a neurological examination to diagnose it.
+PD usually begins around age 60, but it can start earlier. It is more common in men than in women. There is no cure for PD. A variety of medicines sometimes help symptoms dramatically. Surgery and deep brain stimulation (DBS) can help severe cases. With DBS, electrodes are surgically implanted in the brain. They send electrical pulses to stimulate the parts of the brain that control movement.
+NIH: National Institute of Neurological Disorders and Stroke
+(Mayo Foundation for Medical Education and Research)
+(National Institute of Neurological Disorders and Stroke)
+(Parkinson's Foundation)
+Non-Movement Symptoms
+(Parkinson's Foundation)
+Stages of Parkinson's
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Treatments and Therapies
+Deep Brain Stimulation (DBS)
+(National Institute of Neurological Disorders and Stroke)
+Over the Counter and Complementary Therapies
+(Parkinson's Foundation)
+Prescription Medications
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Activities of Daily Living
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Living with Parkinson's
+(Parkinson's Foundation)
+Management and Lifestyle
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Steps to Prepare for a Parkinson's Appointment
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Conditions that Mimic Parkinson's
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Parkinson's Disease Dementia
+(Alzheimer's Association)
+Related Conditions (Parkinson's Disease)
+(Parkinson's Foundation)
+(Parkinson's Foundation)
+Speech and Swallowing Issues
+(Parkinson's Foundation)
+Understanding Parkinsonism
+(Parkinson's Foundation)
+Young-Onset Parkinson's
+(Parkinson's Foundation)
+Dopamine transporter deficiency syndrome: MedlinePlus Genetics
+Parkinson's disease: MedlinePlus Genetics
+Videos and Tutorials
+(Medical Encyclopedia)
+PD Library: Videos and Webinars
+(Parkinson's Foundation)
+Statistics and Research
+Accelerating Medicines Partnership Launches Data Knowledge Portal for Parkinson's Disease
+(National Institute of Neurological Disorders and Stroke)
+Deep Brain Stimulation (DBS) for the Treatment of Parkinson's Disease and Other Movement Disorders
+(National Institute of Neurological Disorders and Stroke)
+Focus on Parkinson's Disease Research
+(National Institute of Neurological Disorders and Stroke)
+(National Institute of Environmental Health Sciences)
+Understanding Parkinson's: Statistics
+(Parkinson's Foundation)
+ClinicalTrials.gov: Parkinson Disease
+Article: Effect of a 3-week program of cane training and use on...
+Article: High-intensity respiratory muscle training improves maximal respiratory pressures, breathing endurance, dyspnoea...
+Article: High-definition transcranial direct current stimulation for depressive and other non-motor symptoms...
+Parkinson's Disease -- see more articles
+Brain Basics: The Life and Death of a Neuron
+(National Institute of Neurological Disorders and Stroke)
+Parkinson's Today Blog
+(Parkinson's Foundation)
+National Institute of Neurological Disorders and Stroke
+What Is Parkinson's Disease? (For Kids)
+(Nemours Foundation)
+Deep brain stimulation
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Secondary parkinsonism
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Brain surgery - discharge
+Deep brain stimulation
+Secondary parkinsonism
+Related Health Topics
+The primary NIH organization for research on
+Parkinson's Disease is the
+National Institute of Neurological Disorders and Stroke
+4 Discoveries Beyond the Brain
+Parkinson's Disease Explained
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated September 29, 2025
+
+---
+
+[DISEASE: Multiplesclerosis]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/multiplesclerosis.html]
+Multiple Sclerosis | MS | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+Multiple sclerosis (MS) is a nervous system disease that affects your brain and spinal cord. It damages the myelin sheath, the material that surrounds and protects your nerve cells. This damage slows down or blocks messages between your brain and your body, leading to the symptoms of MS. They can include:
+Trouble with coordination and balance
+Sensations such as numbness, prickling, or "pins and needles"
+Thinking and memory problems
+No one knows what causes MS. It may be an autoimmune disease, which happens when your immune system attacks healthy cells in your body by mistake. Multiple sclerosis affects women more than men. It often begins between the ages of 20 and 40. Usually, the disease is mild, but some people lose the ability to write, speak, or walk.
+There is no specific test for MS. Doctors use a medical history, physical exam, neurological exam, MRI, and other tests to diagnose it. There is no cure for MS, but medicines may slow it down and help control symptoms. Physical and occupational therapy may also help.
+NIH: National Institute of Neurological Disorders and Stroke
+(Mayo Foundation for Medical Education and Research)
+Multiple Sclerosis (MS)
+(National Institute of Neurological Disorders and Stroke)
+Symptoms of Multiple Sclerosis
+(Department of Veterans Affairs)
+Cerebrospinal Fluid (CSF) Analysis
+CSF Immunoglobulin G (IgG) Index
+CSF oligoclonal banding - series
+(Medical Encyclopedia)
+How Is Multiple Sclerosis Diagnosed?
+(National Multiple Sclerosis Society)
+Treatments and Therapies
+Disease-Modifying Therapies
+(National Multiple Sclerosis Society)
+Multiple Sclerosis and Complementary Health Approaches: What the Science Says
+(National Center for Complementary and Integrative Health)
+Supplements for Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Advanced Multiple Sclerosis Care Needs
+(National Multiple Sclerosis Society)
+Comprehensive Care Approach to MS
+(National Multiple Sclerosis Society)
+Diet and Nutrition for Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Dressing with Ease, Style, and Comfort
+Exercising with Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Financial Planning for Living with MS
+(National Multiple Sclerosis Society)
+Managing Multiple Sclerosis: Treatment Can Delay Future Attacks
+Mobility Aids: MedlinePlus Health Topic
+Rehabilitation and Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Resources for People with MS
+(National Multiple Sclerosis Society)
+Staying Mobile with Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Building Relationships and MS
+(National Multiple Sclerosis Society)
+But You Look So Good! (Common "Invisible" MS Symptoms)
+(National Multiple Sclerosis Society)
+Depression and Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Guide for Support Partners
+(National Multiple Sclerosis Society)
+How MS Affects the Black Community
+(National Multiple Sclerosis Society)
+(National Institute of Neurological Disorders and Stroke)
+Neuromyelitis Optica Spectrum Disorder
+(National Institute of Neurological Disorders and Stroke)
+Primary Progressive Multiple Sclerosis (PPMS)
+(National Multiple Sclerosis Society)
+Relapsing-Remitting Multiple Sclerosis (RRMS)
+(National Multiple Sclerosis Society)
+Secondary Progressive Multiple Sclerosis (SPMS)
+(National Multiple Sclerosis Society)
+Multiple sclerosis: MedlinePlus Genetics
+Videos and Tutorials
+Multiple Sclerosis and Me
+(Department of Veterans Affairs)
+Statistics and Research
+Research News and Progress
+(National Multiple Sclerosis Society)
+Vitamin D and MS: Is There Any Connection?
+(Mayo Foundation for Medical Education and Research)
+ClinicalTrials.gov: Multiple Sclerosis
+Article: A pilot randomized controlled trial of neuromodulation-augmented balance training in people...
+Article: Reducing frailty in frail people with multiple sclerosis: Feasibility of a...
+Article: Randomized controlled trial of a remotely-delivered exercise training program in older...
+Multiple Sclerosis -- see more articles
+Glossary of Neurological Terms: Spasticity
+(National Institute of Neurological Disorders and Stroke)
+National Institute of Neurological Disorders and Stroke
+National Multiple Sclerosis Society
+Multiple Sclerosis (For Parents)
+(Nemours Foundation)
+Pediatric Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Family Planning and Pregnancy with Multiple Sclerosis
+(National Multiple Sclerosis Society)
+Cerebral spinal fluid (CSF) collection
+(Medical Encyclopedia)
+CSF oligoclonal banding
+(Medical Encyclopedia)
+Daily bowel care program
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Multiple sclerosis - discharge
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+BAER - brainstem auditory evoked response
+Cerebral spinal fluid (CSF) collection
+CSF myelin basic protein
+CSF oligoclonal banding
+CSF oligoclonal banding - series
+Daily bowel care program
+Multiple sclerosis - discharge
+The primary NIH organization for research on
+Multiple Sclerosis is the
+National Institute of Neurological Disorders and Stroke
+CNN's John King Isn't Letting Multiple Sclerosis Slow Him Down
+Multiple Sclerosis: What You Need to Know
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 18, 2026
+
+---
+
+[DISEASE: Epilepsy]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/epilepsy.html]
+Epilepsy | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Statistics and Research
+Epilepsy is a brain disorder that causes people to have recurring seizures. The seizures happen when clusters of nerve cells, or neurons, in the brain send out the wrong signals. People may have strange sensations and emotions or behave strangely. They may have violent muscle spasms or lose consciousness.
+Epilepsy has many possible causes, including illness, brain injury, and abnormal brain development. In many cases, the cause is unknown.
+Doctors use brain scans and other tests to diagnose epilepsy. It is important to start treatment right away. There is no cure for epilepsy, but medicines can control seizures for most people. When medicines are not working well, surgery or implanted devices such as vagus nerve stimulators may help. Special diets can help some children with epilepsy.
+NIH: National Institute of Neurological Disorders and Stroke
+Epilepsy - Symptoms, Causes, Treatments and More
+(Department of Veterans Affairs)
+Epilepsy and Seizures
+(National Institute of Neurological Disorders and Stroke)
+EEG (Electroencephalogram)
+(Mayo Foundation for Medical Education and Research)
+Functional MRI (fMRI)
+(American College of Radiology; Radiological Society of North America)
+Head CT (Computed Tomography, CAT Scan)
+(American College of Radiology; Radiological Society of North America)
+Pharmacogenetic Tests
+Treatments and Therapies
+(Nemours Foundation)
+(Mayo Foundation for Medical Education and Research)
+First Aid for Seizures
+(Centers for Disease Control and Prevention)
+Suicide Warnings on Medications
+(American Association of Psychiatric Pharmacists)
+Vagus Nerve Stimulation
+(Mayo Foundation for Medical Education and Research)
+(Centers for Disease Control and Prevention)
+(Epilepsy Foundation)
+Employees with Epilepsy/Seizure Disorder
+(Office of Disability Employment Policy)
+Sudden unexpected death in epilepsy
+(Centers for Disease Control and Prevention)
+(National Institute of Neurological Disorders and Stroke)
+Lennox-Gastaut Syndrome
+(National Institute of Neurological Disorders and Stroke)
+Autosomal dominant epilepsy with auditory features: MedlinePlus Genetics
+Autosomal dominant sleep-related hypermotor epilepsy: MedlinePlus Genetics
+Benign familial neonatal seizures: MedlinePlus Genetics
+CDKL5 deficiency disorder: MedlinePlus Genetics
+CHD2 myoclonic encephalopathy: MedlinePlus Genetics
+Childhood absence epilepsy: MedlinePlus Genetics
+CLN8 disease: MedlinePlus Genetics
+Developmental and epileptic encephalopathy 1: MedlinePlus Genetics
+Epilepsy of infancy with migrating focal seizures: MedlinePlus Genetics
+Epilepsy-aphasia spectrum: MedlinePlus Genetics
+Genetic epilepsy with febrile seizures plus: MedlinePlus Genetics
+GM3 synthase deficiency: MedlinePlus Genetics
+Juvenile myoclonic epilepsy: MedlinePlus Genetics
+Lafora progressive myoclonus epilepsy: MedlinePlus Genetics
+Lennox-Gastaut syndrome: MedlinePlus Genetics
+Myoclonic epilepsy with ragged-red fibers: MedlinePlus Genetics
+PRICKLE1-related progressive myoclonus epilepsy with ataxia: MedlinePlus Genetics
+Progressive myoclonic epilepsy type 1: MedlinePlus Genetics
+Pyridoxine-dependent epilepsy: MedlinePlus Genetics
+Ring chromosome 14 syndrome: MedlinePlus Genetics
+Ring chromosome 20 syndrome: MedlinePlus Genetics
+Spinal muscular atrophy with progressive myoclonic epilepsy: MedlinePlus Genetics
+STXBP1 encephalopathy: MedlinePlus Genetics
+(Medical Encyclopedia)
+Statistics and Research
+Curing the Epilepsies: The Promise of Research
+(National Institute of Neurological Disorders and Stroke)
+Epilepsy Facts and Stats
+(Centers for Disease Control and Prevention)
+ClinicalTrials.gov: Epilepsy
+Article: Progressive Muscle Relaxation Therapy in Epilepsy Management: Its Influence on Stress,...
+Article: Seizure-free days as a clinical outcome measure of reduced epilepsy burden:...
+Article: Prevalence of neurocysticercosis and its characteristics among people with epileptic seizures...
+Epilepsy -- see more articles
+(American Epilepsy Society)
+National Institute of Neurological Disorders and Stroke
+(Nemours Foundation)
+Infantile Spasms: Symptoms, Causes and Treatment
+(American Academy of Pediatrics)
+Vagus Nerve Stimulator Therapy for Epilepsy (For Parents)
+(Nemours Foundation)
+(Nemours Foundation)
+Epilepsy and Pregnancy: What You Need to Know
+(Mayo Foundation for Medical Education and Research)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Epilepsy in children
+(Medical Encyclopedia)
+Epilepsy in children - discharge
+(Medical Encyclopedia)
+Epilepsy or seizures - discharge
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Brain surgery - discharge
+Epilepsy in adults - what to ask your doctor
+Epilepsy in children
+Epilepsy in children - discharge
+Epilepsy in children - what to ask your doctor
+Epilepsy or seizures - discharge
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+Fashion Icon Camila Coelho Gets Real About Epilepsy Diagnosis
+How to Help Someone Who Is Having a Seizure
+One Family's Journey to Find Epilepsy Answers
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 9, 2026
+
+---
+
+[DISEASE: Migraine]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/migraine.html]
+Migraine | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Statistics and Research
+Migraines are a recurring type of headache. They cause moderate to severe pain that is throbbing or pulsing. The pain is often on one side of your head. You may also have other symptoms, such as nausea and weakness. You may be sensitive to light and sound.
+What causes migraines?
+Researchers believe that migraine has a genetic cause. There are also a number of factors that can trigger a migraine. These factors vary from person to person, and they include:
+Hormonal changes in women
+Bright or flashing lights
+Too much or not enough sleep
+Sudden changes in weather or environment
+Overexertion (too much physical activity)
+Caffeine or caffeine withdrawal
+Medication overuse (taking medicine for migraines too often)
+Some people have found that certain foods or ingredients can trigger headaches, especially when they are combined with other triggers. These foods and ingredients include:
+Monosodium glutamate (MSG)
+Some fruits and nuts
+Fermented or pickled goods
+Cured or processed meats
+Who is at risk for migraines?
+About 12% of Americans get migraines. They can affect anyone, but you are more likely to have them if you:
+Are a woman. Women are three times more likely than men to get migraines.
+Have a family history of migraines. Most people with migraines have family members who have migraines.
+Have other medical conditions, such as depression, anxiety, bipolar disorder, sleep disorders, and epilepsy.
+What are the symptoms of migraines?
+There are four different phases of migraines. You may not always go through every phase each time you have a migraine.:
+Prodome. This phase starts up to 24 hours before you get the migraine. You have early signs and symptoms, such as food cravings, unexplained mood changes, uncontrollable yawning, fluid retention, and increased urination.
+Aura. If you have this phase, you might see flashing or bright lights or zig-zag lines. You may have muscle weakness or feel like you are being touched or grabbed. An aura can happen just before or during a migraine.
+Headache. A migraine usually starts gradually and then becomes more severe. It typically causes throbbing or pulsing pain, which is often on one side of your head. But sometimes you can have a migraine without a headache. Other migraine symptoms may include
+Increased sensitivity to light, noise, and odors
+Worsened pain when you move, cough, or sneeze
+Postdrome (following the headache). You may feel exhausted, weak, and confused after a migraine. This can last up to a day.
+Migraines are more common in the morning; people often wake up with them. Some people have migraines at predictable times, such as before menstruation or on weekends following a stressful week of work.
+How are migraines diagnosed?
+To make a diagnosis, your health care provider will:
+Take your medical history
+Ask about your symptoms
+Do a physical and neurological exam
+An important part of diagnosing migraines is to rule out other medical conditions which could be causing the symptoms. So you may also have blood tests, an MRI or CT scan, or other tests.
+How are migraines treated?
+There is no cure for migraines. Treatment focuses on relieving symptoms and preventing additional attacks.
+There are different types of medicines to relieve symptoms. They include triptan drugs, ergotamine drugs, and pain relievers. The sooner you take the medicine, the more effective it is.
+There are also other things you can do to feel better:
+Resting with your eyes closed in a quiet, darkened room
+Placing a cool cloth or ice pack on your forehead
+There are some lifestyle changes you can make to prevent migraines:
+Stress management strategies, such as exercise, relaxation techniques, and biofeedback, may reduce the number and severity of migraines. Biofeedback uses electronic devices to teach you to control certain body functions, such as your heartbeat, blood pressure, and muscle tension.
+Make a log of what seems to trigger your migraines. You can learn what you need to avoid, such as certain foods and medicines. It also help you figure out what you should do, such as establishing a consistent sleep schedule and eating regular meals.
+Hormone therapy may help some women whose migraines seem to be linked to their menstrual cycle
+If you have obesity, losing weight may also be helpful
+If you have frequent or severe migraines, you may need to take medicines to prevent further attacks. Talk with your health care provider about which drug would be right for you.
+Certain natural treatments, such as riboflavin (vitamin B2) and coenzyme Q10, may help prevent migraines. If your magnesium level is low, you can try taking magnesium. There is also an herb, butterbur, which some people take to prevent migraines. But butterbur may not be safe for long-term use. Always check with your health care provider before taking any supplements.
+NIH: National Institute of Neurological Disorders and Stroke
+(National Institute of Neurological Disorders and Stroke)
+(Mayo Foundation for Medical Education and Research)
+(National Institute of Neurological Disorders and Stroke)
+Do I Need an MRI for My Migraine?
+(American Migraine Foundation)
+(National Headache Foundation)
+How to Know If You Have Migraine or Sinus Headache
+(American Migraine Foundation)
+Visual Disturbances: Related to Migraine or Not?
+(American Migraine Foundation)
+When to Go to the Emergency Room for a Headache or Migraine
+(American Migraine Foundation)
+Treatments and Therapies
+Acute Therapy: Why Not Over-The-Counter or Other Nonspecific Options?
+(American Migraine Foundation)
+(National Center for Complementary and Integrative Health)
+Chronic Pain and Complementary Health Approaches
+(National Center for Complementary and Integrative Health)
+Commonly Used Acute Migraine Treatments
+(American Migraine Foundation)
+(National Center for Complementary and Integrative Health)
+Headaches: What You Need to Know
+(National Center for Complementary and Integrative Health)
+Relaxation Techniques: What You Need to Know
+(National Center for Complementary and Integrative Health)
+Tips for Starting Yoga in Adults with Migraines
+(American Migraine Foundation)
+Treating Migraines: Ways to Fight the Pain with Medication
+(Food and Drug Administration)
+Diet and Headache Control
+(American Migraine Foundation)
+Headache Hygiene -- What Is It?
+(American Migraine Foundation)
+Low-Tyramine Diet for Individuals with Headache or Migraine
+(National Headache Foundation)
+Migraines: Simple Steps to Head Off the Pain
+(Mayo Foundation for Medical Education and Research)
+Abuse, Maltreatment and PTSD and Their Relationship to Migraine
+(American Migraine Foundation)
+Alcohol and Migraine
+(American Migraine Foundation)
+Caffeine and Migraine
+(American Migraine Foundation)
+Link Between Migraine, Depression and Anxiety
+(American Migraine Foundation)
+Migraine and Common Comorbidities
+(American Migraine Foundation)
+Migraine Medications and Antidepressants: A Risky Mix?
+(Mayo Foundation for Medical Education and Research)
+Migraines and Gastrointestinal Problems: Is There a Link?
+(Mayo Foundation for Medical Education and Research)
+Migraines: Are They Triggered by Weather Changes?
+(Mayo Foundation for Medical Education and Research)
+(American Migraine Foundation)
+What Is Allodynia: Causes, Symptoms and Treatments
+(American Migraine Foundation)
+What to Know about Allodynia
+(American Migraine Foundation)
+(Nemours Foundation)
+- In English and Spanish
+(Mayo Foundation for Medical Education and Research)
+Ocular Migraine: When to Seek Help
+(Mayo Foundation for Medical Education and Research)
+Cyclic vomiting syndrome: MedlinePlus Genetics
+Familial hemiplegic migraine: MedlinePlus Genetics
+Migraine: MedlinePlus Genetics
+Sporadic hemiplegic migraine: MedlinePlus Genetics
+Statistics and Research
+How Aura May Trigger Migraine Pain
+ClinicalTrials.gov: Migraine Disorders
+Article: Effects of vagal nerve stimulation on pain frequency and intensity in...
+Article: Eptinezumab With Patient Education for Chronic Migraine and Medication-Overuse Headache: The...
+Article: Lacosamide Versus Propranolol in Episodic Migraine, a Randomized Controlled Double-blinded Trial.
+Migraine -- see more articles
+Find a Migraine and Headache Specialist
+(American Migraine Foundation)
+National Institute of Neurological Disorders and Stroke
+Migraine Variants in Children
+(American Migraine Foundation)
+(Nemours Foundation)
+(Department of Health and Human Services, Office on Women's Health)
+Managing migraines at home
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Managing migraines at home
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+10 Common Migraine Triggers and How to Cope with Them
+Helping Friends and Family Understand Migraines
+Kristin Chenoweth Wants to Put Migraine Awareness Center Stage
+Migraine Studies Look at Impact of Lifestyle Changes
+Migraine: What You Need to Know
+Not All Headaches Are the Same
+When Migraine Turns Chronic
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 20, 2025
+
+---
+
+[DISEASE: Meningitis]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/meningitis.html]
+Meningitis | Spinal Meningitis | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Spinal meningitis
+Prevention and Risk Factors
+Meningitis is inflammation of the thin tissue that surrounds the brain and spinal cord, called the meninges. There are several types of meningitis. The most common is viral meningitis. You get it when a virus enters the body through the nose or mouth and travels to the brain. Bacterial meningitis is rare but can be deadly. It usually starts with bacteria that cause a cold-like infection. It can cause stroke, hearing loss, and brain damage. It can also harm other organs. Pneumococcal infections and meningococcal infections are the most common causes of bacterial meningitis.
+Anyone can get meningitis, but it is more common in people with weak immune systems. Meningitis can get serious very quickly. You should get medical care right away if you have:
+Early treatment can help prevent serious problems, including death. Tests to diagnose meningitis include blood tests, imaging tests, and a spinal tap to test cerebrospinal fluid. Antibiotics can treat bacterial meningitis. Antiviral medicines may help some types of viral meningitis. Other medicines can help treat symptoms.
+There are vaccines to prevent some of the bacterial infections that cause meningitis.
+NIH: National Institute of Neurological Disorders and Stroke
+Inflamed Brain: Recognizing Encephalitis and Meningitis
+(National Institute of Neurological Disorders and Stroke)
+Bacteria Culture Test
+Cerebrospinal Fluid (CSF) Analysis
+Meningococcal Disease Tests
+Spinal Tap (Lumbar Puncture)
+(Nemours Foundation)
+Ultrasound: Head (For Parents)
+(Nemours Foundation)
+Prevention and Risk Factors
+Haemophilus Influenzae Type b (Hib) Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Meningococcal ACWY Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Pneumococcal Conjugate Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Pneumococcal Polysaccharide Vaccine (PPSV23): What You Need to Know
+(Centers for Disease Control and Prevention)
+(National Institute of Neurological Disorders and Stroke)
+Travelers' Health: Meningococcal Disease
+(Centers for Disease Control and Prevention)
+About Bacterial Meningitis
+(Centers for Disease Control and Prevention)
+About Fungal Meningitis
+(Centers for Disease Control and Prevention)
+About Parasitic Meningitis
+(Centers for Disease Control and Prevention)
+About Viral Meningitis
+(Centers for Disease Control and Prevention)
+(National Institute of Neurological Disorders and Stroke)
+(World Health Organization)
+Subacute and Chronic Meningitis
+ClinicalTrials.gov: Meningitis
+ClinicalTrials.gov: Meningitis, Aseptic
+Article: Meningitis Mortality in U.S. Adults Aged ≥25 Years: Demographic and Geographic...
+Article: Outcomes of acute meningitis according to immunosuppression status: 15-year retrospective cohort.
+Article: Evaluation of the Ultima Genomics UG 100 sequencer for low-cost, high-sensitivity...
+Meningitis -- see more articles
+National Institute of Allergy and Infectious Diseases
+National Institute of Neurological Disorders and Stroke
+Meningitis (For Parents)
+(Nemours Foundation)
+Vaccines and Cochlear Implants
+(Nemours Foundation)
+(Nemours Foundation)
+Meningococcal Vaccines and Pregnancy
+(Organization of Teratology Information Specialists)
+Cerebral spinal fluid (CSF) collection
+(Medical Encyclopedia)
+Cerebrospinal fluid culture
+(Medical Encyclopedia)
+Gram-negative meningitis
+(Medical Encyclopedia)
+H influenzae meningitis
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Meningitis - cryptococcal
+(Medical Encyclopedia)
+Meningococcal ACWY Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Pneumococcal Conjugate Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Pneumococcal Polysaccharide Vaccine (PPSV23): What You Need to Know
+(Centers for Disease Control and Prevention)
+MEDICAL ENCYCLOPEDIA
+Cerebral spinal fluid (CSF) collection
+Cerebrospinal fluid culture
+Gram-negative meningitis
+H influenzae meningitis
+Meningitis - cryptococcal
+Meningitis - tuberculous
+Meningococcal meningitis
+Pneumococcal meningitis
+Staphylococcal meningitis
+Syphilitic aseptic meningitis
+Waterhouse-Friderichsen syndrome
+Related Health Topics
+Haemophilus Infections
+Meningococcal Disease
+Pneumococcal Infections
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+Find health information in languages other than English on Meningitis
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 23, 2025
+
+---
+
+[DISEASE: Encephalitis]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/encephalitis.html]
+Encephalitis | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What is encephalitis?
+Encephalitis is inflammation (swelling) of the brain. It can happen when an infection or medical condition that affects the brain activates your immune system. The inflammation can cause a wide range of symptoms. In extreme cases, it can lead to brain damage, stroke, or even death.
+What causes encephalitis?
+There are different types of encephalitis, based on what the cause is. The two main types are infectious encephalitis and autoimmune encephalitis.
+Infectious encephalitis is usually caused by a virus. In fact, viruses are the most common cause of encephalitis. Some of the different viruses that cause it include:
+Herpes viruses, including herpes simplex (HSV), the Epstein-Barr virus (which causes infectious mononucleosis) and the varicella-zoster virus (which causes chickenpox).
+Viruses you can get if you are bitten by an infected tick, such as tick-borne encephalitis (TBE virus) and Powassan virus.
+Viruses you can get if you are bitten by an infected mosquito, such as eastern equine encephalitis virus, West Nile virus, and La Crosse virus.
+Enteroviruses, which are a common group of viruses that mostly cause mild illness or respiratory infection. These infections usually happen in the summer and fall.
+Bacteria, fungi, and parasites can also cause infectious encephalitis. But this is not common.
+Autoimmune encephalitis happens when your immune system mistakenly attacks healthy brain cells. It can be triggered by conditions such as certain cancers, benign tumors, and infections. Sometimes the cause is not known.
+Who is more likely to get encephalitis?
+Anyone can get encephalitis, but you are more likely to get it if you:
+Have a weakened immune system, for example from having HIV or taking certain medicines. These could include medicines taken after an organ transplant, certain chemotherapy medicines, and specialized treatments for certain autoimmune diseases.
+Are a young child or older adult.
+Live in areas where there are ticks and mosquitoes that carry viruses that can cause encephalitis.
+What are the symptoms of encephalitis?
+The symptoms of encephalitis can vary a lot, depending on how severe it is. Many people do not have any symptoms. Others may have mild flu-like symptoms such as fever, fatigue, headache, or body aches. If encephalitis becomes more serious, it can cause:
+Partial paralysis in your arms and legs
+Encephalitis can be dangerous in infants. Their symptoms may include:
+Lethargy (weakness or drowsiness)
+Unusual irritability or crying
+A full or bulging fontanel (the soft spot on the top of the head)
+If you or your child is having symptoms of encephalitis, it's important to get medical care right away.
+How is encephalitis diagnosed?
+To find out if you have encephalitis, your health care provider:
+Will do a physical exam
+Will take your medical history, which includes asking about your symptoms
+May do a neurologic exam
+May order imaging tests, such as a brain CT scan or MRI
+May order an EEG (electroencephalography), which use small electric sensors to measure your brain activity
+May order blood and cerebrospinal fluid (CSF) tests
+What are the treatments for encephalitis?
+Most people with encephalitis will need treatment in the hospital. Depending on the cause, treatments may include antiviral medicines, antibiotics, corticosteroids, and other medicines.
+For some types of encephalitis, there is no medicine to treat it. But rest, nutrition, and fluids can help your body fight the infection and relieve symptoms.
+Some people may need physical, speech, and occupational therapy once the illness is under control.
+Can encephalitis be prevented?
+There are steps you can take to help prevent encephalitis that is caused by infections:
+Use good hygiene, including washing your hands often with soap and water.
+Don't share food, drinks, utensils, and glasses with other people.
+Get vaccines for viruses that can cause encephalitis.
+Avoid mosquito and tick bites, for example by:
+Wearing insect repellent with DEET or another U.S. Environmental Protection Agency (EPA)-registered insect repellent. Make sure to follow the instructions for using the repellant.
+Wearing clothes that cover your arms, legs and feet.
+Treating your clothing and gear with products containing 0.5% permethrin before you go in grassy or woody areas.
+NIH: National Institute of Neurological Disorders and Stroke
+(National Institute of Neurological Disorders and Stroke)
+Inflamed Brain: Recognizing Encephalitis and Meningitis
+Cerebrospinal Fluid (CSF) Analysis
+EEG (Electroencephalogram)
+(Mayo Foundation for Medical Education and Research)
+Functional MRI (fMRI)
+(American College of Radiology; Radiological Society of North America)
+Head CT (Computed Tomography, CAT Scan)
+(American College of Radiology; Radiological Society of North America)
+Prevention and Risk Factors
+Preventing Eastern Equine Encephalitis
+(Centers for Disease Control and Prevention)
+Treatments and Therapies
+Eastern Equine Encephalitis: Symptoms, Diagnosis, and Treatment
+(Centers for Disease Control and Prevention)
+About Eastern Equine Encephalitis
+(Centers for Disease Control and Prevention)
+About Japanese Encephalitis
+(Centers for Disease Control and Prevention)
+About St. Louis Encephalitis
+(Centers for Disease Control and Prevention)
+About Tick-Borne Encephalitis
+(Centers for Disease Control and Prevention)
+Eastern Equine Encephalitis: Causes and How It Spreads
+(Centers for Disease Control and Prevention)
+Statistics and Research
+Data and Maps for Eastern Equine Encephalitis
+(Centers for Disease Control and Prevention)
+ClinicalTrials.gov: Encephalitis
+Article: HLA genotyping and clinical characteristics of early-onset and late-onset anti-LGI1 encephalitis:...
+Article: Neuroleptospirosis in patients presenting with primary central nervous system infection: A...
+Article: Alternative diagnoses in patients referred to neuroimmunology for autoimmune encephalitis evaluation.
+Encephalitis -- see more articles
+Centers for Disease Control and Prevention
+National Institute of Neurological Disorders and Stroke
+(Nemours Foundation)
+Cerebral spinal fluid (CSF) collection
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Japanese Encephalitis Vaccine: What You Need to Know
+(Centers for Disease Control and Prevention)
+Subacute sclerosing panencephalitis
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Cerebral spinal fluid (CSF) collection
+Subacute sclerosing panencephalitis
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+Find health information in languages other than English on Encephalitis
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated September 6, 2024
+
+---
+
+[DISEASE: Braintumors]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/braintumors.html]
+Brain Tumor | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+A brain tumor is a growth of abnormal cells in the tissues of the brain. Brain tumors can be benign, with no cancer cells, or malignant, with cancer cells that grow quickly. Some are primary brain tumors, which start in the brain. Others are metastatic, and they start somewhere else in the body and move to the brain.
+Brain tumors can cause many symptoms. Some of the most common are:
+Headaches, often in the morning
+Changes in your ability to talk, hear, or see
+Problems with balance or walking
+Problems with thinking or memory
+Feeling weak or sleepy
+Changes in your mood or behavior
+Doctors diagnose brain tumors by doing a neurologic exam and tests including an MRI, CT scan, and biopsy. Treatment options include watchful waiting, surgery, radiation therapy, chemotherapy, and targeted therapy. Targeted therapy uses drugs or other substances that attack cancer cells with less harm to normal cells. Many people get a combination of treatments.
+NIH: National Cancer Institute
+Adult Central Nervous System Tumors Treatment
+(National Cancer Institute)
+Brain and Spinal Cord Tumors
+(National Institute of Neurological Disorders and Stroke)
+Types of Brain and Spinal Cord Tumors in Adults
+(American Cancer Society)
+Brain Tumors Signs & Symptoms
+(National Brain Tumor Society)
+Signs and Symptoms (of a Brain Tumor)
+(American Brain Tumor Association)
+Spotlight on Brain Tumors: Do You Know the Symptoms?
+Adult Brain Tumor Early Detection, Diagnosis, and Testing
+(American Cancer Society)
+(Mayo Foundation for Medical Education and Research)
+Brain MRI (Head MRI)
+(American College of Radiology; Radiological Society of North America)
+Cerebrospinal Fluid (CSF) Analysis
+Functional MRI (fMRI)
+(American College of Radiology; Radiological Society of North America)
+Head CT (Computed Tomography, CAT Scan)
+(American College of Radiology; Radiological Society of North America)
+Newly Diagnosed (Brain Tumor)
+(American Brain Tumor Association)
+Prevention and Risk Factors
+Adult Brain Tumor Causes, Risk Factors, and Prevention
+(American Cancer Society)
+Treatments and Therapies
+Assisted Care Options
+(American Brain Tumor Association)
+Drugs Approved for Brain Tumors
+(National Cancer Institute)
+End of Life Care (Brain Tumors)
+(American Brain Tumor Association)
+(American Brain Tumor Association)
+Brain Tumor Support Groups
+(American Brain Tumor Association)
+- In English and Spanish
+Electromagnetic Fields and Cancer
+(National Cancer Institute)
+Recurrence (of Brain Tumors)
+(American Brain Tumor Association)
+(National Brain Tumor Society)
+(Mayo Foundation for Medical Education and Research)
+Primary Brain Tumors
+(American Brain Tumor Association)
+Constitutional mismatch repair deficiency syndrome: MedlinePlus Genetics
+Encephalocraniocutaneous lipomatosis: MedlinePlus Genetics
+(Medical Encyclopedia)
+Videos and Tutorials
+(Medical Encyclopedia)
+Statistics and Research
+Advances in Brain and Spinal Cord Tumor Research
+(National Cancer Institute)
+Cancer Stat Facts: Brain and Other Nervous System Cancer
+(National Cancer Institute)
+Cell Phones and Cancer Risk
+(National Cancer Institute)
+Liquid Biopsy Detects Brain Cancer and Early-Stage Kidney Cancer
+(National Cancer Institute)
+ClinicalTrials.gov: Brain Neoplasms
+ClinicalTrials.gov: Glioma
+ClinicalTrials.gov: Meningioma
+Article: L-RNA aptamer-based CXCL12 inhibition combined with radiotherapy and bevacizumab in newly-diagnosed...
+Article: Vebreltinib for Previously Treated Astrocytoma, IDH-Mutant, Grade 4, and Glioblastoma, IDH...
+Article: Seizure prophylaxis in glioma surgery: a synopsis from the SPRING RCT.
+Brain Tumors -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Neuro-Oncology Branch
+(National Cancer Institute; National Institute of Neurological Disorders and Stroke)
+Childhood Brain Tumors: MedlinePlus Health Topic
+(Medical Encyclopedia)
+Brain surgery - discharge
+(Medical Encyclopedia)
+Brain tumor - primary -- adults
+(Medical Encyclopedia)
+Metastatic brain tumor
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Brain radiation - discharge
+Brain surgery - discharge
+Brain tumor - primary -- adults
+Cerebral spinal fluid (CSF) collection
+Metastatic brain tumor
+Posterior fossa tumor
+Primary lymphoma of the brain
+Stereotactic radiosurgery - discharge
+Stereotactic radiosurgery - Gamma Knife
+Related Health Topics
+Childhood Brain Tumors
+The primary NIH organization for research on
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 6, 2026
+
+---
+
+[DISEASE: Amyotrophiclateralsclerosis]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/amyotrophiclateralsclerosis.html]
+Amyotrophic Lateral Sclerosis | ALS | Lou Gehrig's disease | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Amyotrophic Lateral Sclerosis
+Amyotrophic Lateral Sclerosis
+Also called: ALS, Lou Gehrig's disease
+Prevention and Risk Factors
+Statistics and Research
+Amyotrophic lateral sclerosis (ALS) is a nervous system disease that attacks nerve cells called neurons in your brain and spinal cord. These neurons transmit messages from your brain and spinal cord to your voluntary muscles - the ones you can control, like in your arms and legs. At first, this causes mild muscle problems. Some people notice:
+Trouble walking or running
+Eventually, you lose your strength and cannot move. When muscles in your chest fail, you cannot breathe. A breathing machine can help, but most people with ALS die from respiratory failure.
+The disease usually strikes between age 40 and 60. More men than women get it. No one knows what causes ALS. It can run in families, but usually it strikes at random. There is no cure. Medicines can relieve symptoms and, sometimes, prolong survival.
+NIH: National Institute of Neurological Disorders and Stroke
+Amyotrophic Lateral Sclerosis
+(Mayo Foundation for Medical Education and Research)
+Amyotrophic Lateral Sclerosis (ALS)
+(National Institute of Neurological Disorders and Stroke)
+ALS Symptoms and Diagnosis
+(Muscular Dystrophy Association)
+(Muscular Dystrophy Association)
+Electromyography (EMG) and Nerve Conduction Studies
+Prevention and Risk Factors
+Breathing Difficulties
+Daily Activities Made Easier for People with ALS
+Medical Management of ALS
+(Muscular Dystrophy Association)
+MDA Resources for Caregivers
+(Muscular Dystrophy Association)
+Military Veterans with ALS
+Oral Care for People Living with ALS
+Amyotrophic lateral sclerosis: MedlinePlus Genetics
+Genetic Testing for ALS
+Statistics and Research
+National Amyotrophic Lateral Sclerosis (ALS) Registry
+(Centers for Disease Control and Prevention)
+ClinicalTrials.gov: Amyotrophic Lateral Sclerosis
+Article: Identification of tofersen PD-response biomarkers in VALOR clinical trial CSF via...
+Article: Long-Term Tofersen in SOD1 Amyotrophic Lateral Sclerosis.
+Article: Generalizability of Edaravone Efficacy.
+Amyotrophic Lateral Sclerosis -- see more articles
+National Institute of Neurological Disorders and Stroke
+What Is Lou Gehrig's Disease (ALS)
+(Nemours Foundation)
+Amyotrophic lateral sclerosis (ALS)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Amyotrophic lateral sclerosis (ALS)
+The primary NIH organization for research on
+Amyotrophic Lateral Sclerosis is the
+National Institute of Neurological Disorders and Stroke
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated August 23, 2024
+
+---
+
+[DISEASE: Huntingtonsdisease]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/huntingtonsdisease.html]
+Huntington's Disease | HD | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Huntington's Disease
+Huntington's Disease
+Also called: HD, Huntington's chorea
+Huntington's disease (HD) is an inherited disease that causes certain nerve cells in the brain to waste away. People are born with the defective gene, but symptoms usually don't appear until middle age. Early symptoms of HD may include uncontrolled movements, clumsiness, and balance problems. Later, HD can take away the ability to walk, talk, and swallow. Some people stop recognizing family members. Others are aware of their environment and are able to express emotions.
+If one of your parents has Huntington's disease, you have a 50% chance of getting it. A blood test can tell you if have the HD gene and will develop the disease. Genetic counseling can help you weigh the risks and benefits of taking the test.
+There is no cure. Medicines can help manage some of the symptoms, but cannot slow down or stop the disease.
+NIH: National Institute of Neurological Disorders and Stroke
+Huntington's Disease
+(National Institute of Neurological Disorders and Stroke)
+Overview of Huntington's Disease
+(Huntington's Disease Society of America)
+Huntington's Disease (HD): Genetic Testing and Family Planning
+(Huntington's Disease Society of America)
+(Genetic and Rare Diseases Information Center)
+(Huntington's Disease Society of America)
+About Huntington's Disease
+(National Human Genome Research Institute)
+Huntington's disease-like: MedlinePlus Genetics
+Huntington's disease: MedlinePlus Genetics
+ClinicalTrials.gov: Huntington Disease
+Article: Usefulness of C. elegans Models of Alzheimer's and Huntington's Disease to...
+Article: Pain processing and pain assessment in Huntington's disease: Study protocol of...
+Article: Profiles of patients at early stages of Huntington's disease based on...
+Huntington's Disease -- see more articles
+Brain Basics: The Life and Death of a Neuron
+(National Institute of Neurological Disorders and Stroke)
+Huntington's Disease Society of America
+National Institute of Neurological Disorders and Stroke
+(Huntington's Disease Society of America)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+Degenerative Nerve Diseases
+The primary NIH organization for research on
+Huntington's Disease is the
+National Institute of Neurological Disorders and Stroke
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 18, 2025
+
+---
+
+[DISEASE: Guillainbarresyndrome]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/guillainbarresyndrome.html]
+Guillain–Barré Syndrome | GBS | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Guillain-Barre Syndrome
+Guillain-Barre Syndrome
+Also called: Acute idiopathic polyneuritis, Acute inflammatory polyneuropathy, Infectious polyneuritis, Landry-Guillain-Barre syndrome
+Guillain-Barre syndrome is a rare disorder that causes your immune system to attack your peripheral nervous system (PNS). The PNS nerves connect your brain and spinal cord with the rest of your body. Damage to these nerves makes it hard for them to transmit signals. As a result, your muscles have trouble responding to your brain. No one knows what causes the syndrome. Sometimes it is triggered by an infection, surgery, or a vaccination.
+The first symptom is usually weakness or a tingling feeling in your legs. The feeling can spread to your upper body. In severe cases, you become almost paralyzed. This is life-threatening. You might need a respirator to breathe. Symptoms usually worsen over a period of weeks and then stabilize.
+Guillain-Barre can be hard to diagnose. Possible tests include nerve tests and a spinal tap. Most people recover. Recovery can take a few weeks to a few years. Treatment can help symptoms, and may include medicines or a procedure called plasma exchange.
+NIH: National Institute of Neurological Disorders and Stroke
+Guillain-Barre Syndrome
+(Mayo Foundation for Medical Education and Research)
+Guillain-Barré Syndrome
+(National Institute of Neurological Disorders and Stroke)
+Cerebrospinal Fluid (CSF) Analysis
+Guillain-Barré Syndrome (GBS) and Vaccines
+Miller Fisher Syndrome
+(GBS/CIDP Foundation International)
+Guillain-Barré syndrome: MedlinePlus Genetics
+ClinicalTrials.gov: Guillain-Barre Syndrome
+Article: Cerebrospinal fluid alpha-internexin concentrations measured in patients with Guillain-Barré syndrome: a...
+Article: Qualitative evaluation of pharmacological strategy for connective tissue diseases with Guillain-Barré...
+Article: Validation of Guillain-Barré syndrome case identification in three heterogeneous VAC4EU real-world...
+Guillain-Barre Syndrome -- see more articles
+Autoimmune Association
+National Institute of Neurological Disorders and Stroke
+(GBS/CIDP Foundation International)
+Cerebral spinal fluid (CSF) collection
+(Medical Encyclopedia)
+Chronic inflammatory demyelinating polyneuropathy
+(Medical Encyclopedia)
+Guillain-Barre syndrome
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Cerebral spinal fluid (CSF) collection
+Chronic inflammatory demyelinating polyneuropathy
+Guillain-Barre syndrome
+Related Health Topics
+Peripheral Nerve Disorders
+The primary NIH organization for research on
+Guillain-Barre Syndrome is the
+National Institute of Neurological Disorders and Stroke
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated August 23, 2024
+
+---
+
+[DISEASE: Headache]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/headache.html]
+Headache | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Almost everyone has had a headache. Headache is the most common form of pain. It's a major reason people miss days at work or school or visit the doctor.
+The most common type of headache is a tension headache. Tension headaches are due to tight muscles in your shoulders, neck, scalp and jaw. They are often related to stress, depression or anxiety. You are more likely to get tension headaches if you work too much, don't get enough sleep, miss meals, or use alcohol.
+Other common types of headaches include migraines, cluster headaches, and sinus headaches. Most people can feel much better by making lifestyle changes, learning ways to relax and taking pain relievers.
+Not all headaches require a doctor's attention. But sometimes headaches warn of a more serious disorder. Let your health care provider know if you have sudden, severe headaches. Get medical help right away if you have a headache after a blow to your head, or if you have a headache along with a stiff neck, fever, confusion, loss of consciousness, or pain in the eye or ear.
+NIH: National Institute of Neurological Disorders and Stroke
+(Mayo Foundation for Medical Education and Research)
+(National Institute of Neurological Disorders and Stroke)
+Headaches: Treatment Depends on Your Diagnosis and Symptoms
+(Mayo Foundation for Medical Education and Research)
+Do I Need an MRI for My Migraine?
+(American Migraine Foundation)
+(American Academy of Family Physicians)
+When to Go to the Emergency Room for a Headache or Migraine
+(American Migraine Foundation)
+Prevention and Risk Factors
+Headaches: Reduce Stress to Prevent the Pain
+(Mayo Foundation for Medical Education and Research)
+Treatments and Therapies
+Acute Therapy: Why Not Over-The-Counter or Other Nonspecific Options?
+(American Migraine Foundation)
+Headaches: What You Need to Know
+(National Center for Complementary and Integrative Health)
+Headache Hygiene -- What Is It?
+(American Migraine Foundation)
+Low-Tyramine Diet for Individuals with Headache or Migraine
+(National Headache Foundation)
+Tension-Type Headaches: Self-Care Measures for Relief
+(Mayo Foundation for Medical Education and Research)
+Chronic Daily Headaches
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+Intractable Headache - The Pain in Your Head that Just Won't Quit
+(American Migraine Foundation)
+Nighttime Headaches: How Can I Get Relief?
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+Thunderclap Headaches
+(Mayo Foundation for Medical Education and Research)
+ClinicalTrials.gov: Cluster Headache
+ClinicalTrials.gov: Headache
+ClinicalTrials.gov: Headache Disorders
+ClinicalTrials.gov: Tension Headache
+ClinicalTrials.gov: Tension-Type Headache
+Article: Headache After Coil Embolization for Unruptured Intracranial Aneurysms (Non-Stent-Assisted Versus Stent-Assisted):...
+Article: Benchmark evaluation of large language models for clinical decision support in...
+Article: Associations Between the Presence of Primary Headaches and Quality of Life...
+Headache -- see more articles
+Find a Migraine and Headache Specialist
+(American Migraine Foundation)
+National Institute of Neurological Disorders and Stroke
+(Nemours Foundation)
+Headaches (For Parents)
+(Nemours Foundation)
+Headaches in Children
+(American Association for Pediatric Ophthalmology and Strabismus)
+Headaches in Children
+(Mayo Foundation for Medical Education and Research)
+(Nemours Foundation)
+Headaches and Hormones: What's the Connection?
+(Mayo Foundation for Medical Education and Research)
+Headaches during Pregnancy: What's the Best Treatment?
+(Mayo Foundation for Medical Education and Research)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Headaches - danger signs
+(Medical Encyclopedia)
+Managing tension headaches at home
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Headache - what to ask your doctor
+Headaches - danger signs
+Managing tension headaches at home
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+Find health information in languages other than English on Headache
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 19, 2025
+
+---
+
+[DISEASE: Dizzinessandvertigo]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/dizzinessandvertigo.html]
+Dizziness | Vertigo | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Dizziness and Vertigo
+Dizziness and Vertigo
+Prevention and Risk Factors
+Treatments and Therapies
+When you're dizzy, you may feel lightheaded, woozy, or disoriented. If you feel like you or the room are spinning, you have vertigo. These feelings may make you lose your balance.
+Dizziness can have many different causes. A sudden drop in blood pressure or being dehydrated can make you dizzy. Many people feel lightheaded if they get up too quickly from sitting or lying down. Certain medicines and problems with your inner ear may cause dizziness. So can motion sickness. Sometimes dizziness can be a symptom of other disorders.
+As people get older, they may have more health problems and take more medicines. This makes them more likely to have problems with dizziness and balance.
+Dizziness usually gets better by itself or is easily treated. If you are dizzy often, you should see your health care provider to find the cause.
+(Mayo Foundation for Medical Education and Research)
+(Vestibular Disorders Association)
+(Vestibular Disorders Association)
+Videonystagmography (VNG)
+Prevention and Risk Factors
+(Vestibular Disorders Association)
+Treatments and Therapies
+Canalith Repositioning Procedure
+(Mayo Foundation for Medical Education and Research)
+(Vestibular Disorders Association)
+Medications for Dizziness and Vertigo
+(Vestibular Disorders Association)
+Surgical Procedures for Vestibular Dysfunction
+(Vestibular Disorders Association)
+Dealing With Dizziness: Getting Help for a Balance Disorder
+Living with a Vestibular Disorder
+(Vestibular Disorders Association)
+Support Group Directory
+(Vestibular Disorders Association)
+Autoimmune Inner Ear Disease
+(Vestibular Disorders Association)
+(American Academy of Otolaryngology--Head and Neck Surgery)
+Enlarged Vestibular Aqueduct (EVA)
+(Vestibular Disorders Association)
+(National Institute on Deafness and Other Communication Disorders)
+Benign Paroxysmal Positional Vertigo (BPPV)
+(Vestibular Disorders Association)
+Cervicogenic Dizziness
+(Vestibular Disorders Association)
+Labyrinthitis and Vestibular Neuritis
+(Vestibular Disorders Association)
+Mal de Débarquement Syndrome (MdDS)
+(American Brain Foundation)
+(Vestibular Disorders Association)
+(Vestibular Disorders Association)
+(Johns Hopkins Medicine)
+ClinicalTrials.gov: Dizziness
+ClinicalTrials.gov: Vertigo
+ClinicalTrials.gov: Vestibular Diseases
+Article: Plasma neurofilament light chain and glial fibrillary acidic protein in the...
+Article: Dizziness in the emergency department and risk of stroke: A systematic...
+Article: Association between systemic inflammatory markers and recurrence risk in benign paroxysmal...
+Dizziness and Vertigo -- see more articles
+(National Institute on Deafness and Other Communication Disorders)
+Human Balance System
+(Vestibular Disorders Association)
+Types of Vestibular Disorders
+(Vestibular Disorders Association)
+Directory of Organizations
+(National Institute on Deafness and Other Communication Disorders)
+Find an ENT (Ear, Nose, and Throat Specialist)
+(American Academy of Otolaryngology--Head and Neck Surgery)
+National Institute on Deafness and Other Communication Disorders
+Ototoxicity (Ear Poisoning) (For Parents)
+(Nemours Foundation)
+Benign positional vertigo
+(Medical Encyclopedia)
+Benign positional vertigo -- aftercare
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Dizziness and vertigo -- aftercare
+(Medical Encyclopedia)
+Electronystagmography
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Vertigo-associated disorders
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Benign positional vertigo
+Benign positional vertigo -- aftercare
+Dizziness and vertigo -- aftercare
+Electronystagmography
+Labyrinthitis - aftercare
+Vertigo-associated disorders
+Related Health Topics
+The primary NIH organization for research on
+Dizziness and Vertigo is the
+National Institute on Deafness and Other Communication Disorders
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 21, 2026
+
+---
+
+[DISEASE: Tremor]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/tremor.html]
+Tremor | Essential Tremor | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Videos and Tutorials
+A tremor is a neurological condition that includes shaking or trembling movements in one or more parts of your body. It most often affects the hands. But it can also affect the arms, legs, head, vocal cords, and torso (trunk). A tremor is involuntary, meaning that you cannot control it. It happens because of muscle contractions.
+A tremor may come and go, or it may be constant. It can happen on its own or be caused by another disorder. It is not life threatening, but it may cause challenges. It can make it hard to do daily life tasks such as writing, typing, eating, and dressing. In some cases, a tremor can even lead to disabilities.
+What are the types of tremor?
+There are several types of tremor, including:
+Essential tremor, sometimes called benign essential tremor or familial tremor. This is the most common type. It usually affects both your hands and arms while you are moving them. It can also affect your head, voice, or legs.
+Parkinsonian tremor, which is a common symptom in people who have Parkinson's disease. It usually affects one or both hands when they are at rest, but it can affect the chin, lips, face, and legs.
+Dystonic tremor, which happens in people who have dystonia. Dystonia is a movement disorder in which you have involuntary muscle contractions. The contractions cause you to have twisting and repetitive movements. It can affect any muscle in the body.
+Generally, tremor is caused by a problem in the deep parts of the brain that control movements. For most types, the cause is unknown. Some types are inherited and run in families. There can also be other causes, such as:
+Neurologic disorders, including multiple sclerosis, Parkinson's disease, stroke, and traumatic brain injury
+Certain medicines, such as asthma medicines, chemotherapy, corticosteroids, and medicines used for certain psychiatric and neurological disorders
+Alcohol use disorder (AUD) or alcohol withdrawal
+Poisoning from certain toxic substances, including pesticides and heavy metals such as mercury and lead
+Hyperthyroidism (overactive thyroid)
+Liver or kidney failure
+Who is at risk for tremor?
+Anyone can get tremor, but it is most common in middle-aged and older adults. For certain types of tremor, having a family history raises your risk of getting it.
+What are the symptoms of tremor?
+Symptoms of tremor may include:
+Rhythmic shaking in the hands, arms, head, legs, or torso
+Difficulty writing or drawing
+Problems holding and controlling utensils, such as a spoon
+How is tremor diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+A physical exam, which includes checking:
+Whether the tremor happens when the muscles are at rest or in action
+The location of the tremor
+How often you have the tremor and how strong it is
+A neurological exam, including checking for:
+Problems with balance
+Problems with speech
+Increased muscle stiffness
+Blood or urine tests to look for the cause
+Imaging tests to help figure out if the cause is damage to your brain
+Tests that check your abilities to do daily tasks such as handwriting and holding a fork or cup
+An electromyogram, a test that measures involuntary muscle activity and how your muscles respond to nerve stimulation
+What are the treatments for tremor?
+There is no cure for most forms of tremor, but there are treatments to help manage symptoms. In some cases, the symptoms may be so mild that you do not need treatment.
+Finding the right treatment depends on getting the right diagnosis of the cause. Tremor caused by another medical condition may get better or go away when you treat that condition. If your tremor is caused by a certain medicine, stopping that medicine usually makes the tremor go away.
+Treatments for tremor can include:
+Medicines. There are different medicines for the specific types of tremor. Another option is Botox injections, which can treat several different types of tremor.
+Surgery may be used for severe cases that do not get better with medicines. The most common type is deep brain stimulation (DBS). DBS uses electrodes that are implanted in the brain. The electrodes send electrical pulses to the parts of the brain that are causing the tremor.
+Physical, speech-language, and occupational therapy, which may help to control tremor and deal with the daily challenges caused by the tremor.
+If you find that caffeine and other stimulants trigger your tremors, it may be helpful to cut them from your diet.
+NIH: National Institute of Neurological Disorders and Stroke
+(National Institute of Neurological Disorders and Stroke)
+Treatments and Therapies
+Essential Tremor (ET): Surgical Options
+(International Essential Tremor Foundation)
+Treatment of Essential Tremor
+(American Academy of Neurology)
+Essential Tremor (ET): Coping Tips for Everyday Living
+(International Essential Tremor Foundation)
+Essential tremor: MedlinePlus Genetics
+Videos and Tutorials
+Essential Tremor Is More Than a Tremor
+(International Essential Tremor Foundation)
+ClinicalTrials.gov: Essential Tremor
+ClinicalTrials.gov: Tremor
+Article: Viral vector-mediated SLC9A6 gene replacement reduces cerebellar motor and molecular abnormalities...
+Article: Multidimensional Phenotyping of Orthostatic Tremor and Orthostatic Myoclonus: Baseline Findings from...
+Article: Striatal Dopamine Transporter and Rest Tremor in Parkinson Disease: A Clinical...
+Tremor -- see more articles
+National Institute of Neurological Disorders and Stroke
+Children with Essential Tremor
+(International Essential Tremor Foundation)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Neurological Disorders and Stroke
+Quick Guide to Understanding Tremor
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 27, 2023
+
+---
+
+[DISEASE: Dementia]
+[CATEGORY: neurological]
+[TYPE: medlineplus_neuro]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/dementia.html]
+Dementia | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Senility
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+Dementia is a loss of mental functions that is severe enough to affect your daily life and activities. These functions include:
+Visual perception (your ability to make sense of what you see)
+Trouble with everyday tasks
+The ability to focus and pay attention
+It is normal to become a bit more forgetful as you age. But dementia is not a normal part of aging. It is a serious disorder that interferes with your daily life.
+What are the types of dementia?
+The most common types of dementia are known as neurodegenerative disorders. These are diseases in which the cells of the brain stop working or die. They include:
+Alzheimer's disease, which is the most common form of dementia among older people. People with Alzheimer's have plaques and tangles in their brain. These are abnormal buildups of different proteins. Beta-amyloid protein clumps up and forms plaques in between your brain cells. Tau protein builds up and forms tangles inside the nerve cells of your brain. There is also a loss of connection between nerve cells in the brain.
+Lewy body dementia, which causes movement symptoms along with dementia. Lewy bodies are abnormal deposits of a protein in the brain.
+Frontotemporal disorders, which cause changes to certain parts of the brain:
+Changes in the frontal lobe lead to behavioral symptoms
+Changes in the temporal lobe lead to language and emotional disorders
+Vascular dementia, which involves changes to the brain's blood supply. It is often caused by a stroke or atherosclerosis (hardening of the arteries) in the brain.
+Mixed dementia, which is a combination of two or more types of dementia. For example, some people have both Alzheimer's disease and vascular dementia.
+Other conditions can cause dementia or dementia-like symptoms, including:
+Creutzfeldt-Jakob disease, a rare brain disorder
+Huntington's disease, an inherited, progressive brain disease
+Chronic traumatic encephalopathy (CTE), caused by repeated traumatic brain injury
+HIV-associated dementia (HAD)
+Who is at risk for dementia?
+Certain factors can raise your risk for developing dementia, including:
+Aging. This is the biggest risk factor for dementia.
+Uncontrolled diabetes
+Drinking too much alcohol
+Having close family members who have dementia
+What are the symptoms of dementia?
+The symptoms of dementia can vary, depending on which parts of the brain are affected. Often, forgetfulness is the first symptom. Dementia also causes problems with the ability to think, problem solve, and reason. For example, people with dementia may:
+Get lost in a familiar neighborhood
+Use unusual words to refer to familiar objects
+Forget the name of a close family member or friend
+Need help doing tasks that they used to do by themselves
+Some people with dementia cannot control their emotions and their personalities may change. They may become apathetic, meaning that they are no longer interested in normal daily activities or events. They may lose their inhibitions and stop caring about other peoples' feelings.
+Certain types of dementia can also cause problems with balance and movement.
+The stages of dementia range from mild to severe. In the mildest stage, it is just beginning to affect a person's functioning. In the most severe stage, the person is completely dependent on others for care.
+How is dementia diagnosed?
+Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms
+Tests of your thinking, memory, and language abilities
+Other tests, such as blood tests, genetic tests, and brain scans
+A mental health evaluation to see whether a mental disorder is contributing to your symptoms
+What are the treatments for dementia?
+There is no cure for most types of dementia, including Alzheimer's disease and Lewy body dementia. Treatments may help to maintain mental function longer, manage behavioral symptoms, and slow down the symptoms of disease. They may include:
+Medicines, which may temporarily improve memory and thinking or slow down their decline. They only work in some people. Other medicines can treat symptoms such as anxiety, depression, sleep problems, and muscle stiffness. Some of these medicines can cause strong side effects in people with dementia. It is important to talk to your health care provider about which medicines will be safe for you.
+Occupational therapy to help find ways to more easily do everyday activities
+Speech therapy to help with swallowing difficulties and trouble speaking loudly and clearly
+Mental health counseling to help people with dementia and their families learn how to manage difficult emotions and behaviors. It can also help them plan for the future.
+Music or art therapy to reduce anxiety and improve well-being
+Can dementia be prevented?
+Researchers have not found a proven way to prevent dementia. Living a healthy lifestyle might influence some of your risk factors for dementia.
+(American Academy of Family Physicians)
+(National Institute of Neurological Disorders and Stroke)
+Understanding Memory Loss: What To Do When You Have Trouble Remembering
+(National Institute on Aging)
+(Department of Health and Human Services)
+What Is Dementia? Symptoms, Types, and Diagnosis
+(National Institute on Aging)
+Cognitive Impairment in Older Adults: Screening
+(U.S. Preventive Services Task Force)
+Dementia: Diagnosis and Tests
+(AGS Health in Aging Foundation)
+Newly Diagnosed with FTD (Frontotemporal Degeneration)
+(Association for Frontotemporal Degeneration)
+Prevention and Risk Factors
+(Alzheimer's Association)
+Brain Training: Cognitive Health Tips for Seniors
+(American Academy of Family Physicians)
+Can I Prevent Dementia?
+(Department of Health and Human Services)
+Treatments and Therapies
+7 Things To Know About Dietary Supplements for Cognitive Function, Dementia, and Alzheimer's Disease
+(National Center for Complementary and Integrative Health)
+Medications for Memory, Cognition, and Dementia-Related Behaviors
+(Alzheimer's Association)
+Finding Dementia Care and Local Services
+(Department of Health and Human Services)
+Tips for Living Alone with Early-Stage Dementia
+(National Institute on Aging)
+Tips for People with Dementia
+(Department of Health and Human Services)
+Brain Donation: A Gift for Future Generations
+(National Institute on Aging)
+(National Institute on Aging)
+Caring for a Person with a Frontotemporal Disorder
+(National Institute on Aging)
+Dementia and Driving
+(Family Caregiver Alliance)
+Nutritional Support for People Who Are Dying or Severely Demented
+Planning after a Dementia Diagnosis
+(Department of Health and Human Services)
+Resources for Caregivers of People with Alzheimer's Disease and Related Dementias
+(Department of Health and Human Services)
+Sundowning: Late-Day Confusion
+(Mayo Foundation for Medical Education and Research)
+Taking a Person With Alzheimer's Disease to the Hospital
+(National Institute on Aging)
+Tips for Caregivers and Families of People with Dementia
+(Department of Health and Human Services)
+(National Institute of Neurological Disorders and Stroke)
+Frontotemporal Dementia and Other Frontotemporal Disorders
+(National Institute of Neurological Disorders and Stroke)
+Kluver-Bucy Syndrome
+(Genetic and Rare Diseases Information Center)
+Parkinson's Disease Dementia
+(Alzheimer's Association)
+(Alzheimer's Association)
+(National Heart, Lung, and Blood Institute)
+What Are Frontotemporal Disorders? Causes, Symptoms, and Treatment
+(National Institute on Aging)
+What Are Frontotemporal Disorders? Dementias That Happen in Midlife
+What Is Frontotemporal Dementia?
+(Department of Health and Human Services)
+What Is Vascular Dementia?
+(Department of Health and Human Services)
+Cerebral autosomal dominant arteriopathy with subcortical infarcts and leukoencephalopathy: MedlinePlus Genetics
+Cerebral autosomal recessive arteriopathy with subcortical infarcts and leukoencephalopathy: MedlinePlus Genetics
+CHMP2B-related frontotemporal dementia: MedlinePlus Genetics
+Dementia with Lewy bodies: MedlinePlus Genetics
+Frontotemporal dementia with parkinsonism-17: MedlinePlus Genetics
+GRN-related frontotemporal lobar degeneration: MedlinePlus Genetics
+Inclusion body myopathy with early-onset Paget disease and frontotemporal dementia: MedlinePlus Genetics
+Myoclonic epilepsy with ragged-red fibers: MedlinePlus Genetics
+Statistics and Research
+Caregivers of a Person with Alzheimer's Disease or a Related Dementia
+(Centers for Disease Control and Prevention)
+FastStats: Alzheimer's Disease
+(National Center for Health Statistics)
+Research on Alzheimer's Disease and Related Dementias
+(Department of Health and Human Services)
+Scam Susceptibility May Signal Risk for Cognitive Decline
+(National Institute on Aging)
+Treating Hearing Loss to Help Brain Health
+ClinicalTrials.gov: Dementia
+Find Clinical Trials
+(Department of Health and Human Services)
+Participating in Alzheimer's Disease and Related Dementias Research
+(National Institute on Aging)
+Article: A Mobile App-Based Individualized Nonpharmacological Intervention for Behavioral and Psychological Symptoms...
+Article: Baseline characteristics of the SINgapore GERiatric Intervention Study to Reduce Cognitive...
+Article: Blood Pressure Parameters and Risk of Cognitive Decline and Dementia in...
+Dementia -- see more articles
+Alzheimer's: Glossary
+(Alzheimer's Association)
+National Institute of Neurological Disorders and Stroke
+National Institute on Aging
+(Medical Encyclopedia)
+Dementia - behavior and sleep problems
+(Medical Encyclopedia)
+Dementia - daily care
+(Medical Encyclopedia)
+Dementia - keeping safe in the home
+(Medical Encyclopedia)
+Dementia and driving
+(Medical Encyclopedia)
+Dementia due to metabolic causes
+(Medical Encyclopedia)
+Mental status testing
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Dementia - behavior and sleep problems
+Dementia - daily care
+Dementia - home care
+Dementia - keeping safe in the home
+Dementia - what to ask your doctor
+Dementia and driving
+Dementia due to metabolic causes
+Frontotemporal dementia
+Mental status testing
+Neurocognitive disorder
+Related Health Topics
+The primary NIH organization for research on
+National Institute on Aging
+Find health information in languages other than English on Dementia
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated March 19, 2025

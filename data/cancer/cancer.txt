@@ -1,0 +1,2849 @@
+[DISEASE: Cancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/cancer.html]
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Carcinoma, Malignancy, Neoplasms, Tumor
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+Cancer is not just one disease but many diseases. Cancer begins in your cells, which are the building blocks of your body. Usually, your body forms new cells as needed, replacing old cells that die. Sometimes this process goes wrong. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
+Tumors can be benign or malignant. Benign tumors aren't cancer, while malignant ones are. Cells from malignant tumors can invade nearby tissues. They can also break away and spread to other parts of your body. The spread of cancer from one part of the body to another is called metastasis. Symptoms and treatment depend on the type of cancer and how advanced it is.
+What are the types of cancer?
+There are more than 100 different types of cancer. Cancer can start almost anywhere in your body. Most cancers are named for where they start. For example, lung cancer starts in the lung, and breast cancer starts in the breast.
+Cancer may also be described by the type of cell that formed it, such as sarcoma if cancer begins in your bone and soft tissue. Carcinoma is the most common type of cancer. It is formed by epithelial cells, the cells that cover the inside and outside surfaces of your body.
+How does cancer develop?
+Cancer is a genetic disease. That means changes in your genes cause it. Changes in your genes are also called gene variants or mutations. Genes are parts of DNA in your cells that you inherit from your parents. However, only some cancers are caused by genes passed down from your parents.
+Genetic changes can occur to your genes over your lifetime that affect how your cells function. Usually, your body gets rid of damaged cells before they turn cancerous, but this ability goes down as you age. Other factors that may affect your risk of developing cancer can include:
+Exposure to ultraviolet (UV) rays from the sun
+What are the symptoms of cancer?
+Cancer symptoms depend on the type of cancer. For example, some of the symptoms that cancer may cause can include:
+A lump in your breast
+Blood in your urine (pee) or stool (poop)
+Bleeding or bruising for no known reason
+A sore that doesn't heal
+A new mole or a change to a mole you already have
+Cancer may cause various symptoms but often doesn't cause pain. Don't wait until you're having pain before seeing your health care provider. See your provider if you have symptoms that don't get better in a few weeks.
+How is cancer diagnosed?
+There is no single test that can diagnose cancer. The tests ordered are usually based on your symptoms. Your provider may:
+Ask about your medical history
+Ask about your family health history, including relatives who have had cancer
+Do a screening test such as a mammogram, colonoscopy, or a Pap test
+Order blood tests or imaging tests
+To find out if you have cancer, your provider may order a biopsy. A biopsy is the procedure of removing and examining tissue, cells, or fluids from your body.
+What are the treatments for cancer?
+Treatment depends on the type of cancer and how advanced it is. Most treatment plans may include surgery, radiation, and/or chemotherapy. Some may involve hormone therapy, immunotherapy or other types of biological therapy, or stem cell transplantation.
+Can cancer be prevented?
+It's usually not possible to know exactly why cancer develops in some people but not others. There are some things that you can't control which may increase or decrease your risk of getting cancer, such as inheriting certain genes or your age. But some lifestyle habits may increase your risk of certain types of cancer. Avoid or reduce lifestyle habits such as:
+Smoking and tobacco use
+Having too much sun exposure
+Drinking too much alcohol
+Not getting enough physical activity
+NIH: National Cancer Institute
+(American Academy of Family Physicians)
+(National Cancer Institute)
+Biopsy: Types of Biopsy Procedures Used to Diagnose Cancer
+(Mayo Foundation for Medical Education and Research)
+Cancer Screening Overview
+(National Cancer Institute)
+(National Cancer Institute)
+Computed Tomography (CT) Scans and Cancer
+(National Cancer Institute)
+Exams and Tests for Cancer
+(American Cancer Society)
+Fine Needle Aspiration
+(American Academy of Otolaryngology--Head and Neck Surgery)
+How Cancer Is Diagnosed
+(National Cancer Institute)
+Karyotype Genetic Test
+Lactate Dehydrogenase (LDH) Test
+Nuclear Medicine Scans for Cancer
+(American Cancer Society)
+(National Cancer Institute)
+Sentinel Lymph Node Biopsy
+(National Cancer Institute)
+(National Cancer Institute)
+(National Cancer Institute)
+Prevention and Risk Factors
+Antioxidants and Cancer Prevention
+(National Cancer Institute)
+Cancer Prevention Overview
+(National Cancer Institute)
+Lowering Your Cancer Risk: Healthy Living for Cancer Prevention
+(American Cancer Society)
+Treatments and Therapies
+A to Z List of Cancer Drugs
+(National Cancer Institute)
+Adjuvant Therapy: Treatment to Keep Cancer from Returning
+(Mayo Foundation for Medical Education and Research)
+Angiogenesis Inhibitors
+(National Cancer Institute)
+Cancer Alternative Therapies: MedlinePlus Health Topic
+Cancer Chemotherapy: MedlinePlus Health Topic
+Cancer Immunotherapy: MedlinePlus Health Topic
+Cancer Surgery: Physically Removing Cancer
+(Mayo Foundation for Medical Education and Research)
+Carcinoma of Unknown Primary Treatment
+(National Cancer Institute)
+Drugs Approved for Solid Tumors Anywhere in the Body
+(National Cancer Institute)
+Extragonadal Germ Cell Tumors Treatment
+(National Cancer Institute)
+(National Cancer Institute)
+Hyperthermia to Treat Cancer
+(National Cancer Institute)
+Immunotherapy to Treat Cancer
+(National Cancer Institute)
+Lasers to Treat Cancer
+(National Cancer Institute)
+Radiation Therapy: MedlinePlus Health Topic
+When Cancer Spreads: Improving Treatments for Metastasis
+Cancer--Living with Cancer: MedlinePlus Health Topic
+(National Cancer Institute)
+Cancer Causes: Popular Myths about the Causes of Cancer
+(Mayo Foundation for Medical Education and Research)
+(National Cancer Institute)
+Chemicals in Meat Cooked at High Temperatures and Cancer Risk
+(National Cancer Institute)
+Common Cancer Myths and Misconceptions
+(National Cancer Institute)
+(National Cancer Institute)
+Hair Dyes, Other Hair Products, and Cancer Risk
+(National Cancer Institute)
+Informal Caregivers in Cancer
+(National Cancer Institute)
+(National Cancer Institute)
+Physical Activity and Cancer
+(National Cancer Institute)
+Recurrent Cancer: When Cancer Comes Back
+(National Cancer Institute)
+Stay Away from Tobacco
+(American Cancer Society)
+(National Cancer Institute)
+Vaccinations and Flu Shots for People with Cancer
+(American Cancer Society)
+Vitamin D and Cancer
+(National Cancer Institute)
+(National Cancer Institute)
+Metastatic Cancer: When Cancer Spreads
+(National Cancer Institute)
+BAP1 tumor predisposition syndrome: MedlinePlus Genetics
+Bloom syndrome: MedlinePlus Genetics
+Cowden syndrome: MedlinePlus Genetics
+DICER1 syndrome: MedlinePlus Genetics
+Genetic Testing for Cancer Risk
+(American Cancer Society)
+Genetic Testing for Inherited Cancer Risk
+(National Cancer Institute)
+(National Cancer Institute)
+Peutz-Jeghers syndrome: MedlinePlus Genetics
+Rhabdoid tumor predisposition syndrome: MedlinePlus Genetics
+Werner syndrome: MedlinePlus Genetics
+Videos and Tutorials
+Understanding Cancer Prognosis
+(National Cancer Institute)
+Statistics and Research
+About Cancer Clinical Research
+(National Cancer Institute)
+(National Cancer Institute)
+Cancer Data and Statistics
+(Centers for Disease Control and Prevention)
+(National Cancer Institute)
+(Centers for Disease Control and Prevention)
+Statistics and Graphs: Cancer Survivorship
+(National Cancer Institute)
+Clinical Trials Information for Patients and Caregivers
+(National Cancer Institute)
+ClinicalTrials.gov: Carcinoma
+ClinicalTrials.gov: Neoplasms
+NCI's Clinical Trials Programs and Initiatives
+(National Cancer Institute)
+Article: Long-Term Outcomes, Moderators, and Predictors in Online Mindfulness-Based Cognitive Therapy for...
+Article: Effectiveness of a Technology-Based Psychosocial Empowerment Program for Children With Cancer...
+Article: Mixed methods process theory evaluation to explore the implementation issues of...
+Cancer -- see more articles
+National Cancer Institute News
+(National Cancer Institute)
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Cancer in Children: MedlinePlus Health Topic
+Adolescents and Young Adults with Cancer
+(National Cancer Institute)
+(Centers for Disease Control and Prevention)
+(Centers for Disease Control and Prevention)
+(Medical Encyclopedia)
+Cancer and lymph nodes
+(Medical Encyclopedia)
+Cancer treatment - early menopause
+(Medical Encyclopedia)
+Cancer treatment - preventing infection
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+How to research cancer
+(Medical Encyclopedia)
+How to tell your child that you have cancer
+(Medical Encyclopedia)
+Hyperthermia for treating cancer
+(Medical Encyclopedia)
+Laser therapy for cancer
+(Medical Encyclopedia)
+Photodynamic therapy for cancer
+(Medical Encyclopedia)
+Targeted therapies for cancer
+(Medical Encyclopedia)
+Understanding your cancer prognosis
+(Medical Encyclopedia)
+Your cancer care team
+(Medical Encyclopedia)
+Your cancer diagnosis - Do you need a second opinion?
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Cancer and lymph nodes
+Cancer prevention: take charge of your lifestyle
+Cancer treatment - early menopause
+Cancer treatment - preventing infection
+Genetic testing and your cancer risk
+How to research cancer
+How to tell your child that you have cancer
+Hyperthermia for treating cancer
+Lactate dehydrogenase test
+Laser therapy for cancer
+Malignant teratoma of the mediastinum
+Peutz-Jeghers syndrome
+Photodynamic therapy for cancer
+Pleural fluid analysis
+Protein electrophoresis - serum
+Syndrome of inappropriate antidiuretic hormone secretion
+Talking with a child about a parent's terminal illness
+Targeted therapies for cancer
+Targeted therapy: questions to ask your doctor
+Understanding cancer staging
+Understanding your cancer prognosis
+What if cancer comes back?
+When your cancer treatment stops working
+Your cancer care team
+Your cancer diagnosis - Do you need a second opinion?
+Related Health Topics
+Cancer Alternative Therapies
+Cancer Immunotherapy
+Cancer--Living with Cancer
+Tumors and Pregnancy
+The primary NIH organization for research on
+National Cancer Institute
+Find health information in languages other than English on Cancer
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated March 19, 2025
+
+---
+
+[DISEASE: Breastcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/breastcancer.html]
+Breast Cancer | Breast Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+What is breast cancer?
+Breast cancer is a cancer that starts in breast tissue. It happens when cells in the breast change and grow out of control. New cells grow even when you don't need them, and old cells don't die when they should. These extra cells can form a mass called a tumor.
+Sometimes the cancer does not spread any further. This is called "in situ." If the cancer spreads outside the breast, the cancer is called "invasive." It may just spread to nearby tissues and lymph nodes. Or the cancer may metastasize (spread to other parts of the body) through the lymph system or the blood.
+Breast cancer is the second most common type of cancer in women in the United States. Rarely, it can also affect men.
+What are the types of breast cancer?
+There are different types of breast cancer. The types are based on which breast cells turn into cancer. The types include:
+Ductal carcinoma, which begins in the cells of the ducts. This is the most common type.
+Lobular carcinoma, which begins in the lobules. It is more often found in both breasts than other types of breast cancer.
+Inflammatory breast cancer, in which cancer cells block lymph vessels in the skin of the breast. The breast becomes warm, red, and swollen. This is a rare type.
+Paget's disease of the breast, which is a cancer involving the skin of the nipple. It usually also affects the darker skin around the nipple. It is also rare.
+What causes breast cancer?
+Breast cancer happens when there are changes in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.
+But sometimes these genetic changes are inherited, meaning that you are born with them. Breast cancer that is caused by inherited genetic changes is called hereditary breast cancer.
+There are also certain genetic changes that can raise your risk of breast cancer, including changes in the BRCA1 and BRCA2 genes. These two changes also raise your risk of ovarian and other cancers.
+Besides genetics, your lifestyle and the environment can affect your risk of breast cancer.
+Who is at risk for breast cancer?
+The factors that raise your risk of breast cancer include:
+History of breast cancer or benign (noncancer) breast disease
+Inherited risk of breast cancer, including having BRCA1 and BRCA2 gene changes
+A reproductive history that leads to more exposure to the estrogen hormone, including:
+Menstruating at an early age
+Being at an older age when you first gave birth or never having given birth
+Starting menopause at a later age
+Taking hormone therapy for symptoms of menopause
+Radiation therapy to the breast or chest
+What are the signs and symptoms of breast cancer?
+The signs and symptoms of breast cancer include
+A new lump or thickening in or near the breast or in the armpit.
+A change in the size or shape of the breast.
+A dimple or puckering in the skin of the breast. It may look like the skin of an orange.
+A nipple turned inward into the breast.
+Nipple discharge other than breast milk. The discharge might happen suddenly, be bloody, or happen in only one breast.
+Scaly, red, or swollen skin in the nipple area or the breast.
+Pain in any area of the breast.
+How is breast cancer diagnosed?
+Your health care provider may use many tools to diagnose breast cancer and figure out which type you have:
+A physical exam, including a clinical breast exam (CBE). This involves checking for any lumps or anything else that seems unusual with the breasts and armpits.
+Imaging tests, such as a mammogram, an ultrasound, or an MRI.
+Blood chemistry tests, which measure different substances in the blood, including electrolytes, fats, proteins, glucose (sugar), and enzymes. Some of the specific blood chemistry tests include a basic metabolic panel (BMP), a comprehensive metabolic panel (CMP), and an electrolyte panel.
+If these tests show that you have breast cancer, you will have tests that study the cancer cells. These tests help your provider decide which treatment would be best for you. The tests may include:
+Genetic tests for genetic changes such in the BRCA and TP53 genes.
+HER2 test. HER2 is a protein involved with cell growth. It is on the outside of all breast cells. If your breast cancer cells have more HER2 than normal, they can grow more quickly and spread to other parts of the body.
+An estrogen and progesterone receptor test. This test measures the amount of estrogen and progesterone (hormones) receptors in cancer tissue. If there are more receptors than normal, the cancer is called estrogen and/or progesterone receptor positive. This type of breast cancer may grow more quickly.
+Another step is staging the cancer. Staging involves doing tests to find out whether the cancer has spread within the breast or to other parts of the body. The tests may include other diagnostic imaging tests and a sentinel lymph node biopsy. This biopsy is done to see whether the cancer has spread to the lymph nodes.
+What are the treatments for breast cancer?
+Treatments for breast cancer include:
+A mastectomy, which removes the whole breast
+A lumpectomy to remove the cancer and some normal tissue around it, but not the breast itself
+Hormone therapy, which blocks cancer cells from getting the hormones they need to grow
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+Can breast cancer be prevented?
+You may be able to help prevent breast cancer by making healthy lifestyle changes such as:
+Staying at a healthy weight
+Limiting alcohol use
+Getting enough exercise
+Limiting your exposure to estrogen by
+Breastfeeding your babies if you can
+Limiting hormone therapy
+If you are at high risk, your provider may suggest that you take certain medicines to lower the risk. Some women at very high risk may decide to get a mastectomy (of their healthy breasts) to prevent breast cancer.
+It's also important to get regular mammograms. They may be able to identify breast cancer in the early stages, when it is easier to treat.
+NIH: National Cancer Institute
+(Mayo Foundation for Medical Education and Research)
+What Is Breast Cancer?
+(American Cancer Society)
+Breast Cancer Early Detection and Diagnosis
+(American Cancer Society)
+(American College of Radiology; Radiological Society of North America)
+Breast Self-Exam for Breast Awareness
+(Mayo Foundation for Medical Education and Research)
+(American College of Radiology; Radiological Society of North America)
+Estrogen Receptor, Progesterone Receptor Tests
+HER2 Tumor Marker Test
+(American College of Radiology; Radiological Society of North America)
+Molecular Breast Imaging
+(Mayo Foundation for Medical Education and Research)
+(Mayo Foundation for Medical Education and Research)
+PDL1 (Immunotherapy) Tests
+Screening for Breast Cancer
+(National Cancer Institute)
+Sentinel Lymph Node Biopsy
+Understanding Your Pathology Report
+(Living Beyond Breast Cancer)
+Prevention and Risk Factors
+Aromatase Inhibitors for Lowering Breast Cancer Risk
+(American Cancer Society)
+Breast Cancer Prevention
+(National Cancer Institute)
+Breast Cancer Prevention: How to Reduce Your Risk
+(Mayo Foundation for Medical Education and Research)
+Lifestyle-Related Breast Cancer Risk Factors
+(American Cancer Society)
+Mammography: MedlinePlus Health Topic
+Surgery to Reduce the Risk of Breast Cancer
+(National Cancer Institute)
+Treatments and Therapies
+Breast Cancer Surgery
+(National Cancer Institute)
+Complementary and Integrative Therapies
+(Susan G. Komen for the Cure)
+Drugs Approved for Breast Cancer
+(National Cancer Institute)
+Hormone Therapy for Breast Cancer
+(National Cancer Institute)
+Mastectomy: MedlinePlus Health Topic
+Treatment for Breast Cancer
+(National Cancer Institute)
+(Susan G. Komen for the Cure)
+Eating Hints: Before, during, and after Cancer Treatment
+(National Cancer Institute)
+Follow up Care After Breast Cancer Treatment
+(American Cancer Society)
+Insomnia and Fatigue
+(Living Beyond Breast Cancer)
+Quality of Life after Breast Cancer Treatment
+(Susan G. Komen for the Cure)
+Axillary Lymph Nodes
+(Susan G. Komen for the Cure)
+Breast Cancer and Bone Loss
+Breast Cancer Treatment during Pregnancy
+(National Cancer Institute)
+Dense Breasts: Answers to Commonly Asked Questions
+(National Cancer Institute)
+Diethylstilbestrol (DES) Exposure and Cancer
+(National Cancer Institute)
+(American Cancer Society)
+Menopausal Hormone Therapy and Cancer
+(National Cancer Institute)
+Oral Contraceptives and Cancer Risk
+(National Cancer Institute)
+Screening for Breast Cancer
+(National Cancer Institute)
+What Causes Breast Cancer?
+(American Cancer Society)
+Women with Disabilities and Breast Cancer Screening
+(Centers for Disease Control and Prevention)
+Ductal Carcinoma in Situ (DCIS)
+(Mayo Foundation for Medical Education and Research)
+HER2-Positive Breast Cancer: What Is It?
+(Mayo Foundation for Medical Education and Research)
+Inflammatory Breast Cancer
+(National Cancer Institute)
+Lobular Carcinoma in Situ (LCIS)
+(Mayo Foundation for Medical Education and Research)
+Paget Disease of the Breast
+(National Cancer Institute)
+Treatment of Recurrent Breast Cancer
+(American Cancer Society)
+Triple-Negative Breast Cancer
+(Living Beyond Breast Cancer)
+About Hereditary Breast and Ovarian Cancers
+(Centers for Disease Control and Prevention)
+BRCA Gene Changes: Cancer Risk and Genetic Testing
+(National Cancer Institute)
+Breast cancer: MedlinePlus Genetics
+Genetic Counseling for Hereditary Breast and Ovarian Cancer
+(Centers for Disease Control and Prevention)
+Learning about Breast Cancer
+(National Human Genome Research Institute)
+Li-Fraumeni syndrome: MedlinePlus Genetics
+People at Increased Risk for BRCA Gene Mutations
+(Centers for Disease Control and Prevention)
+Videos and Tutorials
+Lymphatics and the breast
+(Medical Encyclopedia)
+Breast Cancer Risk Factors Quiz
+(Medical Encyclopedia)
+Statistics and Research
+Advances in Breast Cancer Research
+(National Cancer Institute)
+Advances in Breast Cancer: Screening and Treatment Get Personal
+Breast Cancer Statistics
+(Centers for Disease Control and Prevention)
+Cancer Stat Facts: Female Breast Cancer
+(National Cancer Institute)
+Sister Study: A Study of the Environmental and Genetic Risk Factors for Breast Cancer
+(National Institute of Environmental Health Sciences)
+ClinicalTrials.gov: Breast Neoplasms
+ClinicalTrials.gov: Carcinoma, Ductal, Breast
+ClinicalTrials.gov: Hereditary Breast and Ovarian Cancer Syndrome
+ClinicalTrials.gov: Inflammatory Breast Neoplasms
+Article: A Peer-Led, Nurse-Involved Blended Online and Offline Peer Support Program (PNO2PSP)...
+Article: HDAC inhibitor tucidinostat and metronomic capecitabine plus endocrine therapy for patients...
+Article: Neoadjuvant palbociclib and endocrine therapy versus chemotherapy in ER + /HER2- breast cancer:...
+Breast Cancer -- see more articles
+Breast Cancer Types: What Your Type Means
+(Mayo Foundation for Medical Education and Research)
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find a Screening Program Near You
+(Centers for Disease Control and Prevention)
+How to Find an Ob-Gyn
+(American College of Obstetricians and Gynecologists)
+National Cancer Institute
+Breast Lumps and Breast Cancer in Children
+(National Cancer Institute)
+What Is Breast Cancer?
+(Nemours Foundation)
+Should I Do a Breast Self-Exam?
+(Nemours Foundation)
+Male Breast Cancer: MedlinePlus Health Topic
+After chemotherapy - discharge
+(Medical Encyclopedia)
+BRCA1 and BRCA2 gene testing
+(Medical Encyclopedia)
+Breast biopsy - ultrasound
+(Medical Encyclopedia)
+Breast biopsy -- stereotactic
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Breast cancer staging
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Hormone therapy for breast cancer
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+BRCA1 and BRCA2 gene testing
+Breast biopsy - ultrasound
+Breast biopsy -- stereotactic
+Breast cancer screenings
+Breast cancer staging
+Breast external beam radiation - discharge
+Breast lump removal - series
+Chest radiation - discharge
+Cytology exam of pleural fluid
+Hormone therapy for breast cancer
+Lymphatics and the breast
+Lymphedema - self-care
+Partial breast brachytherapy
+Partial breast radiation therapy - external beam
+PET scan for breast cancer
+Understanding your breast cancer risk
+Whole breast radiation therapy
+Related Health Topics
+Breast Reconstruction
+The primary NIH organization for research on
+Breast Cancer is the
+National Cancer Institute
+Find health information in languages other than English on Breast Cancer
+Breast Cancer at 33: Telemundo Host Adamari López Leads with Laughter
+Breast Cancer: What You Need to Know
+Cheryll Plunkett Never Stops Fighting
+Diagnosed When Pregnant: A Young Mom's Breast Cancer Story
+My Mammogram Was "Abnormal" What Do I do Next?
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated May 2, 2025
+
+---
+
+[DISEASE: Lungcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/lungcancer.html]
+Lung Cancer | Lung Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Bronchogenic carcinoma
+Prevention and Risk Factors
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+What is lung cancer?
+Lung cancer is cancer that forms in tissues of the lung, usually in the cells that line the air passages. It is the leading cause of cancer death in both men and women.
+There are two main types: small cell lung cancer and non-small cell lung cancer. These two types grow differently and are treated differently. Non-small cell lung cancer is the more common type.
+Who is more likely to develop lung cancer?
+Anyone can develop lung cancer, but certain factors raise your risk of getting it:
+Smoking. This is the most important risk factor for lung cancer. Tobacco smoking causes about 9 out of 10 cases of lung cancer in men and about 8 out of 10 cases of lung cancer in women. The more years you smoke and the more cigarettes you smoke each day, the more your risk goes up. Your risk is also greater if you smoke a lot and drink alcohol every day or take beta carotene supplements. If you have quit smoking, your risk will be lower than if you had kept smoking. But you will still have a higher risk than people who never smoked.
+Secondhand smoke, which is the combination of the smoke that comes from a cigarette and the smoke breathed out by a smoker. When you breathe in secondhand smoke, you are exposed to the same cancer-causing agents as smokers, although in smaller amounts.
+A family history of lung cancer.
+Being exposed to asbestos, arsenic, chromium, beryllium, nickel, soot, or tar in the workplace.
+Being exposed to radiation, for example from:
+Radiation therapy to the breast or chest
+Radon in the home or workplace
+Certain imaging tests such as CT scans
+HIV infection. Your risk is higher if you have HIV. However, smoking rates are higher in people who have HIV, so it's not clear whether the increased risk is from the HIV infection or from smoking.
+Air pollution. Studies show that living in areas with higher levels of air pollution increases your risk of lung cancer.
+What are the symptoms of lung cancer?
+Lung cancer may not cause any signs or symptoms until the cancer is advanced. Sometimes the cancer is found during a chest x-ray done for another condition.
+The symptoms of lung cancer may include:
+Chest pain or discomfort
+A cough that doesn't go away or gets worse over time
+Weight loss for no known reason
+Swelling in the face and/or veins in the neck
+How is lung cancer diagnosed?
+To find out if you have lung cancer, your health care provider:
+Will take your medical history, which includes asking about your symptoms
+Will ask about your family history
+Will do a physical exam
+May order certain imaging tests, such as a chest x-ray or chest CT scan
+May order lab tests, including tests of your blood and sputum
+May do a procedure to take a biopsy of the lung
+If you do have lung cancer, your provider will do other tests to find out if it has spread through the lungs, lymph nodes, and the rest of the body. This is called staging. Knowing the type and stage of lung cancer you have helps your provider decide what kind of treatment you need.
+If you have small-cell lung cancer, your provider may also do genetic testing to look for certain gene changes (variants) in your cancer cells. The results of the testing may help guide treatment.
+What are the treatments for lung cancer?
+For most patients with lung cancer, current treatments do not cure the cancer.
+Your treatment will depend on which type of lung cancer you have, how far it has spread, your overall health, and other factors. You may get more than one type of treatment.
+The treatments for small cell lung cancer may include:
+Laser therapy, which uses a laser beam to kill cancer cells.
+Endoscopic stent placement. An endoscope is a thin, tube-like instrument used to look at tissues inside the body. It may be used to put in a device called a stent. The stent helps to open an airway that has been blocked by abnormal tissue.
+The treatments for non-small cell lung cancer may include:
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+Photodynamic therapy (PDT), which uses a medicine and a certain type of laser light to kill cancer cells.
+Cryosurgery, which uses an instrument to freeze and destroy abnormal tissue.
+Electrocautery, a treatment that uses a probe or needle heated by an electric current to destroy abnormal tissue.
+Can lung cancer be prevented?
+Avoiding the risk factors may help prevent lung cancer. For example, you can:
+Quit smoking. And if you don't smoke, don't start.
+Lower your exposure to hazardous substances at work.
+Lower your exposure to radon. Radon tests can show whether your home has high levels of radon. You can buy a test kit yourself or hire a professional to do the test.
+NIH: National Cancer Institute
+General Information about Non-Small Cell Lung Cancer
+(National Cancer Institute)
+General Information about Small Cell Lung Cancer
+(National Cancer Institute)
+(Centers for Disease Control and Prevention)
+Bronchoscopy and Bronchoalveolar Lavage (BAL)
+Lung Cancer Genetic Tests
+Lung Cancer Screening
+(National Cancer Institute)
+Needle Biopsy of the Lung
+(American College of Radiology; Radiological Society of North America)
+PDL1 (Immunotherapy) Tests
+Screening for Lung Cancer
+(Centers for Disease Control and Prevention)
+Stages of Non-Small Cell Lung Cancer
+(National Cancer Institute)
+Stages of Small Cell Lung Cancer
+(National Cancer Institute)
+Staging of Lung Cancer
+(American Thoracic Society)
+Tests for Lung Disease
+(National Heart, Lung, and Blood Institute)
+Prevention and Risk Factors
+Lung Cancer Prevention
+(National Cancer Institute)
+Lung Cancer Risk Factors
+(Centers for Disease Control and Prevention)
+Treatments and Therapies
+Drugs Approved for Lung Cancer
+(National Cancer Institute)
+Lung Cancer: Treatment Types
+(American Society for Radiation Oncology)
+Pulmonary lobectomy - series
+(Medical Encyclopedia)
+Thermal Ablation for Tumor Treatment
+(American College of Radiology; Radiological Society of North America)
+Treatment Option Overview (Non-Small Cell Lung Cancer)
+(National Cancer Institute)
+Treatment Option Overview (Small Cell Lung Cancer)
+(National Cancer Institute)
+What Are the Types of Lung Cancer Treatment?
+(American Lung Association)
+How Do I Manage Lung Cancer Side Effects?
+(American Lung Association)
+Nutrition for Lung Cancer Patients
+(American Lung Association)
+Physical Activity and Lung Cancer
+(American Lung Association)
+Lung Nodules: Can They Be Cancerous?
+(Mayo Foundation for Medical Education and Research)
+Questions to Ask Your Healthcare Team
+(GO2 Foundation for Lung Cancer)
+(National Cancer Institute)
+Risks of Lung Cancer Screening
+(National Cancer Institute)
+Secondhand Smoke and Cancer
+(National Cancer Institute)
+Lung cancer: MedlinePlus Genetics
+Videos and Tutorials
+(American College of Surgeons)
+Statistics and Research
+Advances in Lung Cancer Research
+(National Cancer Institute)
+Immunotherapy Drugs Expand Treatment Options for Advanced Lung Cancer
+(National Cancer Institute)
+Lung and Bronchus Cancer
+(National Cancer Institute)
+Lung Cancer Statistics
+(Centers for Disease Control and Prevention)
+ClinicalTrials.gov: Carcinoma, Bronchogenic
+ClinicalTrials.gov: Carcinoma, Non-Small-Cell Lung
+ClinicalTrials.gov: Lung Neoplasms
+ClinicalTrials.gov: Small Cell Lung Carcinoma
+National Lung Screening Trial: Questions and Answers
+(National Cancer Institute)
+Article: Longitudinal Analysis of Peripheral Blood CD4+ T-Cell Profiles and Clinical Outcomes...
+Article: Lorlatinib in patients with ALK-positive metastatic NSCLC previously treated with an...
+Article: European Society of Neuroendocrine Tumors (ENETS) 2025 guidance paper for lung...
+Lung Cancer -- see more articles
+(National Heart, Lung, and Blood Institute)
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+American Lung Association
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Pleuropulmonary Blastoma Treatment
+(National Cancer Institute)
+Childhood Tracheobronchial Tumors Treatment
+(National Cancer Institute)
+After chemotherapy - discharge
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Lung cancer - small cell
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Non-small cell lung cancer
+(Medical Encyclopedia)
+Solitary pulmonary nodule
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Chest radiation - discharge
+Cytology exam of pleural fluid
+Lung cancer - small cell
+Lung surgery - discharge
+Mediastinoscopy with biopsy
+Metastatic pleural tumor
+Non-small cell lung cancer
+Pleural needle biopsy
+Pulmonary lobectomy - series
+Solitary pulmonary nodule
+Related Health Topics
+The primary NIH organization for research on
+National Cancer Institute
+Find health information in languages other than English on Lung Cancer
+Getting an Accurate Read on Pulse Oximeters
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated May 5, 2025
+
+---
+
+[DISEASE: Coloncancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/coloncancer.html]
+MedlinePlus: We're sorry, we can't find the page you requested
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+We're sorry. We can't find the page you requested.
+You might want to search the MedlinePlus site:
+Or, try one of these pages:
+MedlinePlus Homepage
+Medical Encyclopedia
+If you need help, see our site map or contact us.
+Guidelines for Links
+MedlinePlus Connect for EHRs
+
+---
+
+[DISEASE: Prostatecancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/prostatecancer.html]
+Prostate Cancer | Prostate Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What is prostate cancer?
+Cancer is a disease in which cells in the body grow out of control. Prostate cancer begins in the cells of the prostate. The prostate is a gland in the male reproductive system. It lies just below the bladder. It makes fluid that is part of semen.
+Prostate cancer is one of the most common types of cancer. It often grows very slowly. If it does not spread to other parts of the body, it may not cause serious problems. But sometimes prostate cancer can grow quickly and spread to other parts of the body. This kind of prostate cancer is serious.
+What causes prostate cancer?
+Researchers don't know for sure what causes prostate cancer. They do know that it happens when there are changes in the genetic material (DNA).
+Sometimes these genetic changes are inherited, meaning that you are born with them. There are also certain genetic changes that happen during your lifetime that can raise your risk of prostate cancer. But often the exact cause of these genetic changes is unknown.
+Who is more likely to develop prostate cancer?
+Anyone who has a prostate can develop prostate cancer. But certain factors can make you more likely to develop it:
+Age. Your chance of developing prostate cancer increases as you get older. Prostate cancer is rare in people under age 50.
+Family health history. Your risk of prostate cancer is higher if you have a parent, sibling, or child who has or has had prostate cancer.
+Race. African Americans are more likely to get prostate cancer. They're also more likely to:
+Get prostate cancer at a younger age.
+Have more serious prostate cancer.
+Die from prostate cancer.
+What are the symptoms of prostate cancer?
+Prostate cancer doesn't always cause symptoms, especially at first. If it does cause symptoms, they may include:
+Problems urinating (peeing), such as:
+A urine stream that's weak, hard to start, or starts and stops
+Suddenly needing to urinate right away
+Urinating often, especially at night
+Pain or burning when urinating
+Blood in your urine or semen
+Pain in your lower back, hips, or pelvis that does not go away
+Painful ejaculation (the release of semen through the penis during orgasm)
+But many of these symptoms may be from other common prostate problems that aren't cancer, such as an enlarged prostate.
+You should discuss your prostate health with your health care provider if you:
+Have symptoms that could be prostate cancer
+Have a high risk for developing prostate cancer
+Had a screening test that suggests you could have prostate cancer
+What are prostate tests and how is prostate cancer diagnosed?
+Tests which check for prostate cancer include:
+A digital rectal exam (DRE). In this exam, your provider feels your prostate for lumps or anything unusual by inserting a lubricated, gloved finger into your rectum.
+A prostate-specific antigen (PSA) blood test. A high PSA blood level may be a sign of prostate cancer. But many other things can cause high PSA levels, too.
+Imaging tests. These tests may use ultrasound or MRI to make pictures of your prostate.
+If these tests show that you might have prostate cancer, the next step is usually a prostate biopsy. A biopsy is the only way to diagnose prostate cancer.
+During a biopsy, a doctor uses a hollow needle to remove some prostate tissue. The tissue is studied under a microscope to look for cancer cells.
+What are the treatments for prostate cancer?
+Your treatment options usually depend on your age, your general health, and how serious the cancer is. Your treatment may include one or more options:
+Observation,which is mostly used if you are older, your prostate cancer isn't likely to grow quickly, and you don't have symptoms or you have other medical conditions. Your doctor will keep checking on your cancer over time so to see whether you will need to start treatment for the cancer. There are two types of observation:
+Watchful waiting means having little or no testing. If symptoms begin or change, you will get treatment to relieve them, but not to treat the cancer.
+Active surveillance means having regular tests to see if your prostate cancer has changed. If the tests show the cancer is starting to grow or if you develop symptoms, then you will have treatment to try to cure the cancer.
+Surgery to remove your prostate gland may be an option if your cancer hasn't spread outside of your prostate.
+Radiation therapy uses high energy to kill cancer cells or prevent them from growing.
+Hormone therapy blocks cancer cells from getting the hormones they need to grow. It may include taking medicines or having surgery to remove the testicles.
+Chemotherapy uses medicines to kill cancer cells, slow their growth, or stop them from spreading. You might take the drugs by mouth, as an injection (shot), as a cream, or intravenously (by IV).
+Targeted therapy uses drugs or other substances that attack specific cancer cells. This treatment causes less harm to healthy cells than radiation therapy or chemotherapy.
+Immunotherapy helps your own immune system to fight cancer.
+Can prostate cancer be prevented?
+Making healthy lifestyle changes may help to prevent some prostate cancers. These changes include:
+Being at a healthy weight
+Getting enough exercise
+Eating healthy foods
+NIH: National Cancer Institute
+General Information about Prostate Cancer
+(National Cancer Institute)
+(Mayo Foundation for Medical Education and Research)
+Prostate Cancer Symptoms, Tests, and Treatment
+(Food and Drug Administration)
+What is Prostate Cancer?
+(American Cancer Society)
+Prostate Cancer Symptoms
+(Prostate Cancer Foundation)
+Can Prostate Cancer Be Found Early?
+(American Cancer Society)
+Prostate Cancer Screening: MedlinePlus Health Topic
+(American College of Radiology; Radiological Society of North America)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Prostate-Specific Antigen (PSA) Test
+Screening Tests for Prostate Cancer
+(American Cancer Society)
+Stages of Prostate Cancer
+(National Cancer Institute)
+Ultrasound -- Prostate
+(American College of Radiology; Radiological Society of North America)
+Ultrasound- or MRI-Guided Prostate Biopsy
+(American College of Radiology; Radiological Society of North America)
+When You're Newly Diagnosed
+(Prostate Cancer Foundation)
+Prevention and Risk Factors
+Prostate Cancer Prevention
+(National Cancer Institute)
+Prostate Cancer Risk Factors
+(American Cancer Society)
+What Causes Prostate Cancer?
+(American Cancer Society)
+Treatments and Therapies
+Drugs Approved for Prostate Cancer
+(National Cancer Institute)
+Hormone Therapy for Prostate Cancer
+(National Cancer Institute)
+Immunotherapy for Prostate Cancer
+(American Cancer Society)
+Observation or Active Surveillance for Prostate Cancer
+(American Cancer Society)
+Prostate Cancer Treatment
+(National Cancer Institute)
+Prostate Cancer Treatment
+(American College of Radiology; Radiological Society of North America)
+Prostatectomy - Series
+(Medical Encyclopedia)
+Treating Prostate Cancer That Doesn't Go Away or Comes Back after Treatment
+(American Cancer Society)
+Treatment Option Overview (Prostate Cancer)
+(National Cancer Institute)
+Hormone Therapy Side Effects
+(Prostate Cancer Foundation)
+Sexual Health Changes Following Treatment
+(Prostate Cancer Foundation)
+Treatments for Prostate Cancer Spread to Bones
+(American Cancer Society)
+After Treatment: Living as a Prostate Cancer Survivor
+(American Cancer Society)
+Bowel Dysfunction after Prostate Cancer Treatment
+(Johns Hopkins Medicine)
+(American Cancer Society)
+Urinary Dysfunction after Prostate Cancer Treatment
+(Johns Hopkins Medicine)
+Prostate cancer: MedlinePlus Genetics
+Prostate Cancer Myths & Facts Quiz
+(Medical Encyclopedia)
+Statistics and Research
+Advances in Prostate Cancer Research
+(National Cancer Institute)
+Cancer Stat Facts: Prostate Cancer
+(National Cancer Institute)
+Comparing Side Effects of Prostate Cancer Treatments
+Key Statistics for Prostate Cancer
+(American Cancer Society)
+Prostate Cancer Statistics
+(Centers for Disease Control and Prevention)
+What's New in Prostate Cancer Research and Treatment?
+(American Cancer Society)
+ClinicalTrials.gov: Prostatic Neoplasms
+Article: A Prolonged Nightly Fasting Plus Telehealth Coaching Intervention (PNF+) for Men...
+Article: Web-Based Personalized Machine Learning Recommendations to Enhance Shared Decision-Making in Prostate-Specific...
+Article: Perineal versus retropubic radical prostatectomy in localized prostate cancer: extended analysis...
+Prostate Cancer -- see more articles
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+Cryotherapy for prostate cancer
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Gleason grading system
+(Medical Encyclopedia)
+Hormone therapy for prostate cancer
+(Medical Encyclopedia)
+Pelvic radiation - discharge
+(Medical Encyclopedia)
+Prostate brachytherapy
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Prostate cancer staging
+(Medical Encyclopedia)
+Prostate cancer treatment
+(Medical Encyclopedia)
+Understanding your prostate cancer risk
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Cryotherapy for prostate cancer
+Gleason grading system
+Hormone therapy for prostate cancer
+Pelvic radiation - discharge
+Prostate brachytherapy
+Prostate brachytherapy - discharge
+Prostate cancer staging
+Prostate cancer treatment
+Prostate radiation - discharge
+Prostatectomy - Series
+Radical prostatectomy
+Radical prostatectomy - discharge
+Understanding your prostate cancer risk
+Related Health Topics
+Prostate Cancer Screening
+The primary NIH organization for research on
+Prostate Cancer is the
+National Cancer Institute
+Find health information in languages other than English on Prostate Cancer
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated March 28, 2024
+
+---
+
+[DISEASE: Leukemia]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/leukemia.html]
+Leukemia | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Statistics and Research
+Leukemia is a term for cancers of the blood cells. Leukemia starts in blood-forming tissues such as the bone marrow. Your bone marrow makes the cells which will develop into white blood cells, red blood cells, and platelets. Each type of cell has a different job:
+White blood cells help your body fight infection
+Red blood cells deliver oxygen from your lungs to your tissues and organs
+Platelets help form clots to stop bleeding
+When you have leukemia, your bone marrow makes large numbers of abnormal cells. This problem most often happens with white blood cells. These abnormal cells build up in your bone marrow and blood. They crowd out the healthy blood cells and make it hard for your cells and blood to do their work.
+What are the types of leukemia?
+There are different types of leukemia. Which type of leukemia you have depends on the type of blood cell that becomes cancer and whether it grows quickly or slowly.
+The type of blood cell could be:
+Lymphocytes, a type of white blood cell
+Myeloid cells, immature cells that become white blood cells, red blood cells, or platelets
+The different types can grow quickly or slowly:
+Acute leukemia is fast growing. It usually gets worse quickly if it's not treated.
+Chronic leukemia is slow growing. It usually gets worse over a longer period of time.
+The main types of leukemia are:
+Acute lymphocytic leukemia (ALL), which is the most common type of cancer in children. It can also affect adults.
+Acute myeloid leukemia (AML), which is more common in older adults but can also affect children
+Chronic lymphocytic leukemia (CLL), which is one of the most common types of leukemia in adults. It often occurs during or after middle age.
+Chronic myeloid leukemia (CML), which usually occurs in adults during or after middle age
+What causes leukemia?
+Leukemia happens when there are changes in the genetic material (DNA) in bone marrow cells. The cause of these genetic changes is unknown.
+Who is at risk for leukemia?
+For the specific types, there are different factors which can raise your risk of getting that type. Overall, your risk of leukemia goes up as you age. It is most common over age 60.
+What are the symptoms of leukemia?
+Some of the symptoms of leukemia may include:
+Fever or night sweats
+Easy bruising or bleeding
+Weight loss or loss of appetite
+Petechiae, which are tiny red dots under the skin. They are caused by bleeding.
+Other leukemia symptoms can be different from type to type. Chromic leukemia may not cause symptoms at first.
+How is leukemia diagnosed?
+Your health care provider may use many tools to diagnose leukemia:
+Blood tests, such as a complete blood count (CBC)
+Bone marrow tests. There are two main types - bone marrow aspiration and bone marrow biopsy. Both tests involve removing a sample of bone marrow and bone. The samples are sent to a lab for testing.
+Genetic tests to look for gene and chromosome changes
+Once the provider makes a diagnosis, there may be additional tests to see whether the cancer has spread. These include imaging tests and a lumbar puncture, which is a procedure to collect and test cerebrospinal fluid (CSF).
+What are the treatments for leukemia?
+The treatments for leukemia depend on which type you have, how severe the leukemia is, your age, your overall health, and other factors. Some possible treatments might include:
+Chemotherapy with stem cell transplant
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+NIH: National Cancer Institute
+(Blood Cancer United)
+(Mayo Foundation for Medical Education and Research)
+Beta 2 Microglobulin (B2M) Tumor Marker Test
+Blood Count Tests: MedlinePlus Health Topic
+(National Heart, Lung, and Blood Institute)
+Lab and Imaging Tests
+(Blood Cancer United)
+Tests for Chronic Myelomonocytic Leukemia (CMML)
+(American Cancer Society)
+Treatments and Therapies
+(Blood Cancer United)
+Bone Marrow Transplantation: MedlinePlus Health Topic
+Choosing a Blood Cancer Specialist or a Treatment Center
+(Blood Cancer United)
+Chronic Myeloproliferative Neoplasms Treatment
+(National Cancer Institute)
+Drugs Approved for Leukemia
+(National Cancer Institute)
+General Approach to Treating Chronic Myelomonocytic Leukemia (CMML)
+(American Cancer Society)
+(Blood Cancer United)
+Integrative Medicine and Complementary Therapies
+(Blood Cancer United)
+Treatment Option Overview (Hairy Cell Leukemia)
+(National Cancer Institute)
+Electromagnetic Fields and Cancer
+(National Cancer Institute)
+Adult T-Cell Leukemia/Lymphoma
+(Lymphoma Research Foundation)
+General Information About Hairy Cell Leukemia
+(National Cancer Institute)
+What Is Chronic Myelomonocytic Leukemia (CMML)?
+(American Cancer Society)
+What Causes Chronic Myelomonocytic Leukemia (CMML)?
+(American Cancer Society)
+Statistics and Research
+Advances in Leukemia Research
+(National Cancer Institute)
+Blood Cancer Facts and Statistics
+(Blood Cancer United)
+Cancer Statistics: Leukemia
+(National Cancer Institute)
+Clinical Trial Support Center (CTSC)
+(Blood Cancer United)
+ClinicalTrials.gov: Leukemia
+ClinicalTrials.gov: Leukemia, Hairy Cell
+Article: Digital and Paper-Based Hospital Workflows and 60-Day Mortality in Acute Leukemia:...
+Article: Discovery of an Endonuclease G-inhibitory Ku80-peptide protecting against leukemogenic rearrangements at...
+Article: Letermovir improves the outcome of allogenic stem cell transplantation with anti-thymocyte...
+Leukemia -- see more articles
+American Cancer Society
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Leukemia: MedlinePlus Health Topic
+(Nemours Foundation)
+B-cell leukemia/lymphoma panel
+(Medical Encyclopedia)
+Bone marrow transplant
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+B-cell leukemia/lymphoma panel
+Bone marrow transplant
+Bone marrow transplant - discharge
+Bone-marrow transplant - series
+Fibrinopeptide A blood test
+Related Health Topics
+Acute Lymphocytic Leukemia
+Acute Myeloid Leukemia
+Chronic Lymphocytic Leukemia
+Chronic Myeloid Leukemia
+The primary NIH organization for research on
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 9, 2023
+
+---
+
+[DISEASE: Lymphoma]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/lymphoma.html]
+Lymphoma | Hodgkins Lymphoma | Non Hodgkins Lymphoma | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Non-Hodgkin lymphoma
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+Lymphoma is a cancer of a part of the immune system called the lymph system. There are many types of lymphoma. One type is Hodgkin disease. The rest are called non-Hodgkin lymphomas.
+Non-Hodgkin lymphomas begin when a type of white blood cell, called a T cell or B cell, becomes abnormal. The cell divides again and again, making more and more abnormal cells. These abnormal cells can spread to almost any other part of the body. Most of the time, doctors don't know why a person gets non-Hodgkin lymphoma. You are at increased risk if you have a weakened immune system or have certain types of infections.
+Non-Hodgkin lymphoma can cause many symptoms, such as :
+Swollen, painless lymph nodes in the neck, armpits or groin
+Unexplained weight loss
+Soaking night sweats
+Coughing, trouble breathing or chest pain
+Weakness and tiredness that don't go away
+Pain, swelling or a feeling of fullness in the abdomen
+Your doctor will diagnose lymphoma with a physical exam, blood tests, a chest x-ray, and a biopsy. Treatments include chemotherapy, radiation therapy, targeted therapy, biological therapy, or therapy to remove proteins from the blood. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells. Biologic therapy boosts your body's own ability to fight cancer. If you don't have symptoms, you may not need treatment right away. This is called watchful waiting.
+NIH: National Cancer Institute
+General Information about Adult Non-Hodgkin Lymphoma
+(National Cancer Institute)
+General Information about Childhood Non-Hodgkin Lymphoma
+(National Cancer Institute)
+Non-Hodgkin's Lymphoma
+(Mayo Foundation for Medical Education and Research)
+What Is Non-Hodgkin Lymphoma?
+(American Cancer Society)
+Beta 2 Microglobulin (B2M) Tumor Marker Test
+Blood Count Tests: MedlinePlus Health Topic
+Lab and Imaging Tests
+(Blood Cancer United)
+(Mayo Foundation for Medical Education and Research)
+Stages of Adult Non-Hodgkin Lymphoma
+(National Cancer Institute)
+Stages of AIDS-Related Lymphoma
+(National Cancer Institute)
+Stages of Childhood Non-Hodgkin Lymphoma
+(National Cancer Institute)
+Stages of Mycosis Fungoides (Including Sézary Syndrome)
+(National Cancer Institute)
+Staging Primary CNS Lymphoma
+(National Cancer Institute)
+Tests for Non-Hodgkin Lymphoma
+(American Cancer Society)
+Tests for Waldenstrom Macroglobulinemia
+(American Cancer Society)
+Prevention and Risk Factors
+Can Non-Hodgkin Lymphoma Be Prevented?
+(American Cancer Society)
+Causes, Risk Factors, and Prevention of Waldenstrom Macroglobulinemia
+(American Cancer Society)
+Non-Hodgkin Lymphoma Risk Factors
+(American Cancer Society)
+Treatments and Therapies
+Bone Marrow Transplantation: MedlinePlus Health Topic
+Drugs Approved for Non-Hodgkin Lymphoma
+(National Cancer Institute)
+(Blood Cancer United)
+Integrative Medicine and Complementary Therapies
+(Blood Cancer United)
+Radioimmunotherapy (RIT)
+(American College of Radiology; Radiological Society of North America)
+Treatment of Recurrent Mycosis Fungoides (Including Sézary Syndrome)
+(National Cancer Institute)
+Treatment of Stage I and Stage II Mycosis Fungoides
+(National Cancer Institute)
+Treatment of Stage III and Stage IV Mycosis Fungoides (Including Sézary Syndrome)
+(National Cancer Institute)
+Treatment Option Overview (Adult Non-Hodgkin Lymphoma)
+(National Cancer Institute)
+Treatment Option Overview (AIDS Related-Lymphoma)
+(National Cancer Institute)
+Treatment Option Overview (Childhood Non-Hodgkin Lymphoma)
+(National Cancer Institute)
+Treatment Option Overview (Primary CNS Lymphoma)
+(National Cancer Institute)
+Treatment Option Overview for Mycosis Fungoides (Including Sézary Syndrome)
+(National Cancer Institute)
+Treatment Options for Childhood Non-Hodgkin Lymphoma
+(National Cancer Institute)
+After Treatment for Waldenstrom Macroglobulinemia
+(American Cancer Society)
+Living as a Non-Hodgkin Lymphoma Survivor
+(American Cancer Society)
+Understanding Lymphoma and Chronic Lymphocytic Leukemia (CLL): Cancer-Related Fatigue
+(Lymphoma Research Foundation)
+Hodgkin's vs. Non-Hodgkin's Lymphoma: What's the Difference?
+(Mayo Foundation for Medical Education and Research)
+Adult T-Cell Leukemia/Lymphoma
+(Lymphoma Research Foundation)
+Anaplastic Large Cell Lymphoma
+(Lymphoma Research Foundation)
+Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma (CLL/SLL)
+(Lymphoma Research Foundation)
+General Information about AIDS-Related Lymphoma
+(National Cancer Institute)
+General Information about Mycosis Fungoides (Including Sézary Syndrome)
+(National Cancer Institute)
+General Information about Primary CNS Lymphoma
+(National Cancer Institute)
+Mantle Cell Lymphoma
+(Lymphoma Research Foundation)
+Marginal Zone Lymphoma
+(Lymphoma Research Foundation)
+(Lymphoma Research Foundation)
+Waldenstrom Macroglobulinema
+(American Cancer Society)
+8p11 myeloproliferative syndrome: MedlinePlus Genetics
+Mycosis fungoides: MedlinePlus Genetics
+Sézary syndrome: MedlinePlus Genetics
+Statistics and Research
+Advances in Lymphoma Research
+(National Cancer Institute)
+Cancer Stat Facts: Non-Hodgkin Lymphoma
+(National Cancer Institute)
+Key Statistics for Non-Hodgkin Lymphoma
+(American Cancer Society)
+What's New in Non-Hodgkin Lymphoma Research and Treatment?
+(American Cancer Society)
+Clinical Trial Support Center (CTSC)
+(Blood Cancer United)
+ClinicalTrials.gov: Lymphoma
+ClinicalTrials.gov: Lymphoma, Non-Hodgkin
+ClinicalTrials.gov: Waldenstrom Macroglobulinemia
+Article: Atorvastatin and left ventricular strain during anthracycline-based chemotherapy.
+Article: Biomarker-Guided Cardioprotection for Patients Treated With Anthracyclines: A Randomized Clinical Trial.
+Article: Group-Based Support Interventions for Adolescents and Young Adults With Lymphoma: A...
+Lymphoma -- see more articles
+American Cancer Society
+Choosing a Cancer Doctor
+(American Cancer Society)
+Lymphoma Research Foundation
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Causes, Risk Factors, and Prevention of Lymphoma in Children
+(American Cancer Society)
+General Information about Childhood Non-Hodgkin Lymphoma
+(National Cancer Institute)
+Immunotherapy to Treat Cancer (For Parents)
+(Nemours Foundation)
+After chemotherapy - discharge
+(Medical Encyclopedia)
+B-cell leukemia/lymphoma panel
+(Medical Encyclopedia)
+Bone marrow transplant
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Non-Hodgkin lymphoma
+(Medical Encyclopedia)
+Non-Hodgkin lymphoma in children
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+24-hour urine protein
+After chemotherapy - discharge
+B-cell leukemia/lymphoma panel
+Bone marrow transplant
+Bone marrow transplant - discharge
+Bone-marrow transplant - series
+Chest radiation - discharge
+Cytology exam of pleural fluid
+Immunofixation - urine
+Immunofixation blood test
+Mediastinoscopy with biopsy
+Non-Hodgkin lymphoma
+Non-Hodgkin lymphoma in children
+Quantitative nephelometry test
+Serum globulin electrophoresis
+Waldenstrom macroglobulinemia
+Related Health Topics
+The primary NIH organization for research on
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 5, 2024
+
+---
+
+[DISEASE: Pancreaticcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/pancreaticcancer.html]
+Pancreatic Cancer | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+The pancreas is a gland behind your stomach and in front of your spine. It produces the juices that help break down food and the hormones that help control blood sugar levels. Pancreatic cancer usually begins in the cells that produce the juices. Some risk factors for developing pancreatic cancer include:
+Chronic pancreatitis
+Certain hereditary disorders
+Pancreatic cancer is hard to catch early. It doesn't cause symptoms right away. When you do get symptoms, they are often vague or you may not notice them. They include yellowing of the skin and eyes, pain in the abdomen and back, weight loss and fatigue. Also, because the pancreas is hidden behind other organs, health care providers cannot see or feel the tumors during routine exams. Doctors use a physical exam, blood tests, imaging tests, and a biopsy to diagnose it.
+Because it is often found late and it spreads quickly, pancreatic cancer can be hard to treat. Possible treatments include surgery, radiation, chemotherapy, and targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+General Information about Pancreatic Cancer
+(National Cancer Institute)
+What Is Pancreatic Cancer?
+(American Cancer Society)
+Abdominal exploration - series
+(Medical Encyclopedia)
+CA 19-9 Blood Test (Pancreatic Cancer)
+Can Pancreatic Cancer Be Found Early?
+(American Cancer Society)
+Endoscopic Retrograde Cholangiopancreatography (ERCP)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(Johns Hopkins University, Department of Pathology)
+Stages of Pancreatic Cancer
+(National Cancer Institute)
+Stages of Pancreatic Neuroendocrine Tumors
+(National Cancer Institute)
+Tests for Pancreatic Cancer
+(American Cancer Society)
+Prevention and Risk Factors
+Pancreatic Cancer Risk Factors
+(American Cancer Society)
+Treatments and Therapies
+Acupuncture for Pancreatic Cancer Patients
+(Pancreatic Cancer Action Network)
+Drugs Approved for Pancreatic Cancer
+(National Cancer Institute)
+Pain Treatment and Management
+(National Pancreas Foundation)
+Surgery for Pancreatic Cancer
+(American Cancer Society)
+(Johns Hopkins University, Department of Pathology)
+Treatment Option Overview (Pancreatic Cancer)
+(National Cancer Institute)
+Treatment Option Overview for Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+(National Cancer Institute)
+7 Physical Challenges Supportive Care Can Help
+(Pancreatic Cancer Action Network)
+Diet After Pancreatic Surgery
+(Pancreatic Cancer Action Network)
+Living as a Pancreatic Cancer Survivor
+(American Cancer Society)
+(Johns Hopkins University, Department of Pathology)
+Pancreatic Enzymes and Supplements
+(Pancreatic Cancer Action Network)
+(Johns Hopkins University, Department of Pathology)
+Managing Risk for Cancers Related to Lynch Syndrome
+(Centers for Disease Control and Prevention)
+Questions to Ask About Pancreatic Cancer
+(American Cancer Society)
+What Questions Should I Ask My Doctor?
+(Johns Hopkins University, Department of Pathology)
+Zollinger-Ellison Syndrome
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+General Information about Pancreatic Neuroendocrine Tumors (Islet Cell Tumors)
+(National Cancer Institute)
+About Familial Pancreatic Cancer: Pancreatic Cancer Can Be Hereditary
+(Johns Hopkins University, Department of Pathology)
+Pancreatic Cancer Stage 2A
+(National Cancer Institute)
+Pancreatic Cancer Stage 2B
+(National Cancer Institute)
+Pancreatic Cancer Stage 3
+(National Cancer Institute)
+Pancreatic Cancer Stage 4
+(National Cancer Institute)
+Statistics and Research
+Advances in Pancreatic Cancer Research
+(National Cancer Institute)
+Cancer Stat Facts: Pancreatic Cancer
+(National Cancer Institute)
+Key Statistics for Pancreatic Cancer
+(American Cancer Society)
+What's New in Pancreatic Cancer Research?
+(American Cancer Society)
+ClinicalTrials.gov: Carcinoma, Islet Cell
+ClinicalTrials.gov: Pancreatic Neoplasms
+Article: The effect of LysaKare infusion on serum potassium levels in patients...
+Article: Radiofrequency Ablation and Chemotherapy vs Chemotherapy Only in Locally Advanced Pancreatic...
+Article: Associations of corticosteroid therapy with weight change and appetite in patients...
+Pancreatic Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+(National Cancer Institute)
+(Johns Hopkins University, Department of Pathology)
+American Cancer Society
+(American Society for Gastrointestinal Endoscopy)
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Pancreatic Cancer Treatment
+(National Cancer Institute)
+After chemotherapy - discharge
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Zollinger-Ellison syndrome
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Abdominal exploration
+Abdominal exploration - series
+After chemotherapy - discharge
+Biopsy - biliary tract
+Pancreatic islet cell tumor
+Secretin stimulation test
+Surgery for pancreatic cancer
+Surgery for pancreatic cancer -- discharge
+Vasoactive intestinal peptide test
+Zollinger-Ellison syndrome
+Related Health Topics
+The primary NIH organization for research on
+Pancreatic Cancer is the
+National Cancer Institute
+New Pancreatic Cancer Research May Improve Detection and Treatment
+Pancreatic Cancer: What You Need to Know
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated September 27, 2025
+
+---
+
+[DISEASE: Kidneycancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/kidneycancer.html]
+Kidney Cancer | Kidney Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Hypernephroma, Renal cancer
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+You have two kidneys. They are fist-sized organs on either side of your backbone above your waist. The tubes inside filter and clean your blood, taking out waste products and making urine. Kidney cancer forms in the lining of tiny tubes inside your kidneys.
+Kidney cancer becomes more likely as you age. Risk factors include smoking, having certain genetic conditions, and misusing pain medicines for a long time.
+You may have no symptoms at first. They may appear as the cancer grows. See your health care provider if you notice:
+A lump in your abdomen
+Weight loss for no reason
+Pain in your side that does not go away
+Tests to diagnose kidney cancer include blood, urine, and imaging tests. You may also have a biopsy.
+Treatment depends on your age, your overall health and how advanced the cancer is. It might include surgery, chemotherapy, or radiation, biologic, or targeted therapies. Biologic therapy boosts your body's own ability to fight cancer. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+General Information about Renal Cell Cancer
+(National Cancer Institute)
+(Mayo Foundation for Medical Education and Research)
+Kidney Cancer Basics
+(Centers for Disease Control and Prevention)
+What Is Kidney Cancer?
+(American Cancer Society)
+Can Kidney Cancer Be Found Early?
+(American Cancer Society)
+Kidney Tests: MedlinePlus Health Topic
+PDL1 (Immunotherapy) Tests
+Stages of Renal Cell Cancer
+(National Cancer Institute)
+Tests for Kidney Cancer
+(American Cancer Society)
+Prevention and Risk Factors
+Risk Factors for Kidney Cancer
+(American Cancer Society)
+Treatments and Therapies
+Ablation and Other Local Therapy for Kidney Cancer
+(American Cancer Society)
+Drugs Approved for Kidney (Renal Cell) Cancer
+(National Cancer Institute)
+Immunotherapy for Kidney Cancer
+(American Cancer Society)
+Kidney removal (nephrectomy) - series
+(Medical Encyclopedia)
+Nephrectomy (Kidney Removal)
+(Mayo Foundation for Medical Education and Research)
+Targeted Therapy for Kidney Cancer
+(American Cancer Society)
+Treatment Option Overview (Renal Cell Cancer)
+(National Cancer Institute)
+Living as a Kidney Cancer Survivor
+(American Cancer Society)
+Questions to Ask about Kidney Cancer
+(American Cancer Society)
+Birt-Hogg-Dubé syndrome: MedlinePlus Genetics
+Hereditary Kidney Cancer Syndromes
+(National Cancer Institute)
+Hereditary leiomyomatosis and renal cell cancer: MedlinePlus Genetics
+What Causes Kidney Cancer?
+(American Cancer Society)
+Statistics and Research
+Advances in Kidney Cancer Research
+(National Cancer Institute)
+Cancer of the Kidney and Renal Pelvis
+(National Cancer Institute)
+Key Statistics About Kidney Cancer
+(American Cancer Society)
+Liquid Biopsy Detects Brain Cancer and Early-Stage Kidney Cancer
+(National Cancer Institute)
+Targeted Therapy - Immunotherapy Combinations Effective for Advanced Kidney Cancer
+(National Cancer Institute)
+What's New in Kidney Cancer Research and Treatment?
+(American Cancer Society)
+ClinicalTrials.gov: Carcinoma, Renal Cell
+ClinicalTrials.gov: Kidney Neoplasms
+Article: Simlukafusp alfa (FAP-IL2v) plus atezolizumab with or without bevacizumab in unresectable,...
+Article: Society for Immunotherapy of Cancer (SITC) clinical practice guideline on immunotherapy...
+Article: A prospective external validation of the GRade, Age, Nodes and Tumor...
+Kidney Cancer -- see more articles
+Your Kidneys and How They Work
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+Ultrasound: Renal (Kidneys, Ureters, Bladder) (For Parents)
+(Nemours Foundation)
+Wilms' Tumor: MedlinePlus Health Topic
+(Medical Encyclopedia)
+Kidney removal - discharge
+(Medical Encyclopedia)
+Renal cell carcinoma
+(Medical Encyclopedia)
+Renal pelvis or ureter cancer
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Cytology exam of urine
+Intravenous pyelogram
+Kidney removal (nephrectomy) - series
+Kidney removal - discharge
+Renal cell carcinoma
+Renal pelvis or ureter cancer
+Ureteral retrograde brush biopsy
+Related Health Topics
+The primary NIH organization for research on
+Kidney Cancer is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated August 11, 2020
+
+---
+
+[DISEASE: Bladdercancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/bladdercancer.html]
+Bladder Cancer | Bladder Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+The bladder is a hollow organ in your lower abdomen that stores urine. Bladder cancer occurs in the lining of the bladder. It is the sixth most common type of cancer in the United States.
+A frequent urge to urinate
+Pain when you urinate
+Risk factors for developing bladder cancer include smoking and exposure to certain chemicals in the workplace. People with a family history of bladder cancer or who are older, White, or male have a higher risk.
+Treatments for bladder cancer include surgery, radiation therapy, chemotherapy, and biologic therapy. Biologic therapy boosts your body's own ability to fight cancer.
+NIH: National Cancer Institute
+(Mayo Foundation for Medical Education and Research)
+What Is Bladder Cancer?
+(National Cancer Institute)
+What Is Bladder Cancer?
+(American Cancer Society)
+Bladder Cancer Symptoms
+(National Cancer Institute)
+Bladder Cancer Diagnosis
+(National Cancer Institute)
+Bladder Cancer Screening
+(National Cancer Institute)
+Bladder Cancer Stages
+(National Cancer Institute)
+Cystoscopy and Ureteroscopy
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Intravenous Pyelogram (IVP)
+PDL1 (Immunotherapy) Tests
+(American College of Radiology; Radiological Society of North America)
+Prevention and Risk Factors
+Bladder Cancer Causes and Risk Factors
+(National Cancer Institute)
+Bladder Cancer Risk Factors
+(American Cancer Society)
+Treatments and Therapies
+Bladder Cancer Treatment
+(National Cancer Institute)
+Drugs Approved for Bladder Cancer
+(National Cancer Institute)
+Treatment of Bladder Cancer by Stage
+(National Cancer Institute)
+Coping with Bladder Cancer
+(National Cancer Institute)
+Artificial Sweeteners and Cancer
+(National Cancer Institute)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Bladder Cancer Prognosis and Survival Rates
+(National Cancer Institute)
+General Information about Transitional Cell Cancer of the Renal Pelvis and Ureter
+(National Cancer Institute)
+Bladder cancer: MedlinePlus Genetics
+Statistics and Research
+Advances in Bladder Cancer Research
+(National Cancer Institute)
+Cancer Stat Facts: Bladder Cancer
+(National Cancer Institute)
+ClinicalTrials.gov: Ureteral Neoplasms
+ClinicalTrials.gov: Urethral Neoplasms
+ClinicalTrials.gov: Urinary Bladder Neoplasms
+Article: Radiotherapy with twice weekly Gemcitabine and Cisplatin compared to Cisplatin alone...
+Article: Neoadjuvant Nivolumab with or without Ipilimumab for Cisplatin-Ineligible Patients with Muscle-Invasive...
+Article: ctDNA-guided immunotherapy following radical cystectomy for muscle-invasive bladder cancer: results from...
+Bladder Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+Urinary Tract and How It Works
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+Childhood Bladder Cancer
+(National Cancer Institute)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Renal pelvis or ureter cancer
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Cytology exam of urine
+Intravenous pyelogram
+Pelvic radiation - discharge
+Renal pelvis or ureter cancer
+Urostomy - stoma and skin care
+Related Health Topics
+The primary NIH organization for research on
+Bladder Cancer is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 9, 2024
+
+---
+
+[DISEASE: Thyroidcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/thyroidcancer.html]
+Thyroid Cancer | Thyroid Cancer Treatment | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What is thyroid cancer?
+Thyroid cancer is a cancer that starts in the tissues of the thyroid. Your thyroid is a small, butterfly-shaped gland in the front of your neck. It makes hormones that control the way the body uses energy. These hormones affect nearly every organ in your body and control many of your body's most important functions. For example, they affect your breathing, heart rate, weight, digestion, and moods.
+What are the different types of thyroid cancer?
+There are different types of thyroid cancer; the main ones include:
+Differentiated thyroid cancer, which includes papillary cancer and follicular cancer
+Medullary thyroid cancer
+Anaplastic thyroid cancer
+Who is more likely to develop thyroid cancer?
+Certain people are more likely to develop thyroid cancer. Your risk is higher if you:
+Are between ages 25 and 65
+Were exposed to certain types of radiation, including from radiation treatments to your head or neck as a child or from a radiation emergency
+Have had a goiter (enlarged thyroid)
+Having certain genetic conditions, including certain types of multiple endocrine neoplasia
+Have a family history of thyroid cancer or thyroid disease
+What are the symptoms of thyroid cancer?
+Thyroid cancer may not cause symptoms at first. It is sometimes found during a routine physical exam. You may get signs or symptoms as the cancer gets bigger. The symptoms may include:
+A lump (nodule) in the neck
+Pain when swallowing
+Hoarseness or other changes to your voice that do not get better
+How is thyroid cancer diagnosed?
+To find out if you have thyroid cancer, your health care provider may use:
+A physical exam, including checking your neck for swelling, lumps, or anything that seems unusual
+Other blood or imaging tests
+What are the treatments for thyroid cancer?
+Treatment for thyroid cancer depends on the type of cancer you have and whether the cancer has spread. Often, more than one type of treatment may be needed. The treatment options include:
+Radiation therapy, including radioactive iodine therapy.
+Thyroid hormone therapy.
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+Watchful waiting, which means that you don't get treatment right away. Your regularly checks to see if your signs or symptoms appear or change.
+NIH: National Cancer Institute
+General Information about Thyroid Cancer
+(National Cancer Institute)
+What Is Thyroid Cancer?
+(American Cancer Society)
+Signs and Symptoms of Thyroid Cancer
+(American Cancer Society)
+Can Thyroid Cancer Be Found Early?
+(American Cancer Society)
+(Mayo Foundation for Medical Education and Research)
+Stages of Thyroid Cancer
+(National Cancer Institute)
+Tests for Thyroid Cancer
+(American Cancer Society)
+Thyroid Scan and Uptake
+(American College of Radiology; Radiological Society of North America)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+TSH (Thyroid-stimulating hormone) test
+Ultrasound - Thyroid
+(American College of Radiology; Radiological Society of North America)
+Ultrasound-Guided Thyroid Biopsy
+(American College of Radiology; Radiological Society of North America)
+Prevention and Risk Factors
+Can Thyroid Cancer Be Prevented?
+(American Cancer Society)
+Thyroid Cancer Risk Factors
+(American Cancer Society)
+Treatments and Therapies
+Chemotherapy for Thyroid Cancer
+(American Cancer Society)
+Drugs Approved for Thyroid Cancer
+(National Cancer Institute)
+Radioactive Iodine (Radioiodine) Therapy for Thyroid Cancer
+(American Cancer Society)
+Thyroid Cancer Treatment
+(National Cancer Institute)
+- In English and Spanish
+Thyroid Hormone Treatment
+(American Thyroid Association)
+(American Thyroid Association)
+(Mayo Foundation for Medical Education and Research)
+Treatment Option Overview (Thyroid Cancer)
+(National Cancer Institute)
+Living as a Thyroid Cancer Survivor
+(American Cancer Society)
+Accidents at Nuclear Power Plants and Cancer Risk
+(National Cancer Institute)
+Get the Facts about Exposure to I-131 Radiation
+(National Cancer Institute)
+Nuclear Radiation and the Thyroid
+(American Thyroid Association)
+Questions to Ask about Thyroid Cancer
+(American Cancer Society)
+What Causes Thyroid Cancer?
+(American Cancer Society)
+Multiple endocrine neoplasia: MedlinePlus Genetics
+Thyroidectomy - series
+(Medical Encyclopedia)
+Statistics and Research
+Advances in Thyroid Cancer Research
+(National Cancer Institute)
+Cancer of the Thyroid
+(National Cancer Institute)
+Key Statistics for Thyroid Cancer
+(American Cancer Society)
+Thyroid Cancer Research Results and Study Updates
+(National Cancer Institute)
+What's New in Thyroid Cancer Research?
+(American Cancer Society)
+ClinicalTrials.gov: Thyroid Neoplasms
+Article: Health-related quality of life with encorafenib plus binimetinib for BRAF V600E...
+Article: A Randomized Trial Evaluating Intraoperative Ischemic Preconditioning of Parathyroid Glands During...
+Article: Endoscopic thyroidectomy via the submental approach: a balanced approach to aesthetics,...
+Thyroid Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+American Thyroid Association
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find an Endocrinology - Thyroid Specialist
+(American Thyroid Association)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Thyroid Cancer Treatment
+(National Cancer Institute)
+Thyroid Cancer (For Parents)
+(Nemours Foundation)
+Anaplastic thyroid cancer
+(Medical Encyclopedia)
+Fine needle aspiration of the thyroid
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Thyroid cancer - medullary carcinoma
+(Medical Encyclopedia)
+Thyroid cancer - papillary carcinoma
+(Medical Encyclopedia)
+Thyroid gland removal
+(Medical Encyclopedia)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Anaplastic thyroid cancer
+Calcitonin blood test
+Fine needle aspiration of the thyroid
+Thyroid cancer - medullary carcinoma
+Thyroid cancer - papillary carcinoma
+Thyroid gland removal
+Thyroidectomy - series
+Related Health Topics
+The primary NIH organization for research on
+Thyroid Cancer is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 3, 2023
+
+---
+
+[DISEASE: Stomachcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/stomachcancer.html]
+Stomach Cancer | Gastric Cancer | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Gastric cancer
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+The stomach is an organ between the esophagus and the small intestine. It mixes food with stomach acid and helps digest protein. Stomach cancer mostly affects older people - two-thirds of people who have it are over age 65. Your risk of getting it is also higher if you:
+Have had a Helicobacter pylori infection
+Have had stomach inflammation
+Eat lots of salted, smoked, or pickled foods
+Have a family history of stomach cancer
+It is hard to diagnose stomach cancer in its early stages. Indigestion and stomach discomfort can be symptoms of early cancer, but other problems can cause the same symptoms. In advanced cases, there may be blood in your stool, vomiting, unexplained weight loss, jaundice, or trouble swallowing. Doctors diagnose stomach cancer with a physical exam, blood and imaging tests, an endoscopy, and a biopsy.
+Because it is often found late, it can be hard to treat stomach cancer. Treatment options include surgery, chemotherapy, radiation or a combination.
+NIH: National Cancer Institute
+(American Cancer Society)
+What Is Stomach Cancer?
+(National Cancer Institute)
+Stomach Cancer Symptoms
+(National Cancer Institute)
+Stomach Cancer Diagnosis
+(National Cancer Institute)
+Stomach Cancer Screening
+(National Cancer Institute)
+Stomach Cancer Stages
+(National Cancer Institute)
+Tests for Stomach Cancer
+(American Cancer Society)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Prevention and Risk Factors
+Risk Factors for Stomach Cancer
+(American Cancer Society)
+Stomach Cancer Causes and Risk Factors
+(National Cancer Institute)
+Stomach Cancer Causes, Risk Factors, and Prevention
+(American Cancer Society)
+Treatments and Therapies
+Drugs Approved for Stomach (Gastric) Cancer
+(National Cancer Institute)
+Gastrectomy - series
+(Medical Encyclopedia)
+Stomach Cancer Treatment
+(National Cancer Institute)
+Stomach Cancer Treatment by Stage
+(National Cancer Institute)
+Surgery for Stomach Cancer
+(American Cancer Society)
+Treating Stomach Cancer
+(American Cancer Society)
+After Stomach Cancer Treatment
+(American Cancer Society)
+Coping with Stomach Cancer
+(National Cancer Institute)
+Helicobacter pylori (H. pylori) and Cancer
+(National Cancer Institute)
+(Mayo Foundation for Medical Education and Research)
+Stomach Cancer Survival Rates and Prognosis
+(National Cancer Institute)
+Hereditary diffuse gastric cancer: MedlinePlus Genetics
+Statistics and Research
+Cancer Statistics: Cancer of the Stomach
+(National Cancer Institute)
+Incidence of Cancers of the Lower Stomach Increasing among Younger Americans
+(National Cancer Institute)
+Key Statistics about Stomach Cancer
+(American Cancer Society)
+Pembrolizumab Secures FDA Approval in Stomach Cancer
+(National Cancer Institute)
+ClinicalTrials.gov: Stomach Neoplasms
+Article: Extensive intraoperative peritoneal lavage (EIPL) for gastric cancer with positive peritoneal...
+Article: The effect of LysaKare infusion on serum potassium levels in patients...
+Article: Mass cytometry uncovers distinct blood myeloid phenotypes linked to clinical responses...
+Stomach Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+(American Society for Gastrointestinal Endoscopy)
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find a Gastroenterologist (GI Doctor)
+(American College of Gastroenterology)
+National Cancer Institute
+Childhood Stomach Cancer
+(National Cancer Institute)
+Abdominal radiation - discharge
+(Medical Encyclopedia)
+After chemotherapy - discharge
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Abdominal radiation - discharge
+After chemotherapy - discharge
+Gastrectomy - series
+Gastric tissue biopsy and culture
+Related Health Topics
+The primary NIH organization for research on
+Stomach Cancer is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated June 12, 2018
+
+---
+
+[DISEASE: Livercancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/livercancer.html]
+Liver Cancer | Hepatocellular Carcinoma | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Hepatocellular carcinoma
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+Your liver is the largest organ inside your body. It helps your body digest food, store energy, and remove poisons. Primary liver cancer starts in the liver. Metastatic liver cancer starts somewhere else and spreads to your liver.
+Risk factors for primary liver cancer include :
+Having hepatitis B or C
+Having cirrhosis, or scarring of the liver
+Having hemochromatosis, an iron storage disease
+Obesity and diabetes
+Symptoms can include a lump or pain on the right side of your abdomen and yellowing of the skin. However, you may not have symptoms until the cancer is advanced. This makes it harder to treat. Doctors use tests that examine the liver and the blood to diagnose liver cancer. Treatment options include surgery, radiation, chemotherapy, or liver transplantation.
+NIH: National Cancer Institute
+What Is Liver Cancer?
+(National Cancer Institute)
+What Is Liver Cancer?
+(American Cancer Society)
+Abdominal exploration - series
+(Medical Encyclopedia)
+Abdominal Ultrasound
+(American College of Radiology; Radiological Society of North America)
+Alpha Fetoprotein (AFP) Tumor Marker Test
+Endoscopic Retrograde Cholangiopancreatography (ERCP)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Liver Cancer Diagnosis
+(National Cancer Institute)
+Liver Cancer Screening
+(National Cancer Institute)
+Liver Function Tests
+(Mayo Foundation for Medical Education and Research)
+Tests for Liver Cancer
+(American Cancer Society)
+Prevention and Risk Factors
+Can Liver Cancer Be Found Early?
+(American Cancer Society)
+Liver Cancer Causes, Risk Factors, and Prevention
+(National Cancer Institute)
+Treatments and Therapies
+Cryosurgery to Treat Cancer
+(National Cancer Institute)
+Drugs Approved for Liver Cancer
+(National Cancer Institute)
+Liver Cancer Treatment
+(National Cancer Institute)
+Liver Transplantation: MedlinePlus Health Topic
+TACE Cancerous Tumor Therapy
+(American College of Radiology; Radiological Society of North America)
+Thermal Ablation for Tumor Treatment
+(American College of Radiology; Radiological Society of North America)
+Living as a Liver Cancer Survivor
+(American Cancer Society)
+Know HBV: What Every Asian and Pacific Islander Should Know About Hepatitis B and Liver Cancer
+(Asian Liver Center at Stanford University)
+Questions to Ask About Liver Cancer
+(American Cancer Society)
+What Causes Liver Cancer?
+(American Cancer Society)
+Hepatocellular Carcinoma
+(American Liver Foundation)
+(National Cancer Institute)
+Statistics and Research
+Advances in Liver Cancer Research
+(National Cancer Institute)
+Cancer Stat Facts: Liver and Intrahepatic Bile Duct Cancer
+(National Cancer Institute)
+Key Statistics about Liver Cancer
+(American Cancer Society)
+Liver Cancer Survical Rates
+(American Cancer Society)
+What's New in Liver Cancer Research?
+(American Cancer Society)
+ClinicalTrials.gov: Carcinoma, Hepatocellular
+ClinicalTrials.gov: Hepatoblastoma
+ClinicalTrials.gov: Liver Neoplasms
+Article: Phase I trial of locoregional administration of autologous tumor-infiltrating lymphocytes in...
+Article: Quantifying Functional Liver Volume Loss after CT-guided Percutaneous Thermal Ablation: A...
+Article: Tumor burden in metastatic colorectal cancer quantified using deep learning models:...
+Liver Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+American Liver Foundation
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+Childhood Hepatocellular Carcinoma
+(National Cancer Institute)
+Childhood Liver Cancer
+(National Cancer Institute)
+Childhood Undifferentiated Embryonal Sarcoma of the Liver
+(National Cancer Institute)
+(National Cancer Institute)
+Infantile Choriocarcinoma of the Liver
+(National Cancer Institute)
+(Medical Encyclopedia)
+After chemotherapy - discharge
+(Medical Encyclopedia)
+Liver cancer - hepatocellular carcinoma
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Abdominal exploration
+Abdominal exploration - series
+After chemotherapy - discharge
+Biopsy - biliary tract
+Gamma-glutamyl transpeptidase (GGT) blood test
+Liver cancer - hepatocellular carcinoma
+Related Health Topics
+The primary NIH organization for research on
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated November 22, 2025
+
+---
+
+[DISEASE: Cervicalcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/cervicalcancer.html]
+Cervical Cancer | HPV | Human Papillomavirus | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What is cervical cancer?
+Cervical cancer is cancer that starts in the cells of the cervix. The cervix is part of the female reproductive system. It is the lower, narrow end of the uterus (womb), which opens into the vagina (birth canal).
+Cervical cancer usually develops slowly. Before cervical cells become cancer, they start to look abnormal. These cells are called "precancers." If they aren't destroyed or removed, they may become cancer cells that grow out of control and spread to other parts of your body.
+Screening tests for cervical cancer can help find abnormal cells so you can get treatment to prevent cervical cancer. These tests can also find cervical cancer early when it's usually easier to treat.
+What causes cervical cancer?
+Almost all cervical cancers are caused by a long-lasting infection with a virus called human papillomavirus (HPV). There are many types of HPV. The types that cause cancer are called "high-risk HPV." High-risk HPV is very common. It can be passed from one person to another through close skin-to-skin touching, usually during vaginal, anal, or oral sex. Most people who are infected have no symptoms and don't know they have it.
+If you're infected with high-risk HPV, usually your immune system will get rid of it within a year or two. But if your immune system can't control the infection, it may last for many years. Over time, HPV can turn normal cervical cells into abnormal cells. Without treatment, these cells may keep changing until they become cervical cancer.
+Who is more likely to develop cervical cancer?
+Cervical cancer is most common in people over age 30. If you have a high-risk HPV infection in your cervix, you're more likely to develop cervical cancer if you:
+Have a weakened immune system because you:
+Have a disease that harms your immune system, such as HIV.
+Take medicine to control your immune system, such as certain medicines to treat cancer or autoimmune diseases
+Smoke tobacco or breathe secondhand smoke.
+Use birth control pills or have given birth to many children.
+Were exposed to a medicine called DES (diethylstilbestrol) before you were born. Between 1940-1971, DES was sometimes prescribed during pregnancy to prevent miscarriages. DES was later linked to health problems, including cervical cancer.
+What are the symptoms of cervical cancer?
+Cervical cancer usually doesn't cause symptoms when it first starts to grow. But when it does cause symptoms, they may include:
+Vaginal bleeding that's not normal for you, such as bleeding after sex or between menstrual periods
+Vaginal discharge (fluid) that's watery and has a strong odor or contains blood
+Pelvic pain or pain during sex
+If cervical cancer spreads to other parts of your body, symptoms may include:
+Unusual vaginal bleeding or discharge
+Pelvic pain or pain during sex
+Difficult or painful bowel movements (poops) or bleeding from the rectum when having a bowel movement
+Difficult or painful urination (peeing) or blood in your urine (pee)
+Abdominal (belly) pain
+How is cervical cancer diagnosed?
+If you have symptoms or had an abnormal result on a screening test for cervical cancer, your health care provider will do more tests to find out if you have cervical cancer. They will:
+Ask about your medical history and your family health history
+Suggest tests to diagnose or rule out cervical cancer, including:
+Colposcopy, a procedure using a device called a colposcope, which helps your provider examine your cervix for abnormal areas
+Cervical biopsy, a procedure to remove a tissue sample from your cervix so that it can be examined under a microscope to look for signs of cancer. Most biopsies can be done in your provider's office
+What are the treatments for cervical cancer?
+Different treatments are available for cervical cancer. The best treatment for you depends on your health, how much cancer you have, whether it has spread, and which treatment you prefer. You may have more than one treatment, including:
+Surgery to remove the cancer.
+Radiation therapy, which uses high-energy x-rays or other types of radiation to kill cancer cells or keep them from growing. The therapy may use radiation from a machine, or a radioactive substance may be placed in your body near the cancer.
+Chemotherapy (chemo), which uses special medicines to shrink or kill the cancer. The medicine may be pills, or it may be given through a vein (by IV). Sometimes, both types of chemo are used.
+Targeted therapy, which uses special medicines to block the growth and spread of cancer cells.
+Immunotherapy, which helps your immune system fight cancer cells.
+Can cervical cancer be prevented?
+Almost all cervical cancer can be prevented by:
+HPV vaccination. HPV vaccines provide the most protection if you get them before you're exposed to HPV. So, it's best to get vaccinated before you become sexually active. Medical experts recommend vaccinating children between ages 9 and 12.
+Routine cervical cancer screening. Two types of screening tests may be part of your routine health checkup. Both tests use a sample of cervical cells that your provider collects with a swab:
+A Pap smear checks for abnormal cells so they can be treated before they become cancer
+An HPV test checks for high-risk HPV infections that can cause cancer.
+Getting the right follow-up treatment if a screening test finds abnormal cells and/or high-risk HPV.
+You can lower your risk for cervical cancer by not smoking. Using condoms correctly during sex lowers your risk of getting an HPV infection, but doesn't prevent it completely. Condom use has been linked to fewer cases of cervical cancer. If you or your partner is allergic to latex, you can use polyurethane condoms.
+NIH: National Cancer Institute
+Cervical Cancer Basics
+(Centers for Disease Control and Prevention)
+What Is Cervical Cancer?
+(National Cancer Institute)
+Cervical Cancer Symptoms
+(National Cancer Institute)
+Cervical Cancer Diagnosis
+(National Cancer Institute)
+Cervical Cancer Screening: MedlinePlus Health Topic
+Cervical Cancer Stages
+(National Cancer Institute)
+Loop Electrosurgical Excision Procedure (LEEP)
+(Johns Hopkins Medicine)
+Tests for Cervical Cancer
+(American Cancer Society)
+Prevention and Risk Factors
+Cervical Cancer Causes, Risk Factors, and Prevention
+(National Cancer Institute)
+HPV and Pap Test Results: Next Steps after an Abnormal Cervical Cancer Screening Test
+(National Cancer Institute)
+Human Papillomavirus (HPV) Vaccines
+(National Cancer Institute)
+Risk Factors for Cervical Cancer
+(American Cancer Society)
+Treatments and Therapies
+Cervical Cancer Treatment
+(National Cancer Institute)
+Cervical Cancer Treatment by Stage
+(National Cancer Institute)
+Cervical Cancer Treatment during Pregnancy
+(National Cancer Institute)
+Cryosurgery to Treat Cancer
+(National Cancer Institute)
+Drugs Approved for Cervical Cancer
+(National Cancer Institute)
+Surgery for Cervical Cancer
+(American Cancer Society)
+Coping with Cervical Cancer
+(National Cancer Institute)
+Cervical Dysplasia: Is It Cancer?
+(Mayo Foundation for Medical Education and Research)
+Diethylstilbestrol (DES) Exposure and Cancer
+(National Cancer Institute)
+(National Cancer Institute)
+Oral Contraceptives and Cancer Risk
+(National Cancer Institute)
+Cervical Cancer Prognosis and Survival Rates
+(National Cancer Institute)
+Cervical Cancer Stage IA
+(National Cancer Institute)
+Cervical Cancer Stage IB1
+(National Cancer Institute)
+Cervical Cancer Stage IB2 and IB3
+(National Cancer Institute)
+Cervical Cancer Stage IIIA
+(National Cancer Institute)
+Cervical Cancer Stage IIIB
+(National Cancer Institute)
+Cervical Cancer Stage IVA
+(National Cancer Institute)
+Cervical Cancer Stage IVB
+(National Cancer Institute)
+Statistics and Research
+Cervical Cancer Statistics
+(Centers for Disease Control and Prevention)
+Key Statistics for Cervical Cancer
+(American Cancer Society)
+What's New in Cervical Cancer Research?
+(American Cancer Society)
+ClinicalTrials.gov: Uterine Cervical Neoplasms
+Article: Tisotumab vedotin plus carboplatin or pembrolizumab in recurrent or metastatic cervical...
+Article: Clinical practice guideline for high-risk human papillomavirus testing in cervical cancer...
+Article: Cost-Effectiveness of Smoking Cessation Among Survivors of Cervical Intraepithelial Neoplasia or...
+Cervical Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find a Screening Program Near You
+(Centers for Disease Control and Prevention)
+How to Find an Ob-Gyn
+(American College of Obstetricians and Gynecologists)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Cervical and Vaginal Cancers
+(National Cancer Institute)
+(Medical Encyclopedia)
+(Centers for Disease Control and Prevention)
+Cervical cancer - screening and prevention
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Cervical cancer - screening and prevention
+Cervical dysplasia - series
+Colposcopy - directed biopsy
+Pelvic radiation - discharge
+Related Health Topics
+Cervical Cancer Screening
+Women's Health Checkup
+The primary NIH organization for research on
+Cervical Cancer is the
+National Cancer Institute
+Find health information in languages other than English on Cervical Cancer
+Cervical Cancer Survivor Urges Young People to Get HPV Vaccine
+How Fashion Designer Liz Lange Beat Cervical Cancer
+HPV and Cervical Cancer: What You Need to Know
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated January 2, 2025
+
+---
+
+[DISEASE: Ovariancancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/ovariancancer.html]
+Ovarian Cancer | Ovarian Cancer Symptoms | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+What is ovarian cancer?
+Cancer is a disease in which abnormal cells in the body grow out of control and form a tumor. Ovarian cancer is a cancerous tumor that forms in the tissues of an ovary. The ovaries are a pair of female reproductive glands that make eggs and female hormones.
+What are the types of ovarian cancer?
+There are a few different types of ovarian cancer. The most common type is epithelial cancer. It begins in the cells that cover the ovary.
+There are also two related types of epithelial cancer that can spread to the ovaries:
+Fallopian tube cancer forms in the tissue lining a fallopian tube. The fallopian tubes are a pair of long, slender tubes on each side of the uterus. The uterus is the female reproductive organ where a fetus grows during pregnancy.
+Primary peritoneal cancer forms in the tissue lining the peritoneum. Your peritoneum is a tissue lining that covers the organs in the abdomen (belly).
+These two cancers are like ovarian cancer, and they have the same treatments. So some medical experts also consider those two types as ovarian cancer.
+Some other rarer types of ovarian cancer are malignant germ cell tumors and stromal tumors.
+What causes ovarian cancer?
+Ovarian cancer happens when there are changes (mutations) in the genetic material (DNA). Often, the exact cause of these genetic changes is unknown.
+Most ovarian cancers are caused by genetic changes that happen during your lifetime. But sometimes these genetic changes are inherited, meaning that you are born with them. Ovarian cancer that is caused by inherited genetic changes is called hereditary ovarian cancer.
+There are also certain genetic changes that can raise your risk of ovarian cancer, including changes called BRCA1 and BRCA2. These two changes also raise your risk of breast and other cancers.
+Besides genetics, your lifestyle and the environment can affect your risk of ovarian cancer.
+Who is more likely to develop ovarian cancer?
+Certain people are more likely to develop ovarian cancer. They include those who:
+Have a family history of ovarian cancer in a mother, aunt, grandmother, or sister
+Have inherited changes in the BRCA1 or BRCA2 genes
+Have certain other genetic conditions, such as Lynch syndrome
+Took hormone replacement therapy
+Are overweight or have obesity
+Are older, especially those who have gone through menopause
+Have never been pregnant
+What are the symptoms of ovarian cancer?
+Ovarian cancer may not cause early signs or symptoms. By the time you do have signs or symptoms, the cancer is often advanced.
+The signs and symptoms may include:
+Pain, swelling, or a feeling of pressure in the abdomen (belly) or pelvis
+Sudden or frequent urge to urinate (pee)
+Trouble eating or feeling full
+A lump in the pelvic area
+Gastrointestinal problems, such as gas, bloating, or constipation
+How is ovarian cancer diagnosed?
+To find out if you have ovarian cancer, your health care provider:
+Will ask about your medical history, including your symptoms
+Will ask about your family health history, including relatives who have had ovarian cancer
+Will do a physical exam, including a pelvic exam
+Will likely do imaging tests
+May do blood tests such as a CA-125 blood test
+Often the only way to know for sure that you have ovarian cancer is by having a biopsy of the tissue. A biopsy is done during surgery to remove the tumor.
+What are the treatments for ovarian cancer?
+Treatments for ovarian cancer may include:
+Surgery to remove as much of the cancer as possible
+Targeted therapy, which uses drugs or other substances that attack specific cancer cells with less harm to normal cells
+Your provider may suggest that you have genetic testing to look for the gene changes that raise the risk for ovarian cancer. Knowing whether you have the gene change may help your provider decide on your treatment plan.
+NIH: National Cancer Institute
+(American Cancer Society)
+(Mayo Foundation for Medical Education and Research)
+Symptoms of Ovarian Cancer
+(Centers for Disease Control and Prevention)
+Abdominal exploration - series
+(Medical Encyclopedia)
+Alpha Fetoprotein (AFP) Tumor Marker Test
+CA 125 Blood Test (Ovarian Cancer)
+Ovarian Cancer Early Detection, Diagnosis, and Staging
+(American Cancer Society)
+Ovarian Cancer Stages
+(American Cancer Society)
+Ovarian, Fallopian Tube, and Primary Peritoneal Cancers Screening
+(National Cancer Institute)
+Prevention and Risk Factors
+Ovarian Cancer Risk Factors
+(American Cancer Society)
+Treatments and Therapies
+Drugs Approved for Ovarian, Fallopian Tube, or Primary Peritoneal Cancer
+(National Cancer Institute)
+Treating Ovarian Cancer
+(American Cancer Society)
+After Ovarian Cancer Treatment
+(American Cancer Society)
+Oral Contraceptives and Cancer Risk
+(National Cancer Institute)
+Ovarian Cancer: Still Possible after Hysterectomy?
+(Mayo Foundation for Medical Education and Research)
+Ovarian Epithelial, Fallopian Tube, and Primary Peritoneal Cancers Treatment
+(National Cancer Institute)
+Ovarian Germ Cell Tumors Treatment
+(National Cancer Institute)
+Ovarian Low Malignant Potential Tumors Treatment
+(National Cancer Institute)
+About Hereditary Breast and Ovarian Cancers
+(Centers for Disease Control and Prevention)
+BRCA Gene Changes: Cancer Risk and Genetic Testing
+(National Cancer Institute)
+Causes, Risk Factors, and Prevention of Ovarian Cancer
+(American Cancer Society)
+Genetic Counseling for Hereditary Breast and Ovarian Cancer
+(Centers for Disease Control and Prevention)
+Ovarian cancer: MedlinePlus Genetics
+People at Increased Risk for BRCA Gene Mutations
+(Centers for Disease Control and Prevention)
+Ovarian Cancer Stage I
+(National Cancer Institute)
+Ovarian Cancer Stage II
+(National Cancer Institute)
+Ovarian Cancer Stage IIIC
+(National Cancer Institute)
+Statistics and Research
+Advances in Ovarian Cancer Research
+(National Cancer Institute)
+Key Statistics for Ovarian Cancer
+(American Cancer Society)
+Ovarian Cancer Statistics
+(National Cancer Institute)
+ClinicalTrials.gov: Fallopian Tube Neoplasms
+ClinicalTrials.gov: Hereditary Breast and Ovarian Cancer Syndrome
+ClinicalTrials.gov: Ovarian Neoplasms
+ClinicalTrials.gov: Peritoneal Neoplasms
+Article: Extensive intraoperative peritoneal lavage (EIPL) for gastric cancer with positive peritoneal...
+Article: Overall survival with relacorilant and nab-paclitaxel in patients with platinum-resistant ovarian...
+Article: Vaginal natural orifice transluminal endoscopic surgery versus laparoscopy for ovarian cystectomy:...
+Ovarian Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+Reproductive System: Female Anatomy
+(National Cancer Institute)
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Department of Health and Human Services, Office on Women's Health
+How to Find an Ob-Gyn
+(American College of Obstetricians and Gynecologists)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Childhood Ovarian Cancer Treatment
+(National Cancer Institute)
+BRCA1 and BRCA2 gene testing
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Abdominal exploration
+Abdominal exploration - series
+Abdominal radiation - discharge
+After chemotherapy - discharge
+BRCA1 and BRCA2 gene testing
+Diagnostic laparoscopy
+Estradiol blood test
+Pelvic radiation - discharge
+Sertoli-Leydig cell tumor
+Transvaginal ultrasound
+Related Health Topics
+The primary NIH organization for research on
+Ovarian Cancer is the
+National Cancer Institute
+3 Types of Ovarian Cancer, Explained
+By the Numbers: Ovarian Cancer
+Olympic Gymnast Shannon Miller: Accepting Help was Essential to Ovarian Cancer Recovery
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated April 1, 2025
+
+---
+
+[DISEASE: Skincancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/skincancer.html]
+Skin Cancer | Basal Cell Carcinoma | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+Skin cancer is the most common form of cancer in the United States. The two most common types are basal cell cancer and squamous cell cancer. They usually form on the head, face, neck, hands, and arms. Another type of skin cancer, melanoma, is more dangerous but less common.
+Anyone can get skin cancer, but it is more common in people who :
+Spend a lot of time in the sun or have been sunburned
+Have light-colored skin, hair and eyes
+Have a family member with skin cancer
+You should have your doctor check any suspicious skin markings and any changes in the way your skin looks. Treatment is more likely to work well when cancer is found early. If not treated, some types of skin cancer cells can spread to other tissues and organs. Treatments include surgery, radiation therapy, chemotherapy, photodynamic therapy (PDT), and biologic therapy. PDT uses a drug and a type of laser light to kill cancer cells. Biologic therapy boosts your body's own ability to fight cancer.
+NIH: National Cancer Institute
+General Information about Skin Cancer
+(National Cancer Institute)
+(Mayo Foundation for Medical Education and Research)
+Skin Cancer Screening
+Skin Cancer Screening
+(National Cancer Institute)
+Stages of Merkel Cell Carcinoma
+(National Cancer Institute)
+Stages of Skin Cancer
+(National Cancer Institute)
+Tests for Basal and Squamous Cell Skin Cancers
+(American Cancer Society)
+Prevention and Risk Factors
+Reducing Risk for Skin Cancer
+(Centers for Disease Control and Prevention)
+Skin Cancer Prevention
+(National Cancer Institute)
+Skin Cancer: Everyone's at Risk
+(American Academy of Dermatology)
+Take Steps to Prevent Skin Cancer
+(Office of Disease Prevention and Health Promotion)
+Treatments and Therapies
+Cryosurgery to Treat Cancer
+(National Cancer Institute)
+Drugs Approved for Skin Cancer
+(National Cancer Institute)
+Mohs Micrographic Surgery
+Skin Cancer: Treatment Types
+(American Society for Radiation Oncology)
+Treatment of Actinic Keratosis
+(National Cancer Institute)
+Treatment Option Overview (Merkel Cell Carcinoma)
+(National Cancer Institute)
+Treatment Option Overview (Skin Cancer)
+(National Cancer Institute)
+Living as a Basal or Squamous Cell Skin Cancer Survivor
+(American Cancer Society)
+Actinic Keratosis (Solar Keratosis)
+Risks of Skin Cancer Screening
+(National Cancer Institute)
+Skin Cancer in People with Darker Skin
+(National Cancer Institute)
+Sunscreen: How to Help Protect Your Skin from the Sun
+(Food and Drug Administration)
+General Information about Merkel Cell Carcinoma
+(National Cancer Institute)
+Sebaceous Carcinoma: Overview
+(American Academy of Dermatology)
+9q22.3 microdeletion: MedlinePlus Genetics
+(National Human Genome Research Institute)
+Gorlin syndrome: MedlinePlus Genetics
+Xeroderma pigmentosum: MedlinePlus Genetics
+Squamous Cell Carcinoma (SCC)
+Statistics and Research
+Advances in Melanoma and Other Skin Cancers Research
+(National Cancer Institute)
+Melanoma of the Skin Statistics
+(Centers for Disease Control and Prevention)
+(American Academy of Dermatology)
+What's New in Basal and Squamous Cell Skin Cancer Research?
+(American Cancer Society)
+ClinicalTrials.gov: Basal Cell Carcinoma
+ClinicalTrials.gov: Carcinoma, Merkel Cell
+ClinicalTrials.gov: Keratosis, Actinic
+ClinicalTrials.gov: Skin Neoplasms
+Article: Nivolumab for unresectable cutaneous epithelial malignancies: an open-label, single-arm, multi-centre, phase...
+Article: A phase 1b/2 study of cabozantinib in combination with pembrolizumab in...
+Article: Adjuvant Pembrolizumab for Stage IIB or IIC Melanoma: A Secondary Analysis...
+Skin Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Academy of Dermatology
+American Cancer Society
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find a Dermatologic Surgeon
+(American Society for Dermatologic Surgery)
+Find a Dermatologist
+(American Academy of Dermatology)
+National Cancer Institute
+Childhood Basal Cell Carcinoma and Squamous Cell Carcinoma of the Skin Treatment
+(National Cancer Institute)
+Childhood Melanoma Treatment
+(National Cancer Institute)
+Basal cell skin cancer
+(Medical Encyclopedia)
+Mohs micrographic surgery
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Squamous cell skin cancer
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Basal cell skin cancer
+Mohs micrographic surgery
+Nevoid basal cell carcinoma syndrome
+Squamous cell skin cancer
+Related Health Topics
+The primary NIH organization for research on
+National Cancer Institute
+Find health information in languages other than English on Skin Cancer
+Skin Cancer Diagnosis Highlights Importance of Annual Checks
+Sunscreen in the Winter?
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated August 9, 2025
+
+---
+
+[DISEASE: Multiplemyeloma]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/multiplemyeloma.html]
+Multiple Myeloma | Myeloma | Multiple Myeloma Symptoms  | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Plasma-cell myeloma
+Treatments and Therapies
+Statistics and Research
+Multiple myeloma is a cancer that begins in plasma cells, a type of white blood cell. These cells are part of your immune system, which helps protect the body from germs and other harmful substances. In time, myeloma cells collect in the bone marrow and in the solid parts of bones.
+No one knows the exact causes of multiple myeloma, but it is more common in older people and African Americans. It can run in families. Common symptoms may include:
+Bone pain, often in the back or ribs
+Fractures (broken bones)
+Frequent infections and fevers
+Feeling very thirsty
+Doctors diagnose multiple myeloma using lab tests, imaging tests, and a bone marrow biopsy. Your treatment depends on how advanced the disease is and whether you have symptoms. If you have no symptoms, you may not need treatment right away. If you have symptoms, you may have chemotherapy, stem cell transplantation, radiation, or targeted therapy. Targeted therapy uses drugs or other substances that attack specific cancer cells with less harm to normal cells.
+NIH: National Cancer Institute
+General Information about Plasma Cell Neoplasms (Including Multiple Myeloma)
+(National Cancer Institute)
+Multiple Myeloma: Patient Handbook
+(International Myeloma Foundation)
+(Blood Cancer United)
+Understanding Multiple Myeloma
+(Multiple Myeloma Research Foundation)
+What Is Multiple Myeloma?
+(American Cancer Society)
+Multiple Myeloma Symptoms and Causes
+(Mayo Foundation for Medical Education and Research)
+Beta 2 Microglobulin (B2M) Tumor Marker Test
+Blood Count Tests: MedlinePlus Health Topic
+Can Multiple Myeloma Be Found Early?
+(American Cancer Society)
+Protein Electrophoresis by Immunofixation Blood Test
+Stages of Plasma Cell Neoplasms (Including Multiple Myeloma)
+(National Cancer Institute)
+Tests to Find Multiple Myeloma
+(American Cancer Society)
+Understanding Your Test Results
+(International Myeloma Foundation)
+Treatments and Therapies
+Bone Marrow Transplantation: MedlinePlus Health Topic
+Drugs Approved for Multiple Myeloma and Other Plasma Cell Neoplasms
+(National Cancer Institute)
+Integrative Medicine and Complementary Therapies
+(Blood Cancer United)
+Treatment Option Overview
+(National Cancer Institute)
+Living as a Multiple Myeloma Survivor
+(American Cancer Society)
+(Mayo Foundation for Medical Education and Research)
+Monoclonal Gammopathies
+(Johns Hopkins Medicine)
+Questions to Ask about Multiple Myeloma
+(American Cancer Society)
+Risk Factors for Multiple Myeloma
+(American Cancer Society)
+What Causes Multiple Myeloma?
+(American Cancer Society)
+Multiple myeloma: MedlinePlus Genetics
+Statistics and Research
+Advances in Multiple Myeloma Research
+(National Cancer Institute)
+Key Statistics about Multiple Myeloma
+(American Cancer Society)
+(National Cancer Institute)
+What's New in Multiple Myeloma Research and Treatment?
+(American Cancer Society)
+ClinicalTrials.gov: Multiple Myeloma
+ClinicalTrials.gov: Plasmacytoma
+Article: Lenalidomide Plus Dexamethasone as FIRST-Line Therapy in Transplant-Ineligible Patients With Multiple...
+Article: Linvoseltamab versus real-world International Myeloma Working Group standard-of-care in triple-class exposed...
+Article: Indirect treatment comparison of DVRd plus DR maintenance (PERSEUS study) versus DVTd...
+Multiple Myeloma -- see more articles
+American Cancer Society
+Choosing a Cancer Doctor
+(American Cancer Society)
+National Cancer Institute
+NCI-Designated Cancer Centers
+(National Cancer Institute)
+Bone marrow transplant
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Protein electrophoresis - serum
+(Medical Encyclopedia)
+Quantitative Bence-Jones protein test
+(Medical Encyclopedia)
+Serum globulin electrophoresis
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+24-hour urine protein
+After chemotherapy - discharge
+Bone marrow transplant
+Bone marrow transplant - discharge
+Bone-marrow transplant - series
+Immunoelectrophoresis - blood
+Immunoelectrophoresis - urine
+Immunofixation - urine
+Immunofixation blood test
+Protein electrophoresis - serum
+Quantitative Bence-Jones protein test
+Quantitative nephelometry test
+Serum globulin electrophoresis
+Related Health Topics
+Bone Marrow Diseases
+Bone Marrow Transplantation
+The primary NIH organization for research on
+Multiple Myeloma is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 9, 2024
+
+---
+
+[DISEASE: Esophagealcancer]
+[CATEGORY: cancer]
+[TYPE: medlineplus_cancer]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/esophagealcancer.html]
+Esophageal Cancer | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+The esophagus is a hollow tube that carries food and liquids from your throat to your stomach. Early esophageal cancer usually does not cause symptoms. Later, you may have symptoms such as:
+Painful or difficult swallowing
+A hoarse voice or cough that doesn't go away
+You're at greater risk for getting esophageal cancer if you smoke, drink heavily, or have acid reflux. Your risk also goes up as you age
+Your doctor uses imaging tests and a biopsy to diagnose esophageal cancer. Treatments include surgery, radiation, and chemotherapy. You might also need nutritional support, since the cancer or treatment may make it hard to swallow.
+NIH: National Cancer Institute
+(National Cancer Institute)
+(American Cancer Society)
+General Information about Esophageal Cancer
+(National Cancer Institute)
+Early Detection, Diagnosis, and Staging of Esophageal Cancer
+(American Cancer Society)
+Esophageal Cancer Screening
+(National Cancer Institute)
+Stages of Esophageal Cancer
+(National Cancer Institute)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Prevention and Risk Factors
+Esophageal Cancer Prevention
+(National Cancer Institute)
+Treatments and Therapies
+Drugs Approved for Esophageal Cancer
+(National Cancer Institute)
+Supportive Therapy for Esophageal Cancer
+(American Cancer Society)
+Treating Esophagus Cancer
+(American Cancer Society)
+Treatment Option Overview (Esophageal Cancer)
+(National Cancer Institute)
+After Treatment for Esophageal Cancer
+(American Cancer Society)
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+Risks of Esophageal Cancer Screening
+(National Cancer Institute)
+Statistics and Research
+Cancer of the Esophagus
+(National Cancer Institute)
+Key Statistics for Esophageal Cancer
+(American Cancer Society)
+ClinicalTrials.gov: Esophageal Neoplasms
+Article: Long-Term Outcomes of Concurrent Chemoradiotherapy With S-1 in Older Patients With...
+Article: Camrelizumab plus CAPOX with camrelizumab based maintenance versus CAPOX alone as...
+Article: Neoadjuvant camrelizumab combined with radiotherapy as a chemotherapy-sparing approach for resectable...
+Esophageal Cancer -- see more articles
+NCI Dictionary of Cancer Terms
+(National Cancer Institute)
+American Cancer Society
+(American Society for Gastrointestinal Endoscopy)
+Cancer Support Groups
+(National Cancer Institute)
+Choosing a Cancer Doctor
+(American Cancer Society)
+Find an ENT (Ear, Nose, and Throat Specialist)
+(American Academy of Otolaryngology--Head and Neck Surgery)
+National Cancer Institute
+Childhood Esophageal Cancer Treatment
+(National Cancer Institute)
+(Medical Encyclopedia)
+Diet and eating after esophagectomy
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Esophagectomy - minimally invasive
+(Medical Encyclopedia)
+Esophagectomy - open
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+After chemotherapy - discharge
+Diet and eating after esophagectomy
+Esophagectomy - discharge
+Esophagectomy - minimally invasive
+Esophagectomy - open
+Related Health Topics
+The primary NIH organization for research on
+Esophageal Cancer is the
+National Cancer Institute
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 8, 2025

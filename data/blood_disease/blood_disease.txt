@@ -1,0 +1,630 @@
+[DISEASE: Anemia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/anemia]
+Anemia - What Is Anemia? | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+< Back To Health Topics
+< Back To Health Topics
+Causes and Risk Factors
+Treatment and Management
+Iron-Deficiency Anemia
+Vitamin B12–Deficiency Anemia
+Participate in a Study
+Fact Sheets and Handouts
+Anemia What Is Anemia?
+Language switcherEnglishEspañol
+Anemia is a condition that develops when your blood produces a lower-than-normal amount of healthy red blood cells. If you have anemia, your body does not get enough oxygen-rich blood. The lack of oxygen can make you feel tired or weak. You may also have shortness of breath, dizziness, headaches, or an irregular heartbeat. According to the Centers for Disease Control and Prevention, about 3 million people in the United States have anemia.
+There are many types of anemia, including:
+Iron-deficiency anemia
+Vitamin B12-deficiency anemia
+Mild anemia is a common and treatable condition that can develop in anyone. It may come about suddenly or over time, and may be caused by your diet, medicines you take, or another medical condition. Anemia can also be chronic, meaning it lasts a long time and may never go away completely. Some types of anemia are inherited. The most common type of anemia is iron-deficiency anemia.
+Some people are at a higher risk for anemia, including women during their menstrual periods and pregnancy. People who do not get enough iron or certain vitamins and people who take certain medicines or treatments are also at a higher risk.
+Anemia may also be a sign of a more serious condition, such as bleeding in your stomach, inflammation from an infection, kidney disease, cancer, or autoimmune diseases. Your doctor will use your medical history, a physical exam, and test results to diagnose anemia.
+Treatments for anemia depend on the type you have and how serious it is. For some types of mild to moderate anemia, you may need iron supplements, vitamins, or medicines that make your body produce more red blood cells. To prevent anemia in the future, your doctor may also suggest healthy eating changes.
+Your Guide to Anemia
+Learn basic facts about anemia and how it affects your health.
+Book traversal links for Anemia
+Last updated on March 24, 2022
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Sickle Cell Disease]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/sickle-cell-disease]
+Sickle Cell Disease - What Is Sickle Cell Disease? | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+< Back To Health Topics
+< Back To Health Topics
+What Is Sickle Cell Disease?
+Causes and Risk Factors
+How Sickle Cell Disease May Affect Your Health
+Living With Sickle Cell Disease
+Pregnancy, Reproduction, and Sickle Cell Disease
+Participate in a Study
+Fact Sheets and Handouts
+Sickle Cell Disease What Is Sickle Cell Disease?
+Language switcherEnglishEspañol
+In September 2024, Pfizer withdrew voxelotor (also called Oxbryta) from the market. The medicine was used to prevent sickling in red blood cells. Pfizer said the benefits of using voxelotor do not outweigh the risks in the approved sickle cell population.
+Sickle cell disease — also called sickle cell anemia — is a group of
+disorders that affect
+, the major protein that carries oxygen in red blood cells. Normally, red blood cells are disc-shaped and flexible so they can move easily through the blood vessels. In sickle cell disease, red blood cells are misshaped, typically crescent- or “sickle”-shaped due to a gene
+that affects the hemoglobin molecule. When red blood cells sickle, they do not bend or move easily and can block blood flow to the rest of the body.Serious problems may come from having sickle cell disease, including sudden onset of strong episodes of pain, called pain crises, that occur because of blocked blood flow and often require medical attention Other terms used to describe these pain episodes include “sickle cell crisis” and “vaso-occlusive crisis.” People who have sickle cell disease may also experience other serious health complications, such as chronic pain, stroke, lung problems, eye problems, infections, and kidney disease.Sickle cell disease is a lifelong illness that may be managed through preventive screening and treatment strategies. Treatment reduces or helps manage symptoms and increase longevity. With the right care, many people who have sickle cell disease live fulfilling lives and safely participate in most activities.
+The NHLBI Drives Progress Toward New TherapiesIn December 2023, the U.S. Food and Drug Administration approved two new gene therapies that are transformative therapies for sickle cell disease:One treatment adds a modified gene into the body.One treatment makes a change to a gene that is already in the body.
+Sickle cell disease affects more than 100,000 people in the United States and 8 million people worldwide. In the United States, more than 90% of people who have sickle cell disease are non-Hispanic Black or African American, and an estimated 3%-9% are Hispanic or Latino.About 1 in 13 Black babies are born with sickle cell trait, meaning that they inherited a sickle cell gene from one parent.About 1 in every 365 Black babies are born with sickle cell disease, meaning they inherited a sickle cell gene from each parent.The NHLBI leads and supports research and clinical trials to find more transformative therapies for sickle cell disease.
+Sickle Cell Disease: Milestones in Research and Clinical Progress BookletLearn about the history of sickle cell disease in the United States, from its discovery in 1910 to the NHLBI legacy of research that has advanced the understanding of sickle cell disease, improved clinical progress, and paved the way for widely available therapies.
+Download the booklet
+Book traversal links for Sickle Cell Disease
+Causes and Risk Factors
+Last updated on December 10, 2025
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Thalassemia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/thalassemia]
+Thalassemia - What Is Thalassemia? | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+What Is Thalassemia?
+Pregnancy and Thalassemia
+Participate in a Study
+Thalassemia What Is Thalassemia?
+Language switcherEnglishEspañol
+Thalassemia is an inherited blood disorder, which means that it is passed from parents to children through
+. There are two main types of thalassemia: alpha thalassemia and beta thalassemia. Each of these types can be mild, moderate, or serious, depending on how much hemoglobin your body makes. Hemoglobin is a protein that helps red blood cells carry oxygen.
+If you have thalassemia, your body may not make enough hemoglobin, which can lead to fewer healthy red blood cells. This can lead to a condition called anemia.
+Anemia can make you feel tired, weak, or short of breath. Or, depending on the type of thalassemia you have and how serious it is, you may have no symptoms at all. More serious types of thalassemia are usually diagnosed before a child is 2 years old.
+Blood transfusions are used to treat thalassemia. You may need occasional or more regular blood transfusions, depending on how serious your condition is. You may also take medicine to help with complications from this treatment. It is important to talk to your healthcare provider before you become pregnant. They may need to run tests or change your treatment plan.
+Although thalassemia is a lifelong condition, treatments have improved over the years. People are now living with thalassemia for longer and have better quality of life.
+Book traversal links for Thalassemia
+Last updated on May 31, 2022
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Hemophilia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/hemophilia]
+Page Not Found | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+UH-OH.We're sorry, we couldn't find that page for you.SuggestionsTry our search. The content may just have a new home or slightly different web address
+Explore our updated site. We have lots of new features and content, including our Science section
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Von Willebrand Disease]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/von-willebrand-disease]
+Page Not Found | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+UH-OH.We're sorry, we couldn't find that page for you.SuggestionsTry our search. The content may just have a new home or slightly different web address
+Explore our updated site. We have lots of new features and content, including our Science section
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Deep Vein Thrombosis]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/deep-vein-thrombosis]
+Venous Thromboembolism - Deep Vein Thrombosis (DVT) | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+Venous Thromboembolism
+Deep Vein Thrombosis (DVT)
+Venous Thromboembolism
+Deep Vein Thrombosis (DVT)
+What Is Venous Thromboembolism?
+Deep Vein Thrombosis (DVT)
+Pulmonary Embolism (PE)
+Causes and Risk Factors
+Preventing Blood Clots
+Women and venous thromboembolism (VTE)
+Participate in a Study
+Venous Thromboembolism
+Venous Thromboembolism Deep Vein Thrombosis (DVT)
+Language switcherEnglishEspañol
+Call your healthcare provider right away if you think you may have symptoms of deep vein thrombosis, or DVT. DVT should be taken seriously, as it may lead to a life-threatening pulmonary embolism (PE).
+DVT is the most common type of venous thromboembolism (VTE). It occurs when a blood clot forms in a deep vein, usually in the lower leg, thigh, or pelvis.
+What are the symptoms of DVT?
+You may notice these symptoms of DVT around the area of a blood clot in your leg:SwellingPain or tendernessCramping, aching, or increased warmthRed or discolored skin
+How is DVT diagnosed?
+Your provider will diagnose DVT based on your symptoms, medical history, a physical exam, and various imaging or blood test results.D-dimer tests measure a substance in the blood that is released when the fibrin
+(proteins that help stop bleeding) in a blood clot dissolve. If the test shows high levels of the substance, you may have DVT. These tests may be used as a first step to look for signs of a blood clot in otherwise healthy people.Compression ultrasound looks for blood clots in the deep veins of your legs. This test uses sound waves to create pictures of blood flowing in your veins. The person doing the test may press on your veins to see whether the veins compress normally or are stiff with blood clots.Magnetic resonance venography uses a specialized magnet to take images of your veins. Your provider will need to give you a special dye through an intravenous tube (IV) before the test. This test is usually only used if your provider cannot diagnose DVT from the compression ultrasonography results.
+DVT may occur if the flow of blood slows down in your body’s deep veins, if something damages the blood vessel lining, or if the makeup of the blood itself changes so that blood clots form more easily.Many factors can raise the likelihood of blood clotting in the deep veins of the legs.Age: DVT can occur at any age, but the chances rise as you get older.Family history: Some
+may raise your likelihood of developing blood clots.Not moving for long periods of time: DVT can develop during a long flight or when a person is on bed rest in a nursing home, hospital setting, or after surgery. The chance of developing a blood clot is highest in the first 3 months after surgery and lowers with time. Ask your healthcare provider about prevention plans if you are scheduled for major surgery.Medical conditions: A blood clotting disorder, immune illnesses such as lupus, heart problems,
+, or serious illness such as getting infected with SARS-CoV-2, the virus that causes COVID-19, can raise the likelihood of DVT.Sex: Women in their childbearing years are more likely than men to develop blood clots. The chance is higher for pregnant women and women who take birth control pills or get hormone therapy. After menopause, women’s risk is lower than men’s.
+How does blood clot?
+Learn about the normal blood clotting process and how problems in this process can lead to dangerous blood clots such as DVT.
+Learn how blood clots
+Most people can treat DVT with medicines at home. Sometimes, more serious blood clots require you to stay in the hospital for treatment.Your healthcare provider will likely prescribe blood-thinning medicine to keep blood clots from getting larger and prevent a DVT from becoming a life-threatening pulmonary embolism. If you are unable to take blood thinners, other medicines or procedures can help. Learn more about treatments for DVT.As you recover from DVT, talk to your provider about what you can do to stay healthy.Be aware of possible complications. A condition called post-thrombotic syndrome can develop following DVT. If you experience pain, itchiness, or swelling, tell your healthcare provider.Prevent a repeat DVT. Talk with your provider about your risk, get regular checkups, and take all medicines as prescribed to help lower your chance of having repeat blood clots.Make healthy lifestyle changes. Talk to your provider about changes you may need to make, including choosing heart-healthy foods, getting physically active, aiming for a healthy weight, and quitting smoking.Take care of your mental health. Anxiety, fear, and stress can be common after a blood clot. Reach out to your healthcare provider if you need support.
+Book traversal links for Venous Thromboembolism
+Pulmonary Embolism (PE)
+Last updated on September 19, 2022
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Thrombocythemia Thrombocytosis]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/thrombocythemia-thrombocytosis]
+Platelet Disorders - Thrombocythemia and Thrombocytosis | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+< Back To Platelet Disorders
+Thrombocythemia and Thrombocytosis
+< Back To Platelet Disorders
+Thrombocythemia and Thrombocytosis
+What Are Platelet Disorders?
+Causes and Risk Factors
+Pregnancy and Platelet Disorders
+Immune Thrombocytopenia (ITP)
+Thrombocythemia and Thrombocytosis
+Thrombotic Thrombocytopenic Purpura (TTP)
+Participate in a Study
+Platelet Disorders Thrombocythemia and Thrombocytosis
+Language switcherEnglishEspañol
+What are thrombocythemia and thrombocytosis?
+Thrombocythemia and thrombocytosis are conditions that occur when your blood has a higher-than-normal platelet count.
+Platelets are tiny blood cells. They are made in your bone marrow along with other kinds of blood cells. When you are injured, platelets stick together to form a plug that seals your wound. This plug is called a blood clot. Platelets are also called thrombocytes,because a blood clot is also called a thrombus. If your platelet count is too high, blood clots can form in your blood vessels. This can block blood flow through your body.
+Thrombocythemia refers to a high platelet count that is not caused by another health condition. This condition is sometimes called primary or essential thrombocythemia.
+Thrombocytosis refers to a high platelet count caused by another disease or condition. This condition is often called secondary or reactive thrombocytosis. Thrombocytosis is more common than thrombocythemia.
+What are the symptoms?
+Many people who have thrombocythemia or thrombocytosis do not have symptoms. These conditions might be discovered only after routine blood tests.
+The symptoms of a high platelet count are linked to blood clots and bleeding. These symptoms are more common in people who have thrombocythemia.
+In thrombocythemia, blood clots most often develop in the brain, hands, and feet. But the clots can develop anywhere in the body. Blood clots in the brain may cause chronic (long-term) headaches and dizziness. In extreme cases, you may have a transient ischemic attack or a stroke.
+You may have blood clots in the tiny blood vessels of your hands and feet. This can make your hands and feet numb and red. You may have a burning feeling and throbbing pain, mostly in the palms of the hands and the soles of your feet.
+Other symptoms of a blood clot are:
+Confusion or changes in speech
+Upper body discomfort in one or both arms, your back, neck, jaw, or abdomen
+Shortness of breath and nausea (feeling sick to your stomach)
+Pregnancy complications
+You may also have a spleen that is larger than normal.
+You may have a higher chance of a blood clot if you are older, have had blood clots in the past, smoke, or have other health conditions, such as diabetes and high blood pressure.
+Bleeding can happen in people who have a very high platelet count. You may have nosebleeds, bruising, bleeding from your mouth or gums, or blood in your stool.
+Bleeding occurs when blood clots that develop in thrombocythemia or thrombocytosis use up your body’s platelets. This means that not enough platelets are left in your bloodstream to seal off cuts or breaks on the blood vessel walls. Bleeding can also happen if your platelets do not work properly.
+Another cause of bleeding in people who have very high platelets counts is a condition called von Willebrand disease. This condition affects how your blood clots.
+How are they diagnosed?
+To diagnose thrombocythemia or thrombocytosis, your provider will ask about your medical and family history. They will ask about your symptoms and do a physical exam to look for signs of blood clots or bleeding.
+Your provider may also order one or more of the tests below.
+Complete blood count (CBC): A complete blood count (CBC) measures the levels of red blood cells, white blood cells, and platelets in your blood.
+Blood smear: For this test, some of your blood is put on a slide. A microscope is used to look at your platelets and other blood cells.
+Bone marrow tests: These tests check whether your bone marrow is healthy.
+Genetic testing: This test checks for mutations, or changes, in genes that control how your body makes platelets.
+What causes thrombocythemia?
+Causes of thrombocythemia
+Thrombocythemia occurs when faulty cells in your bone marrow make too many platelets. Your platelets also do not work properly. Bone marrow is the sponge-like tissue inside the bones. It contains stem cells that develop into platelets and other blood cells. With primary thrombocythemia, a high platelet count may happen alone or with other blood cell disorders. This condition is not common.Thrombocythemia is most often caused by your genes. Mutations, or changes, in the genes that control how your bone marrow forms platelets may cause thrombocythemia. Examples of such genes include JAK2, CALR, and MPL.Primary thrombocythemia is more common in people ages 50 to 70, but it can occur at any age. It is more common in women than in men.
+What causes thrombocytosis?
+Causes of thrombocytosis
+Thrombocytosis occurs when another disease or condition causes you to have a high platelet count. People who have thrombocytosis have normal platelets and a lower risk of blood clots and bleeding than people who have thrombocythemia. Thrombocytosis is more common than thrombocythemia.
+Some conditions that can raise your risk of thrombocytosis are listed below.
+Anemia: Iron-deficiency anemia and hemolytic anemia can cause thrombocytosis.
+Cancer: Many people who have high platelet counts also have cancer — mostly lung, gastrointestinal, breast, or ovarian cancer or lymphoma. Sometimes a high platelet count is the first sign of cancer.
+Surgery to remove your spleen: The spleen is an organ in your upper left abdomen. Normally, your spleen stores platelets. Removing your spleen can raise your platelet count.
+Inflammation or infections: Conditions such as connective tissue disorders, inflammatory bowel disease, and tuberculosis can raise your platelet count.
+Your platelet count may be high for only a short time. This can be caused by:
+Recovery from serious blood loss
+Recovery from a very low platelet count caused by drinking too much alcohol and having low levels of vitamin B12 or folate
+Acute (short-term) infection or inflammation
+How are thrombocythemia and thrombocytosis treated?
+Treatment and management
+People who have thrombocythemia with no symptoms often do not need treatment. Other people who have this condition may need medicines or procedures to treat it. Treatment does not cure your condition, but it can help prevent blood clots and serious complications.
+Treatment for secondary thrombocytosis depends on its cause. People who have thrombocytosis usually do not need platelet-lowering medicines or procedures. This is because their platelets are usually normal and less likely to cause serious blood clots or bleeding.
+Treatment for thrombocythemia may include medicines and procedures.
+Medicines to lower platelet counts
+You may need one of the following medicines to lower your platelet count.
+Anagrelide: This medicine is used to lower platelet counts. It is mostly used when hydroxyurea does not work. Anagrelide also has side effects, such as fluid retention, palpitations, arrhythmias, heart failure, and headaches.
+Aspirin: This medicine helps prevent blood clots. It is mostly used in people who have a low risk of blood clots. If you have a high risk of blood clots, you may need to take both aspirin and hydroxyurea.
+Hydroxyurea: This platelet-lowering medicine is used to treat cancers and sickle cell disease, for example.
+Interferon alfa: This medicine lowers platelet counts, but it can have serious side effects. Side effects may include a flu-like feeling, decreased appetite, nausea (feeling sick to the stomach), diarrhea, seizures, irritability, and sleepiness.
+Plateletpheresis is a procedure used to quickly lower your platelet count. This procedure is mostly used for emergencies. For example, if you are having a stroke due to primary thrombocythemia, you may need plateletpheresis.
+An intravenous (IV) needle that is connected to a tube is placed in one of your blood vessels to remove blood. The blood goes through a machine that removes platelets from the blood. The remaining blood is then put back into you through an IV line in one of your blood vessels.
+What health problems can thrombocythemia and thrombocytosis cause?
+Health problems they can cause
+Thrombocythemia and thrombocytosis may cause blood clots which can block blood flow to your organs. This can lead to the following serious complications:
+Venous thromboembolism
+Stroke and transient ischemic attacks
+Reduced blood flow to your heart, which can cause a heart attack
+Pregnancy complications
+Thrombocytopenia and thrombocytosis can also cause your bone marrow to become scarred or to produce too many blood cells. This may lead to some types of leukemia.
+Learn how you can manage these platelet disorders to help avoid complications.
+Book traversal links for Platelet Disorders
+Immune Thrombocytopenia (ITP)
+Last updated on March 24, 2022
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Iron Deficiency Anemia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/iron-deficiency-anemia]
+Page Not Found | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+UH-OH.We're sorry, we couldn't find that page for you.SuggestionsTry our search. The content may just have a new home or slightly different web address
+Explore our updated site. We have lots of new features and content, including our Science section
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Aplastic Anemia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/aplastic-anemia]
+Page Not Found | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+UH-OH.We're sorry, we couldn't find that page for you.SuggestionsTry our search. The content may just have a new home or slightly different web address
+Explore our updated site. We have lots of new features and content, including our Science section
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.
+
+---
+
+[DISEASE: Immune Thrombocytopenia]
+[CATEGORY: blood_disease]
+[TYPE: nhlbi_blood]
+[LANGUAGE: en]
+[SOURCE: https://www.nhlbi.nih.gov/health/immune-thrombocytopenia]
+Platelet Disorders - Immune Thrombocytopenia (ITP) | NHLBI, NIH
+An official website of the United States government
+Official websites use .gov
+A .gov website belongs to an official government organization in the United States.
+Secure .gov websites use HTTPS
+) or https:// means you’ve safely connected to the .gov website. Share sensitive information only on official, secure websites.
+All Health Topics A-Z
+Heart-Healthy Living
+Education Programs and Initiatives
+Learn More Breathe Better®
+Blood Diseases & Disorders Education Program
+Publications and Resources
+Clinical Trials and Studies
+Research Focus Areas
+Blood Disorders and Blood Safety
+Sleep Science and Sleep Disorders
+Heart and Vascular Diseases
+Precision Medicine Activities
+Obesity, Nutrition, and Physical Activity
+Population and Epidemiology Studies
+Grants and Training Home
+Policies and Guidelines
+Funding Opportunities and Contacts
+Training and Career Development
+News and Events Home
+Mission and Strategic Vision
+Divisions, Offices and Centers
+Budget and Legislative Information
+Jobs and Working at the NHLBI
+NIH Sleep Research Plan
+< Back To Platelet Disorders
+Immune Thrombocytopenia (ITP)
+< Back To Platelet Disorders
+Immune Thrombocytopenia (ITP)
+What Are Platelet Disorders?
+Causes and Risk Factors
+Pregnancy and Platelet Disorders
+Immune Thrombocytopenia (ITP)
+Thrombocythemia and Thrombocytosis
+Thrombotic Thrombocytopenic Purpura (TTP)
+Participate in a Study
+Platelet Disorders Immune Thrombocytopenia (ITP)
+Language switcherEnglishEspañol
+Immune thrombocytopenia (ITP) is a type of platelet disorder that develops when your blood does not clot as it should because of a low platelet count. When you are injured, platelets (tiny blood cells) stick together to form a plug, called a blood clot, that seals your wound. When you have a low platelet count, you may have trouble stopping bleeding.ITP can be acute (short term) or chronic (long term). Acute ITP often lasts less than 12 months. It mainly affects children and is the most common type of ITP. Chronic ITP lasts 12 months or longer and mostly affects adults. However, some teens and children get this type of ITP. Chronic ITP affects women two to three times more often than it affects men.
+What are the symptoms of ITP?
+ITP may not cause any symptoms. However, ITP can cause bleeding that is hard to stop. This bleeding can occur inside your body, underneath your skin, or on your skin.Signs of bleeding may include:Petechiae, which are small, flat red spots under the skin caused by blood leaking from blood vesselsPurpura, which is bleeding under your skin that can cause red, purple, or brownish-yellow spotsClotted or partially clotted blood under your skin (called a hematoma) that looks or feels like a lumpNosebleeds or bleeding from your gumsBlood in your urine or stoolHeavy menstrual bleedingExtreme tirednessPale skin color, dizziness, and tiredness if bleeding causes anemia
+How is ITP diagnosed?
+To diagnose ITP, your provider will ask about your medical and family history. They will also ask about your symptoms and do a physical exam to look for signs of bleeding.Your provider may order one or more of the following blood tests.Complete blood count: This test measures your platelet count and the number of other blood cells in your blood.Blood smear: For this test, some of your blood is put on a slide. A microscope is used to look at your platelets.Bone marrow tests: These tests check whether your bone marrow is healthy. You may need this test to confirm if you have ITP and not another platelet disorder, especially if your treatment is not working.If you're at risk of HIV, hepatitis C, Heliocobacter pylori, or other autoimmune conditions, your provider may screen you for these infections, which might be linked to ITP.
+Problems with your immune system cause ITP. Normally, your immune system helps your body fight off infections and diseases. In ITP, your immune system attacks and destroys your body's platelets by mistake. You may also make fewer platelets. Why this happens is not known.Some factors that can raise your risk of ITP include:Antibiotics, antiviral medicines, or medicines to treat inflammationViral or bacterial infections, which can trigger your immune system to start destroying plateletsVaccines, such as the measles-mumps-rubella (MMR) vaccine, which, rarely, can raise the risk of ITP, especially in childrenOther immune conditions, such as lupus, and immunodeficiencies, such as CVID
+For most children and adults, ITP is not a serious condition. Acute ITP in children often goes away on its own within a few weeks or months and does not return. When it does not go away on its own, treatment is required.Chronic ITP varies from person to person and can last for many years. Even people who have serious types of chronic ITP can live for decades. Most people who have chronic ITP can stop treatment at some point and maintain a healthy platelet count.In mild cases, you may not need any treatment, and your provider will monitor your condition to make sure that your platelet count does not become too low. If you need treatment, your treatment plan may include medicines and procedures. If your ITP was caused by an infection, treating the infection may help increase your platelet count and lower your risk of bleeding problems.MedicinesMedicines often are used as the first treatment for both children and adults.Corticosteroids, such as prednisone and dexamethasone, are commonly used to treat ITP. They suppress the immune system, which helps increase your platelet count. However, steroids have many side effects, especially when used for a long time. Some people get worse when treatment ends.Other medicines used to raise platelet counts include:Eltrombopag, romiplostim, and avatrombopag, which help the body make more platelets. They are taken by mouth.Immunoglobulin, which is given through an
+(IV) needle into your bloodstreamRituximab, which helps prevent the spleen from destroying platelets. It is also given by IV.Fostamatinib, which helps prevent platelets from being destroyed. It is used when other treatments haven't worked and is taken by mouth.Removal of your spleenDoctors can surgically remove your spleen if necessary. The spleen is an organ in your upper left abdomen. It makes antibodies that help fight infections. In ITP, these antibodies destroy platelets by mistake.Removing your spleen may raise your risk of infections. Before you have the surgery, your healthcare provider may give you antibiotics and vaccines to help prevent infections. Your provider will explain what steps you can take to help avoid infections and what symptoms to watch for.Platelet transfusionsPlatelet transfusions may be given to stop or prevent bleeding in some types of thrombocytopenia and platelet dysfunction.For a platelet transfusion, donor platelets from a blood bank are infused into your bloodstream. This increases your platelet count for a short time.
+What health problems can ITP cause?
+Without proper treatment, ITP can cause serious bleeding and pregnancy complications. Seek immediate medical attention if you have uncontrollable bleeding that does not stop when you apply pressure. Learn how to manage ITP to help avoid complications.
+Book traversal links for Platelet Disorders
+Thrombocythemia and Thrombocytosis
+Last updated on July 24, 2025
+Related Government Websites
+Health and Human Services
+National Institutes of Health
+Office of the Inspector General
+Live Chat Live Chat with us, Monday through Friday, 8:30 a.m. to 5:00 p.m. EST.Get Email AlertsReceive automatic alerts about NHLBI related news and highlights from across the Institute.

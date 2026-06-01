@@ -1,0 +1,1483 @@
+[DISEASE: Depression]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/depression.html]
+Depression: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Clinical depression, Dysthymic disorder, Major depressive disorder, Unipolar depression
+Prevention and Risk Factors
+Treatments and Therapies
+Statistics and Research
+Depression is more than a feeling of being sad or irritable for a few days. It's a serious mood disorder. As one of the most common mental disorders in the United States, depression can affect how you think, feel, and your everyday life. You may not know why you feel this way, but even basic daily activities such as sleeping, eating, or working may become difficult. Depression often needs long-term treatment but getting help at the earliest sign of a problem can help manage your symptoms.
+What are the different types of depression?
+The most common types of depression are major depression and persistent depressive disorder.
+Major depression symptoms include a depressed mood or a loss of interest. Symptoms affect your daily activities and last for at least two weeks.
+Persistent depressive disorder (also called dysthymia or dysthymic disorder) has less severe depressive symptoms, but they last longer, usually for at least two years.
+Other types of depression can include:
+Seasonal affective disorder comes and goes with the seasons. It usually starts in late fall and early winter and goes away during the spring and summer.
+Bipolar disorder is sometimes called manic depression. This mood disorder can cause intense mood swings.
+Depression with symptoms of psychosis is a severe form of depression that also has delusions (false beliefs) or hallucinations (seeing, hearing, or feeling something that isn't there).
+What causes depression?
+There are a variety of things that may cause depression, including genetic, biological, environmental, and psychological factors. Depression can happen at any age and can affect anyone, but it's more common in women. This is often due to the physical and hormonal changes that women have during menstruation, pregnancy, the postpartum period, and menopause. Other mental disorders or chronic medical conditions such as diabetes, cancer, or heart disease may occur with depression. This may make the chronic condition or depression worse.
+In some cases, there is no clear cause for depression.
+Who is at risk of depression?
+You may be at a higher risk of depression if you have a close relative who has it or another mental health disorder. Going through trauma or stressful life events may raise your risk even more.
+What are the symptoms of depression?
+Depression doesn't look the same on everyone. The type and number of symptoms of depression can vary and don't always appear like sadness. Depression may affect you differently based on your:
+Age. The symptoms of depression may be different in a child, who may appear more irritable than sad. Teens may act out or have excessive sleepiness. The symptoms for an older adult may not be as obvious as other age groups.
+Sex. Men often show symptoms and coping behaviors differently than women. Rather than sad, men may appear angry or irritable.
+Medical conditions. Some medicines and medical conditions may cause symptoms that look like depression. Chronic conditions may make depression worse.
+Symptoms of depression are ongoing and affect your day-to-day life. They can include:
+Feeling sad or "empty"
+Losing interest in favorite activities
+Overeating, or not wanting to eat at all
+Sleeping too much, or not enough
+Feeling hopeless, irritable, anxious, or guilty
+Having aches and pains, headaches, cramps, or digestive problems
+Having thoughts of death or suicide
+Changing moods or behaviors
+Increasing use of alcohol or drugs
+Isolating from family and friends
+How is depression diagnosed?
+If you think you have depression, talk to your health care provider or a mental health provider. To be diagnosed with depression, your provider may use many tools:
+A medical history will include asking about your symptoms and family history. To be diagnosed with depression, your symptoms must occur most of the day, nearly every day, for at least two weeks. One of the symptoms must be a depressed mood or a loss of interest in most activities.
+Medical tests may be done to rule out other medical conditions. Certain medicines and medical conditions (such as viruses or thyroid disorders) may cause symptoms like depression.
+A physical exam to make sure another issue isn't causing your symptoms.
+A mental health evaluation by your provider or a mental health provider.
+What are the treatments for depression?
+Depression may need long-term treatment. Most treatments include medicines and/or psychotherapy (talk therapy):
+Medicines such as antidepressants may help control your symptoms. You may need to try several medicines to find which works best for you. Medicine may take time to work and can have side effects. Don't stop taking your medicine without first talking with your provider. Contact your provider if you have any concerns about side effects from the medicine.
+Psychotherapy (talk therapy) under the care of a mental health provider can help you recognize and change troubling emotions, thoughts, and behaviors. This may be done one-on-one or in a group setting. It can give you and your family support, education, skills, and coping strategies.
+Light therapy has been shown to be effective for seasonal affective disorder (SAD).
+Other treatments options may be considered if treatment isn't working or if depression is severe. These may include:
+Electroconvulsive therapy (ECT) is a brain stimulation procedure that uses a mild electric current when you are under general anesthesia. ECT is most often used for severe depression that is not getting better with other treatments.
+Repetitive transcranial magnetic stimulation (rTMS) is a brain stimulation procedure that uses magnetic waves to relieve depression. It's not as powerful as ECT, but with rTMS, you don't need anesthesia. It also has a low risk of negative effects on your memory and thinking.
+Can depression be prevented?
+Most cases of depression can't be prevented, but healthy lifestyle changes can have long-term benefits for your mental health. These can include:
+Getting regular exercise
+Having a consistent sleep schedule
+If you, or someone you love is depressed, see your provider or a mental health provider. It's important to get treatment at the earliest sign of a problem.
+If you or someone you know has thoughts of hurting themselves or attempting suicide, get help right away. If it is an emergency, dial 911.
+NIH: National Institute of Mental Health
+(National Institute of Mental Health)
+Depression (Expert Q&A)
+(American Psychiatric Association)
+Depression (Major Depressive Disorder)
+(Mayo Foundation for Medical Education and Research)
+Depression Screening
+Prevention and Risk Factors
+Preventing Relapse and Managing Setbacks
+(University of Michigan Depression Center)
+Treatments and Therapies
+8 Things To Know about Depression and Complementary Health Approaches
+(National Center for Complementary and Integrative Health)
+Antidepressants: MedlinePlus Health Topic
+Brain Stimulation Therapies
+(National Institute of Mental Health)
+Depression Treatment
+(Centers for Disease Control and Prevention)
+Know Your Treatment Options
+(University of Michigan Depression Center)
+Psychedelic and Dissociative Drugs as Medicines
+(National Institute on Drug Abuse)
+(National Institute of Mental Health)
+St. John's Wort and Depression
+(National Center for Complementary and Integrative Health)
+When Sadness Lingers: Understanding and Treating Depression
+(University of Michigan Depression Center)
+Depression and Anxiety: Exercise Eases Symptoms
+(Mayo Foundation for Medical Education and Research)
+Depression: Coping with Suicidal Thoughts
+(American Academy of Family Physicians)
+Depression: Supporting a Family Member or Friend
+(Mayo Foundation for Medical Education and Research)
+Metabolic Side Effects of Psychiatric Medications
+(American Association of Psychiatric Pharmacists)
+What to Know Before Stopping Medications (Medication Discontinuation)
+(American Association of Psychiatric Pharmacists)
+Depression in Black Americans
+(Mental Health America)
+Depression in the Workplace
+(Mental Health America)
+Link Between Migraine, Depression and Anxiety
+(American Migraine Foundation)
+Understanding the Link Between Chronic Disease and Depression
+(National Institute of Mental Health)
+Clinical Depression: What Does That Mean?
+(Mayo Foundation for Medical Education and Research)
+(National Cancer Institute)
+Depression and Caregiving
+(Family Caregiver Alliance)
+Managing Your Mental Health with Lupus
+(Lupus Foundation of America)
+Treatment-Resistant Depression
+(Mayo Foundation for Medical Education and Research)
+Depression: MedlinePlus Genetics
+Depression Myths & Facts Quiz
+(Medical Encyclopedia)
+Test Your Knowledge about Depression Treatment
+(Medical Encyclopedia)
+Statistics and Research
+Depression Prevalence in Adolescents and Adults: United States
+(Centers for Disease Control and Prevention)
+(National Institute of Mental Health)
+ClinicalTrials.gov: Depression
+ClinicalTrials.gov: Dysthymic Disorder
+Article: Effects of Therapeutic Aquatic Exercise Versus Physical Therapy Modalities on Pain...
+Article: Risk and protective factors of depression among caregivers of children with...
+Article: Effectiveness of mindfulness-based stress reduction in managing fatigue, anxiety, and depression...
+Depression -- see more articles
+American Psychiatric Association
+Find Your Local NAMI
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+Psychologist Locator
+(American Psychological Association)
+Anxiety and Depression in Children
+(Centers for Disease Control and Prevention)
+Taking Your Child to a Therapist
+(Nemours Foundation)
+What to Do When You Feel Sad
+(Nemours Foundation)
+Teen Depression: MedlinePlus Health Topic
+Male Depression: Understanding the Issues
+(Mayo Foundation for Medical Education and Research)
+(Department of Health and Human Services, Office on Women's Health)
+Depression and Pregnancy
+(Organization of Teratology Information Specialists)
+Depression in Women: 4 Things to Know
+(National Institute of Mental Health)
+Depression in Women: Understanding the Gender Gap
+(Mayo Foundation for Medical Education and Research)
+Depression and Aging
+(Centers for Disease Control and Prevention)
+Depression and Older Adults
+(National Institute on Aging)
+Easing Depression in Older Adults
+(Medical Encyclopedia)
+Depression - stopping your medicines
+(Medical Encyclopedia)
+Depression in older adults
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Heart disease and depression
+(Medical Encyclopedia)
+Learning about depression
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+Major depression with psychotic features
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Depression - stopping your medicines
+Depression in older adults
+Electroconvulsive therapy
+Heart disease and depression
+Learning about depression
+Major depression with psychotic features
+Related Health Topics
+Postpartum Depression
+Seasonal Affective Disorder
+The primary NIH organization for research on
+National Institute of Mental Health
+Find health information in languages other than English on Depression
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated June 30, 2025
+
+---
+
+[DISEASE: Anxiety]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/anxiety.html]
+Anxiety: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Anxiety is a feeling of fear, dread, and uneasiness. It might cause you to sweat, feel restless and tense, and have a rapid heartbeat. It can be a normal reaction to stress. For example, you might feel anxious when faced with a difficult problem at work, before taking a test, or before making an important decision. It can help you to cope. The anxiety may give you a boost of energy or help you focus. But for people with anxiety disorders, the fear is not temporary and can be overwhelming.
+What are anxiety disorders?
+Anxiety disorders are conditions in which you have anxiety that does not go away and can get worse over time. The symptoms can interfere with daily activities such as job performance, schoolwork, and relationships.
+What are the types of anxiety disorders?
+There are several types of anxiety disorders, including:
+Generalized anxiety disorder (GAD). People with GAD worry about ordinary issues such as health, money, work, and family. But their worries are excessive, and they have them almost every day for at least 6 months.
+Panic disorder. People with panic disorder have panic attacks. These are sudden, repeated periods of intense fear when there is no danger. The attacks come on quickly and can last several minutes or more.
+Phobias. People with phobias have an intense fear of something that poses little or no actual danger. Their fear may be about spiders, flying, going to crowded places, or being in social situations (known as social anxiety).
+What causes anxiety disorders?
+The cause of anxiety is unknown. Factors such as genetics, brain biology and chemistry, stress, and your environment may play a role.
+Who is at risk for anxiety disorders?
+The risk factors for the different types of anxiety disorders can vary. For example, GAD and phobias are more common in women, but social anxiety affects men and women equally. There are some general risk factors for all types of anxiety disorders, including:
+Certain personality traits, such as being shy or withdrawn when you are in new situations or meeting new people
+Traumatic events in early childhood or adulthood
+Family history of anxiety or other mental disorders
+Some physical health conditions, such as thyroid problems or arrhythmia
+What are the symptoms of anxiety disorders?
+The different types of anxiety disorders can have different symptoms. But they all have a combination of:
+Anxious thoughts or beliefs that are hard to control. They make you feel restless and tense and interfere with your daily life. They do not go away and can get worse over time.
+Physical symptoms, such as a pounding or rapid heartbeat, unexplained aches and pains, dizziness, and shortness of breath
+Changes in behavior, such as avoiding everyday activities you used to do
+Using caffeine, other substances, and certain medicines can make your symptoms worse.
+How are anxiety disorders diagnosed?
+To diagnose anxiety disorders, your health care provider will ask about your symptoms and medical history. You may also have a physical exam and lab tests to make sure that a different health problem is not the cause of your symptoms.
+If you don't have another health problem, you will get a psychological evaluation. Your provider may do it, or you may be referred to a mental health professional to get one.
+What are the treatments for anxiety disorders?
+The main treatments for anxiety disorders are psychotherapy (talk therapy), medicines, or both:
+Psychotherapy can help you recognize and change troubling emotions, thoughts, and behaviors. To be effective, it should focus on your specific anxieties and needs. There are many types; some of the types used for anxiety disorders include:
+Cognitive behavioral therapy (CBT), which teaches you different ways of thinking and behaving. It can help you change how you react to the things that cause you to feel fear and anxiety. It may include exposure therapy. This therapy focuses on having you confront your fears so that you will be able to do the things that you had been avoiding.
+Acceptance and commitment therapy may help with some anxiety disorders. It uses strategies such as mindfulness and goal setting to reduce discomfort and anxiety.
+Medicines to treat anxiety disorders include anti-anxiety medicines and certain antidepressants. Some types of medicines may work better for specific types of anxiety disorders. You should work closely with your provider to identify which medicine is best for you. You may need to try more than one medicine before you can find the right one.
+Support groups and stress management techniques may also be helpful.
+NIH: National Institute of Mental Health
+(Department of Health and Human Services, Office on Women's Health)
+(National Institute of Mental Health)
+Understanding Anxiety Disorders: When Panic, Fear, and Worries Overwhelm
+What Are Anxiety Disorders?
+(American Psychiatric Association)
+Mental Health Screening
+Treatments and Therapies
+Anxiety and Complementary Health Approaches
+(National Center for Complementary and Integrative Health)
+Beyond Worry: How Psychologists Help with Anxiety Disorders
+(American Psychological Association)
+Herbal Treatment for Anxiety: Is It Effective?
+(Mayo Foundation for Medical Education and Research)
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+Coping with Anxiety: Can Diet Make a Difference?
+(Mayo Foundation for Medical Education and Research)
+Depression and Anxiety: Exercise Eases Symptoms
+(Mayo Foundation for Medical Education and Research)
+How to Cope with Medical Test Anxiety
+Metabolic Side Effects of Psychiatric Medications
+(American Association of Psychiatric Pharmacists)
+What to Know Before Stopping Medications (Medication Discontinuation)
+(American Association of Psychiatric Pharmacists)
+Link Between Migraine, Depression and Anxiety
+(American Migraine Foundation)
+Generalized Anxiety Disorder
+(American Academy of Family Physicians)
+Generalized Anxiety Disorder: When Worry Gets Out of Control
+(National Institute of Mental Health)
+How Well Are You Managing Stress?
+(Medical Encyclopedia)
+Test Your Anxiety Knowledge
+(Medical Encyclopedia)
+ClinicalTrials.gov: Anxiety
+ClinicalTrials.gov: Generalized Anxiety Disorder
+Article: Athletic clothing style and comfort: Associations with appearance monitoring, social physique...
+Article: Effect of parecoxib on postoperative anxiety and cognitive function after pancreaticoduodenectomy:...
+Article: Effect of home ultrasound in patients with previous late pregnancy loss:...
+Anxiety -- see more articles
+American Academy of Child and Adolescent Psychiatry
+Anxiety and Depression Association of America
+(Anxiety and Depression Association of America)
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+(Nemours Foundation)
+Childhood Fears and Worries
+(Nemours Foundation)
+Helping Kids when They Worry
+(Nemours Foundation)
+Helping Your Child Manage Anxiety
+(Nemours Foundation)
+How Can I Worry Less?
+(Nemours Foundation)
+(Nemours Foundation)
+5 Ways to Cope with Anxiety
+(Nemours Foundation)
+(Nemours Foundation)
+(Nemours Foundation)
+(Postpartum Support International)
+(Food and Drug Administration)
+(AGS Health in Aging Foundation)
+Generalized anxiety disorder
+(Medical Encyclopedia)
+Generalized anxiety disorder - self-care
+(Medical Encyclopedia)
+Generalized anxiety disorder in children
+(Medical Encyclopedia)
+Palliative care - fear and anxiety
+(Medical Encyclopedia)
+Separation anxiety in children
+(Medical Encyclopedia)
+Stress and your health
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Generalized anxiety disorder
+Generalized anxiety disorder - self-care
+Generalized anxiety disorder in children
+Palliative care - fear and anxiety
+Separation anxiety in children
+Stress and your health
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Mental Health
+Find health information in languages other than English on Anxiety
+4 Types of Common Anxiety Disorders
+Teens and Stress: When It's More Than Worry
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 17, 2023
+
+---
+
+[DISEASE: Bipolardisorder]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/bipolardisorder.html]
+Bipolar Disorder: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Manic depression, Manic-depressive illness
+Treatments and Therapies
+What is bipolar disorder?
+Bipolar disorder is a mood disorder that can cause intense mood swings:
+Sometimes you may feel extremely "up," elated, irritable, or energized. This is called a manic episode.
+Other times you may feel "down," sad, indifferent, or hopeless. This is called a depressive episode.
+You may have both manic and depressive symptoms together. This is called a mixed episode.
+Along with mood swings, bipolar disorder causes changes in behavior, energy levels, and activity levels.
+Bipolar disorder used to be called other names, including manic depression and manic-depressive disorder.
+What are the types of bipolar disorder?
+There are three main types of bipolar disorder:
+Bipolar I disorder involves manic episodes that last at least 7 days or manic symptoms so severe that you need immediate hospital care. Depressive episodes are also common. Those often last at least two weeks. This type of bipolar disorder can also involve mixed episodes.
+Bipolar II disorder involves depressive episodes. But instead of full-blown manic episodes, there are episodes of hypomania. Hypomania is a less severe version of mania.
+Cyclothymic disorder, or cyclothymia, also involves hypomanic and depressive symptoms. But they are not as intense or as long-lasting as hypomanic or depressive episodes. The symptoms usually last for at least two years in adults and for one year in children and teenagers.
+With any of these types, having four or more episodes of mania or depression in a year is called "rapid cycling."
+What causes bipolar disorder?
+The exact cause of bipolar disorder is unknown. Several factors likely play a role in the disorder. They include genetics, brain structure and function, and your environment.
+Who is at risk for bipolar disorder?
+You are at higher risk for bipolar disorder if you have a close relative who has it. Going through trauma or stressful life events may raise this risk even more.
+What are the symptoms of bipolar disorder?
+The symptoms of bipolar disorder can vary. But they involve mood swings known as mood episodes:
+The symptoms of a manic episode can include
+Feeling very up, high, or elated
+Feeling jumpy or wired, more active than usual
+Having a very short temper or seeming extremely irritable
+Having racing thoughts and talking very fast
+Feeling like you are unusually important, talented, or powerful
+Do risky things that show poor judgment, such as eating and drinking too much, spending or giving away a lot of money, or having reckless sex
+The symptoms of a depressive episode can include
+Feeling very sad, hopeless, or worthless
+Feeling lonely or isolating yourself from others
+Talking very slowly, feeling like you have nothing to say, or forgetting a lot
+Having little energy
+Eating too much or too little
+Lack of interest in your usual activities and being unable to do even simple things
+Thinking about death or suicide
+The symptoms of a mixed episode include both manic and depressive symptoms together. For example, you may feel very sad, empty, or hopeless, while at the same time feeling extremely energized.
+Some people with bipolar disorder may have milder symptoms. For example, you may have hypomania instead of mania. With hypomania, you may feel very good and find that you can get a lot done. You may not feel like anything is wrong. But your family and friends may notice your mood swings and changes in activity levels. They may realize that your behavior is unusual for you. After the hypomania, you might have severe depression.
+Your mood episodes may last a week or two or sometimes longer. During an episode, symptoms usually occur every day for most of the day.
+How is bipolar disorder diagnosed?
+To diagnose bipolar disorder, your health care provider may use many tools:
+A medical history, which will include asking about your symptoms, lifetime history, experiences, and family history
+Medical tests to rule out other conditions
+A mental health evaluation. Your provider may do the evaluation or may refer you to a mental health specialist to get one.
+What are the treatments for bipolar disorder?
+Treatment can help many people, including those with the most severe forms of bipolar disorder. The main treatments for bipolar disorder include medicines, psychotherapy, or both:
+Medicines can help control the symptoms of bipolar disorder. You may need to try several different medicines to find which one works best for you. Some people need to take more than one medicine. It's important to take your medicine consistently. Don't stop taking it without first talking with your provider. Contact your provider if you have any concerns about side effects from the medicines.
+Psychotherapy (talk therapy) can help you recognize and change troubling emotions, thoughts, and behaviors. It can give you and your family support, education, skills, and coping strategies. There are several different types of psychotherapy that may help with bipolar disorder.
+Other treatment options include:
+Electroconvulsive therapy (ECT), a brain stimulation procedure that can help relieve symptoms. It uses a mild electric current and is done while you are under general anesthesia. ECT is most often used for severe bipolar disorder that is not getting better with other treatments. It may also be used when someone needs a treatment that will work more quickly than medicines. This might be when a person has a high risk of suicide or is catatonic (unresponsive).
+Repetitive transcranial magnetic stimulation (rTMS), a brain stimulation procedure that uses magnetic waves to relieve depression. It is not as powerful as ECT, but with rTMS, you don't need general anesthesia. It also has a low risk of negative effects on your memory and thinking.
+Light therapy has been shown to be effective for seasonal affective disorder (SAD). Many people with bipolar disorder also find that their depression gets worse during certain seasons, usually in the fall and winter. Light therapy may help with their symptoms.
+Healthy lifestyle changes, such as getting regular exercise, having a consistent sleep schedule, and keeping a mood journal, can also help with your symptoms.
+Bipolar disorder is a lifelong illness. But long-term, ongoing treatment can help manage your symptoms and enable you to live a healthy, successful life.
+NIH: National Institute of Mental Health
+(National Institute of Mental Health)
+(Substance Abuse and Mental Health Services Administration)
+Mental Health Screening
+Treatments and Therapies
+Bipolar Treatment: Are Bipolar I and Bipolar II Treated Differently?
+(Mayo Foundation for Medical Education and Research)
+Brain Stimulation Therapies
+(National Institute of Mental Health)
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+DBSA Wellness Toolbox
+(Depression and Bipolar Support Alliance)
+Bipolar Disorder and Alcoholism: Are They Related?
+(Mayo Foundation for Medical Education and Research)
+Bipolar Disorder and Black Americans
+(Mental Health America)
+Bipolar Medications and Weight Gain
+(Mayo Foundation for Medical Education and Research)
+Mental Health Providers: Tips on Finding One
+(Mayo Foundation for Medical Education and Research)
+Suicide Prevention Information
+(Depression and Bipolar Support Alliance)
+Types of Bipolar Disorder
+(National Institute of Mental Health)
+Bipolar disorder: MedlinePlus Genetics
+Mental Health Screening Center
+(Depression and Bipolar Support Alliance)
+ClinicalTrials.gov: Bipolar Disorder
+Article: A potential association of SLC2A9 variant rs7442295 with uric acid at...
+Article: fMRI-guided V1-targeted rTMS improves depressive symptoms in adolescents and young adults...
+Article: Intramuscular Generic Injection (QLG2072) versus Haloperidol in Chinese Patients with Acute...
+Bipolar Disorder -- see more articles
+Depression and Bipolar Support Alliance
+Find Your Local NAMI
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+Psychologist Locator
+(American Psychological Association)
+Bipolar Disorder in Children and Teens
+(National Institute of Mental Health)
+(Nemours Foundation)
+Bipolar Disorder in Children and Teens
+(National Institute of Mental Health)
+Bipolar Disorder in Teens and Young Adults: Know the Signs
+(National Institute of Mental Health)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+The primary NIH organization for research on
+Bipolar Disorder is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 17, 2023
+
+---
+
+[DISEASE: Schizophrenia]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/schizophrenia.html]
+Schizophrenia: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+Schizophrenia is a serious brain illness. People who have it may hear voices that aren't there. They may think other people are trying to hurt them. Sometimes they don't make sense when they talk. The disorder makes it hard for them to keep a job or take care of themselves.
+Symptoms of schizophrenia usually start between ages 16 and 30. Men often develop symptoms at a younger age than women. People usually do not get schizophrenia after age 45. There are three types of symptoms:
+Psychotic symptoms distort a person's thinking. These include hallucinations (hearing or seeing things that are not there), delusions (beliefs that are not true), trouble organizing thoughts, and strange movements.
+"Negative" symptoms make it difficult to show emotions and to function normally. A person may seem depressed and withdrawn.
+Cognitive symptoms affect the thought process. These include trouble using information, making decisions, and paying attention.
+No one is sure what causes schizophrenia. Your genes, environment, and brain chemistry may play a role.
+There is no cure. Medicine can help control many of the symptoms. You may need to try different medicines to see which works best. You should stay on your medicine for as long as your doctor recommends. Additional treatments can help you deal with your illness from day to day. These include therapy, family education, rehabilitation, and skills training.
+NIH: National Institute of Mental Health
+(National Institute of Mental Health)
+(American Psychiatric Association)
+Treatments and Therapies
+Brain Stimulation Therapies
+(National Institute of Mental Health)
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+Managing Life with Serious Mental Illness
+(Substance Abuse and Mental Health Services Administration)
+Mental Health Providers: Tips on Finding One
+(Mayo Foundation for Medical Education and Research)
+Schizoaffective Disorder
+(Mayo Foundation for Medical Education and Research)
+Understanding Psychosis
+(National Institute of Mental Health)
+Schizophrenia: MedlinePlus Genetics
+Psychosis and Schizophrenia Test
+(Mental Health America)
+ClinicalTrials.gov: Schizophrenia
+Article: Electroconvulsive Therapy in Schizophrenia: Exploratory Study on the Efficacy, Cognitive Effects,...
+Article: Autonomy Support from Healthcare Professionals Improves Functioning in Early Psychosis Through...
+Article: Symptom Network Dynamics during Antipsychotic Treatment in First-Episode Psychosis.
+Schizophrenia -- see more articles
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+Schizophrenia in Children, Teens and Young Adults
+(American Academy of Pediatrics)
+Mental status testing
+(Medical Encyclopedia)
+Schizoaffective disorder
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Mental status testing
+Schizoaffective disorder
+The primary NIH organization for research on
+Schizophrenia is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated May 26, 2025
+
+---
+
+[DISEASE: Obsessivecompulsivedisorder]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/obsessivecompulsivedisorder.html]
+Obsessive-Compulsive Disorder: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Obsessive-Compulsive Disorder
+Obsessive-Compulsive Disorder
+Treatments and Therapies
+Statistics and Research
+What is obsessive-compulsive disorder (OCD)?
+Obsessive-compulsive disorder (OCD) is a mental disorder in which you have thoughts (obsessions) and rituals (compulsions) over and over. They interfere with your life, but you cannot control or stop them.
+What causes obsessive-compulsive disorder (OCD)?
+The cause of obsessive-compulsive disorder (OCD) is unknown. Factors such as genetics, brain biology and chemistry, and your environment may play a role.
+Who is at risk for obsessive-compulsive disorder (OCD)?
+Obsessive-compulsive disorder (OCD) usually begins when you are a teen or young adult. Boys often develop OCD at a younger age than girls.
+Risk factors for OCD include:
+Family history. People with a first-degree relative (such as a parent, sibling, or child) who has OCD are at higher risk. This is especially true if the relative developed OCD as a child or teen.
+Brain structure and functioning. Imaging studies have shown that people with OCD have differences in certain parts of the brain. Researchers need to do more studies to understand the connection between the brain differences and OCD.
+Childhood trauma, such as child abuse. Some studies have found a link between trauma in childhood and OCD. More research is needed to understand this relationship better.
+In some cases, children may develop OCD or OCD symptoms following a streptococcal infection. This is called Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections (PANDAS).
+What are the symptoms of obsessive-compulsive disorder (OCD)?
+People with OCD may have symptoms of obsessions, compulsions, or both:
+Obsessions are repeated thoughts, urges, or mental images that cause anxiety. They may involve things such as
+Fear of germs or contamination
+Fear of losing or misplacing something
+Worries about harm coming towards yourself or others
+Unwanted forbidden thoughts involving sex or religion
+Aggressive thoughts towards yourself or others
+Needing things lined up exactly or arranged in a particular, precise way
+Compulsions are behaviors that you feel like you need to do over and over to try to reduce your anxiety or stop the obsessive thoughts. Some common compulsions include
+Excessive cleaning and/or handwashing
+Repeatedly checking on things, such as whether the door is locked or the oven is off
+Ordering and arranging things in a particular, precise way
+Some people with OCD also have Tourette syndrome or another tic disorder. Tics are sudden twitches, movements, or sounds that people do over and over. People who have tics cannot stop their body from doing these things.
+How is obsessive-compulsive disorder (OCD) diagnosed?
+The first step is to talk with your health care provider about your symptoms. It's important to check whether a physical problem is causing your symptoms. So your provider will do a physical exam and will ask you about your medical history. If your symptoms do not seem to be caused by a physical problem, your provider may do an OCD test or may refer you to a mental health specialist for further evaluation or treatment.
+Obsessive-compulsive disorder (OCD) can sometimes be hard to diagnose. Its symptoms are like those of other mental disorders, such as anxiety disorders. It is also possible to have both OCD and another mental disorder.
+Not everyone who has obsessions or compulsions has OCD. Your symptoms would usually be considered OCD when you:
+Can't control your thoughts or behaviors, even when you know that they are excessive
+Spend at least 1 hour a day on these thoughts or behaviors
+Don't get pleasure when performing the behaviors. But doing them may briefly give you relief from the anxiety.
+Have significant problems in your daily life because of these thoughts or behaviors
+What are the treatments for obsessive-compulsive disorder (OCD)?
+The main treatments for obsessive-compulsive disorder (OCD) are cognitive behavioral therapy, medicines, or both:
+Cognitive behavioral therapy (CBT) is a type of psychotherapy. It teaches you different ways of thinking, behaving, and reacting to your obsessions and compulsions.
+Exposure and Response Prevention (ERP) s a specific type of CBT. ERP involves gradually exposing you to your fears or obsessions. You learn healthy ways to deal with the anxiety they cause.
+Medicines for OCD include certain types of antidepressants. If those don't work for you, your provider may suggest taking some other type of psychiatric medicine.
+If you have severe OCD that does not get better with these treatments, your provider may suggest a treatment called repetitive transcranial magnetic stimulation (rTMS). It is a brain stimulation procedure that uses magnetic waves. It can target specific brain areas associated with OCD.
+NIH: National Institute of Mental Health
+Obsessive-Compulsive Disorder
+(American Academy of Family Physicians)
+Obsessive-Compulsive Disorder (OCD)
+(National Institute of Mental Health)
+Obsessive-Compulsive Disorder: When Unwanted Thoughts or Repetitive Behaviors Take Over
+(National Institute of Mental Health)
+When Unwanted Thoughts Intrude: Understanding Obsessive-Compulsive Disorder
+Obsessive Compulsive Disorder (OCD) Test
+Treatments and Therapies
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+Disorders Related to (And Sometimes Confused with) OCD
+(International OCD Foundation)
+How to Find the Right Therapist
+(International OCD Foundation)
+(Mayo Foundation for Medical Education and Research)
+Problem That Piles Up: When Hoarding Is a Disorder
+Obsessive-compulsive disorder: MedlinePlus Genetics
+Statistics and Research
+Obsessive Compulsive Disorder (OCD) among Adults
+(National Institute of Mental Health)
+ClinicalTrials.gov: Hoarding Disorder
+ClinicalTrials.gov: Obsessive-Compulsive Disorder
+Article: The mosaic of experience: How individual differences in attention and working...
+Article: Effectiveness of low-intensity cognitive-behavioral therapy for obsessive-compulsive disorder in routine psychiatric...
+Article: Validation of a Low-Burden, Once-Daily Obsessive-Compulsive Disorder Measure Over 70 Days:...
+Obsessive-Compulsive Disorder -- see more articles
+American Psychiatric Association
+Anxiety and Depression Association of America
+(Anxiety and Depression Association of America)
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+Obsessive-Compulsive Disorder (OCD) (For Parents)
+(Nemours Foundation)
+PANS (Pediatric Acute-onset Neuropsychiatric Syndrome) and PANDAS (Pediatric Autoimmune Neuropsychiatric Disorders Associated with Streptococcal Infections): Questions and Answers
+(National Institute of Mental Health)
+Obsessive-Compulsive Disorder (OCD)
+(Nemours Foundation)
+Obsessive-compulsive disorder
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Are you getting too much exercise?
+Obsessive-compulsive disorder
+The primary NIH organization for research on
+Obsessive-Compulsive Disorder is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 17, 2023
+
+---
+
+[DISEASE: Posttraumaticstressdisorder]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/posttraumaticstressdisorder.html]
+Post-Traumatic Stress Disorder: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Post-Traumatic Stress Disorder
+Post-Traumatic Stress Disorder
+Treatments and Therapies
+Videos and Tutorials
+Statistics and Research
+What is post-traumatic stress disorder (PTSD)?
+Post-traumatic stress disorder (PTSD) is a mental health disorder that some people develop after they experience or see a traumatic event. The traumatic event may be life-threatening, such as combat, a natural disaster, a car accident, or sexual assault. But sometimes the event is not necessarily a dangerous one. For example, the sudden, unexpected death of a loved one can also cause PTSD.
+It's normal to feel afraid during and after a traumatic situation. The fear triggers a "fight-or-flight" response. This is your body's way of helping to protect itself from possible harm. It causes changes in your body such as the release of certain hormones and increases in alertness, blood pressure, heart rate, and breathing.
+In time, most people recover from this naturally. But people with PTSD don't feel better. They feel stressed and frightened long after the trauma is over. In some cases, the PTSD symptoms may start later on. They might also come and go over time.
+What causes post-traumatic stress disorder (PTSD)?
+Researchers don't know why some people get PTSD and others don't. Genetics, neurobiology, risk factors, and personal factors may affect whether you get PTSD after a traumatic event.
+Who is more likely to develop post-traumatic stress disorder (PTSD)?
+You can develop PTSD at any age. Many risk factors play a part in whether you will develop PTSD. They include:
+Your sex; women are more likely to develop PTSD
+Having had trauma in childhood
+Feeling horror, helplessness, or extreme fear
+Going through a traumatic event that lasts a long time
+Having little or no social support after the event
+Dealing with extra stress after the event, such as loss of a loved one, pain and injury, or loss of a job or home
+Having a history of mental illness or substance use
+What are the symptoms of post-traumatic stress disorder (PTSD)?
+There are four types of PTSD symptoms, but they may not be the same for everyone. Each person experiences symptoms in their own way. The types are:
+Re-experiencing symptoms, when something reminds you of the trauma and you feel that fear again. Examples include
+Flashbacks, which cause you to feel like you are going through the event again
+Frightening thoughts
+Avoidance symptoms, when you try to avoid situations or people that trigger memories of the traumatic event. This may cause you to
+Stay away from places, events, or objects that are reminders of the traumatic experience. For example, if you were in a car accident, you might stop driving.
+Avoiding thoughts or feelings related to the traumatic event. For example, you might try to stay very busy to try to avoid thinking about what happened.
+Arousal and reactivity symptoms, which may cause you to be jittery or be on the lookout for danger. They include
+Being easily startled
+Feeling tense or "on edge"
+Having difficulty sleeping
+Having angry outbursts
+Cognition and mood symptoms, which are negative changes in beliefs and feelings. They include
+Trouble remembering important things about the traumatic event
+Negative thoughts about yourself or the world
+Feeling blame and guilt
+No longer being interested in things you enjoyed
+Trouble concentrating
+The symptoms usually start soon after the traumatic event. But sometimes they may not appear until months or years later. They also may come and go over many years.
+If your symptoms last longer than four weeks, cause you great distress, or interfere with your work or home life, you might have PTSD.
+How is post-traumatic stress disorder (PTSD) diagnosed?
+A health care provider who has experience helping people with mental illnesses can diagnose PTSD. The provider will do a mental health screening and may also do a physical exam. To get a diagnosis of PTSD, you must have all of these symptoms for at least one month:
+At least one re-experiencing symptom
+At least one avoidance symptom
+At least two arousal and reactivity symptoms
+At least two cognition and mood symptoms
+What are the treatments for post-traumatic stress disorder (PTSD)?
+The main treatments for PTSD are talk therapy, medicines, or both. PTSD affects people differently, so a treatment that works for one person may not work for another. If you have PTSD, you need to work with a mental health professional to find the best treatment for your symptoms.:
+Talk therapy, or psychotherapy, can teach you about your symptoms. You will learn how to identify what triggers them and how to manage them. There are different types of talk therapy for PTSD.
+Medicines can help with the symptoms of PTSD. Antidepressants may help control symptoms such as sadness, worry, anger, and feeling numb inside. Other medicines can help with sleep problems and nightmares.
+Can post-traumatic stress disorder (PTSD) be prevented?
+There are certain factors that can help reduce the risk of developing PTSD. These are known as resilience factors, and they include:
+Seeking out support from other people, such as friends, family, or a support group
+Learning to feel good about your actions in the face of danger
+Having a coping strategy or a way of getting through the bad event and learning from it
+Being able to act and respond effectively despite feeling fear
+NIH: National Institute of Mental Health
+Post-Traumatic Stress Disorder
+(National Institute of Mental Health)
+Posttraumatic Stress Disorder
+(Defense Health Agency)
+(National Center for PTSD)
+How Is PTSD Assessed?
+(National Center for PTSD)
+Mental Health Screening
+Treatments and Therapies
+PTSD Treatment Basics
+(National Center for PTSD)
+PTSD Treatment Decision Aid
+(National Center for PTSD)
+Coping Tips for Traumatic Events and Disasters
+(Substance Abuse and Mental Health Services Administration)
+Coping with Traumatic Events
+(National Institute of Mental Health)
+Coping with Traumatic Stress Reactions
+(National Center for PTSD)
+Abuse, Maltreatment and PTSD and Their Relationship to Migraine
+(American Migraine Foundation)
+Chronic Pain and PTSD
+(National Center for PTSD)
+Common Reactions After Trauma
+(National Center for PTSD)
+Effects of PTSD on Family
+(National Center for PTSD)
+PTSD and Problems with Alcohol Use
+(National Center for PTSD)
+(National Center for PTSD)
+Sleep Problems and PTSD
+(Department of Veterans Affairs)
+Videos and Tutorials
+(National Center for PTSD)
+Videos - PTSD: National Center for PTSD
+(Department of Veterans Affairs)
+Statistics and Research
+(National Center for PTSD)
+ClinicalTrials.gov: Stress Disorders, Post-Traumatic
+Article: Effectiveness of a Parent-Child Interaction Therapy-Based Trauma-Focused Interaction Module for Trauma-Exposed...
+Article: Child-Parent Relationship Therapy for Earthquake-Affected Preschoolers: A 1-Year Controlled Study.
+Article: Emotion regulation skills training as an adjunctive treatment to narrative exposure...
+Post-Traumatic Stress Disorder -- see more articles
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Center for PTSD
+National Institute of Mental Health
+(National Child Traumatic Stress Network)
+Helping Your Child Heal after a Trauma
+(Nemours Foundation)
+Posttraumatic Stress Disorder (PTSD) in Children
+(Nemours Foundation)
+PTSD in Children and Teens
+(National Center for PTSD)
+(National Child Traumatic Stress Network)
+How to Heal After Trauma
+(Nemours Foundation)
+Post-Traumatic Stress Disorder
+(Department of Health and Human Services, Office on Women's Health)
+Postpartum Post-Traumatic Stress Disorder (PTSD)
+(Postpartum Support International)
+Aging Veterans and Posttraumatic Stress Symptoms
+(National Center for PTSD)
+Post-traumatic stress disorder
+(Medical Encyclopedia)
+Traumatic events and children
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Post-traumatic stress disorder
+Traumatic events and children
+Related Health Topics
+Veterans and Military Health
+The primary NIH organization for research on
+Post-Traumatic Stress Disorder is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 17, 2023
+
+---
+
+[DISEASE: Eatingdisorders]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/eatingdisorders.html]
+Eating Disorders: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Also called: Anorexia nervosa, Binge eating, Bulimia
+Treatments and Therapies
+Statistics and Research
+What are eating disorders?
+Eating disorders are serious mental health disorders. They involve severe problems with your thoughts about food and your eating behaviors. You may eat much less or much more than you need.
+Eating disorders are medical conditions; they are not a lifestyle choice. They affect your body's ability to get proper nutrition. This can lead to health issues, such as heart and kidney problems, or sometimes even death. But there are treatments that can help.
+What are the types of eating disorders?
+Common types of eating disorders include:
+Binge-eating, which is out-of-control eating. People with binge-eating disorder keep eating even after they are full. They often eat until they feel very uncomfortable. Afterward, they usually have feelings of guilt, shame, and distress. Eating too much too often can lead to weight gain and obesity. Binge-eating disorder is the most common eating disorder in the U.S.
+Bulimia nervosa. People with bulimia nervosa also have periods of binge-eating. But afterwards, they purge, by making themselves throw up or using laxatives. They may also over-exercise or fast. People with bulimia nervosa may be slightly underweight, normal weight, or overweight.
+Anorexia nervosa. People with anorexia nervosa avoid food, severely restrict food, or eat very small quantities of only certain foods. They may see themselves as overweight, even when they are dangerously underweight. Anorexia nervosa is the least common of the three eating disorders, but it is often the most serious. It has the highest death rate of any mental disorder.
+What causes eating disorders?
+The exact cause of eating disorders is unknown. Researchers believe that eating disorders are caused by a complex interaction of factors. These include genetic, biological, behavioral, psychological, and social factors.
+Who is at risk for eating disorders?
+Anyone can develop an eating disorder, but they are more common in women. Eating disorders frequently appear during the teen years or young adulthood. But people can also develop them during childhood or later in life.
+What are the symptoms of eating disorders?
+The symptoms of eating disorders vary, depending on the disorder:
+The symptoms of binge-eating include:
+Eating unusually large amounts of food in a specific amount of time, such as a 2-hour period
+Eating even when you're full or not hungry
+Eating fast during binge episodes
+Eating until you're uncomfortably full
+Eating alone or in secret to avoid embarrassment
+Feeling distressed, ashamed, or guilty about your eating
+Frequently dieting, possibly without weight loss
+The symptoms of bulimia nervosa include the same symptoms as binge-eating, plus trying to get rid of the food or weight after binging by:
+Purging, making yourself throw up or using laxatives or enemas to speed up the movement of food through your body
+Doing intensive and excessive exercise
+Over time, bulimia nervosa can cause health problems such as:
+Chronically inflamed and sore throat
+Swollen salivary glands in the neck and jaw area
+Worn tooth enamel and increasingly sensitive and decaying teeth. This is caused by the exposure to stomach acid every time you throw up.
+GERD (acid reflux) and other gastrointestinal problems
+Severe dehydration from purging
+Electrolyte imbalance, which could be too low or too high levels of sodium, calcium, potassium and other minerals. This can lead to a stroke or heart attack.
+The symptoms of anorexia nervosa include:
+Eating very little, to the point of starving yourself
+Intensive and excessive exercise
+Intense fear of gaining weight
+Distorted body image - seeing yourself as overweight even when you are severely underweight
+Over time, anorexia nervosa can cause health problems such as:
+Thinning of the bones (osteopenia or osteoporosis)
+Muscle wasting and weakness
+Thin, brittle hair and nails
+Dry, blotchy, or yellowish skin
+Growth of fine hair all over the body
+Slowed breathing and pulse
+Feeling cold all the time because of a drop in internal body temperature
+Feeling faint, dizzy, or weak
+Feeling tired all the time
+Damage to the structure and function of the heart
+Anorexia nervosa can be fatal. Some people with this disorder die of complications from starvation, and others die of suicide.
+Some people with eating disorders may also have other mental disorders (such as depression or anxiety) or problems with substance use.
+How is eating disorders diagnosed?
+Because eating disorders can be so serious, it is important to seek help if you or a loved one thinks that you might have a problem. Your health care provider may use many tools to make a diagnosis:
+A medical history, which includes asking about your symptoms. It is important to be honest about your eating and exercise behaviors so your provider can help you.
+Blood or urine tests to rule out other possible causes of your symptoms
+Other tests to see whether you have any other health problems caused by the eating disorder. These can include kidney function tests and an electrocardiogram (EKG or ECG).
+What are the treatments for eating disorders?
+Treatment plans for eating disorders are tailored to individual needs. You will likely have a team of providers helping you, including doctors, nutritionists, nurses, and therapists. The treatments may include:
+Individual, group, and/or family psychotherapy. Individual therapy may include cognitive behavioral approaches, which help you to identify and change negative and unhelpful thoughts. It also helps you build coping skills and change behavioral patterns.
+Medical care and monitoring, including care for the complications that eating disorders can cause
+Nutrition counseling. Doctors, nurses, and counselors will help you eat healthy to reach and maintain a healthy weight.
+Medicines, such as antidepressants, antipsychotics, or mood stabilizers, may help treat some eating disorders. The medicines can also help with the depression and anxiety symptoms that often go along with eating disorders.
+Some people with serious eating disorders may need to be in a hospital or in a residential treatment program. Residential treatment programs combine housing and treatment services.
+NIH: National Institute of Mental Health
+(National Institute of Mental Health)
+Eating Disorders: About More than Food
+(National Institute of Mental Health)
+Let's Talk about Eating Disorders
+(National Institute of Mental Health)
+When Food Consumes You: Taking Eating to Extremes
+Mental Health Screening
+Treatments and Therapies
+Eating Disorder Treatment: Know Your Options
+(Mayo Foundation for Medical Education and Research)
+Intervention: Help a Loved One Overcome Addiction
+(Mayo Foundation for Medical Education and Research)
+(Nemours Foundation)
+(Department of Health and Human Services, Office on Women's Health)
+Avoidant/Restrictive Food Intake Disorder (ARFID)
+Binge Eating Disorder
+(Department of Health and Human Services, Office on Women's Health)
+Binge Eating Disorder
+(National Institute of Diabetes and Digestive and Kidney Diseases)
+(Department of Health and Human Services, Office on Women's Health)
+Eating Disorders and Diabetes
+(National Eating Disorders Association)
+(American Academy of Family Physicians)
+Statistics and Research
+Eating Disorders: Statistics
+(National Institute of Mental Health)
+ClinicalTrials.gov: Anorexia Nervosa
+ClinicalTrials.gov: Binge-Eating Disorder
+ClinicalTrials.gov: Bulimia
+Article: Modulating implicit food-related tendencies via repetitive TMS of the intraparietal sulcus....
+Article: Cognitive training via mobile app for addressing eating disorder-related cognitions in...
+Article: Feasibility and acceptability outcomes of the InMe trial - a randomised...
+Eating Disorders -- see more articles
+American Academy of Child and Adolescent Psychiatry
+Child and Adolescent Psychiatrist Finder
+(American Academy of Child and Adolescent Psychiatry)
+Find a Nutrition Expert
+(Academy of Nutrition and Dietetics)
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Eating Disorders Association
+National Institute of Mental Health
+Anorexia and Bulimia: How Eating Disorders Can Affect Your Child
+(American Academy of Pediatrics)
+Avoidant/Restrictive Food Intake Disorder (ARFID) (For Parents)
+(Nemours Foundation)
+(Nemours Foundation)
+Binge Eating Disorder
+(Nemours Foundation)
+(Nemours Foundation)
+(Nemours Foundation)
+(Medical Encyclopedia)
+Binge eating disorder
+(Medical Encyclopedia)
+Break the bonds of emotional eating
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+What Are Common Types of Eating Disorders?
+(National Institute of Mental Health)
+MEDICAL ENCYCLOPEDIA
+Binge eating disorder
+Break the bonds of emotional eating
+Related Health Topics
+The primary NIH organization for research on
+Eating Disorders is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated May 16, 2024
+
+---
+
+[DISEASE: Attentiondeficithyperactivitydisorder]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/attentiondeficithyperactivitydisorder.html]
+Attention Deficit Hyperactivity Disorder | ADHD | ADD | MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Attention Deficit Hyperactivity Disorder
+Attention Deficit Hyperactivity Disorder
+Treatments and Therapies
+Statistics and Research
+What is attention deficit hyperactivity disorder (ADHD)?
+ADHD is a neurodevelopmental disorder. It is usually first diagnosed in childhood and often lasts into adulthood. But some people don't get diagnosed with ADHD until they are adults. ADHD involves:
+Having trouble paying attention (inattention)
+Having trouble controlling impulsive behaviors (impulsivity)
+Being overly active (hyperactivity)
+What are the types of attention deficit hyperactivity disorder (ADHD)?
+There are three types of ADHD:
+Mostly Inattentive ADHD. People with this type of ADHD have trouble paying attention and are easily distracted. It's hard for them to organize or finish tasks. They may have trouble following instructions or conversations.
+Mostly Hyperactive-Impulsive ADHD. People with this type of ADHD have symptoms of both hyperactivity and impulsivity:
+With hyperactivity, people feel a need to always be moving. They have trouble sitting still and may fidget and/or talk too much.
+With impulsivity, people have trouble controlling their actions and words. They tend to act on sudden ideas or feelings without thinking about the possible results. They may interrupt others a lot or have trouble waiting their turn.
+Combined ADHD. People with this type of ADHD have a mix of inattentive and hyperactive-impulsive symptoms. Combined ADHD is the most common type.
+It's normal to sometimes have trouble paying attention or sitting still, especially for children. But people with ADHD have more severe symptoms that can sometimes cause serious problems, for example, failing grades for a child or a job loss for an adult. The symptoms are ongoing and may affect family and social life, too.
+What causes attention deficit hyperactivity disorder (ADHD)?
+The exact cause of ADHD is unknown. ADHD probably results from a combination of factors, such as genetics and your environment. Researchers are looking at possible environmental factors that might raise the risk of developing ADHD. These factors include brain injuries, nutrition, and social environments.
+What are the symptoms of attention deficit hyperactivity disorder (ADHD)?
+The symptoms of ADHD depend on the type of ADHD a person has:
+People with symptoms of attention problems may often:
+Miss details or make careless mistakes in schoolwork, at work, or in other activities
+Have trouble staying focused on play activities or work tasks
+Not seem to listen when spoken to directly
+Find it hard to follow instructions or finish tasks, or may start but get easily sidetracked
+Have trouble being organized, keeping belongings in order, and managing time
+Avoid doing tasks that require long periods of mental effort
+Lose important items, such as books, wallets, keys, eyeglasses, and cellphones
+Forget about doing daily activities
+People with symptoms of hyperactivity-impulsivity may often:
+Fidget and squirm while seated
+Get up when staying seated is expected, such as at school or work
+Run around or climb when it's not appropriate (children) or feel restless (teens and adults)
+Have trouble doing quiet activities
+Be constantly moving or "on the go"
+Talk much more than is normal
+Blurt out answers before questions are completed
+Have trouble waiting for their turn
+Interrupt others for example during conversations or games
+People with combined ADHD show a mix of inattention and hyperactivity-impulsivity symptoms
+How is attention deficit hyperactivity disorder (ADHD) diagnosed?
+There is no single test to diagnose ADHD. One step of the process for diagnosing ADHD involves having a physical exam, including vision tests, hearing tests (for children and adults), and other tests to rule out other problems with symptoms like ADHD. Other problems with similar symptoms include anxiety, depression, sleep problems, and certain types of learning disabilities.
+The process also involves a thorough medical history and family history. And it usually includes using standardized ADHD symptom checklists, questionnaires, and/or interview questions. These tools have rating scales (scoring systems) that help the provider see if a person's symptoms and history fit a diagnosis of ADHD.
+To make a diagnosis of ADHD, the provider needs to have found all of these things:
+Several symptoms of ADHD that began before age 12.
+Several symptoms of inattention and/or hyperactivity-impulsivity that have lasted for at least 6 months and cause serious problems:
+For children up to age 16, there must be at least 6 ongoing symptoms.
+For people 17 and older, there must be at least 5 ongoing symptoms.
+Symptoms that happen in 2 or more settings, for example, at home and at work or school.
+Symptoms that clearly get in the way of functioning well at school, work, and/or in social situations.
+Symptoms aren't caused by another mental health disorder.
+What are the treatments for attention deficit hyperactivity disorder (ADHD)?
+Although there is no cure for ADHD, treatments may help reduce symptoms and improve functioning. ADHD is commonly treated with:
+Psychotherapy (talk therapy), including behavior therapy.
+Education or training for parents to give them the skills and strategies to help their child. This is especially important for younger children.
+A combination of these treatments.
+Good treatment plans will include close monitoring, follow-ups, and making changes, if needed, along the way.
+Having a healthy lifestyle, such as healthy eating and regular exercise, may also help manage symptoms.
+For school-aged children, school support is important. This could include classroom-based behavioral interventions such as behavior management plans or teaching your child organizational and study skills. It may also include accommodations such as specific seating in the classroom, reduced classwork, or extended time on tests and exams.
+NIH: National Institute of Mental Health
+ADHD in Kids and Teens
+(Nemours Foundation)
+Adult ADHD (Attention-Deficit/Hyperactivity Disorder)
+(American Academy of Family Physicians)
+Attention-Deficit/Hyperactivity Disorder
+(National Institute of Mental Health)
+(Centers for Disease Control and Prevention)
+Pharmacogenetic Tests
+Treatments and Therapies
+Behavior Therapy for Children with ADHD
+(American Academy of Pediatrics)
+Treating and Dealing with ADHD
+(Food and Drug Administration)
+(Centers for Disease Control and Prevention)
+(Nemours Foundation)
+Individualized Education Programs (IEPs)
+(Nemours Foundation)
+Parenting a Child with ADHD
+(Children and Adults with Attention-Deficit/Hyperactivity Disorder)
+ADHD and Substance Abuse: The Link Parents Need to Know
+(American Academy of Pediatrics)
+Allergies and Hyperactivity
+(American Academy of Pediatrics)
+Other Concerns and Conditions with ADHD
+(Centers for Disease Control and Prevention)
+College Students with ADHD
+(American Academy of Child and Adolescent Psychiatry)
+Attention-deficit/hyperactivity disorder: MedlinePlus Genetics
+Statistics and Research
+Data and Statistics on ADHD
+(Centers for Disease Control and Prevention)
+Faststats: Attention Deficit Hyperactivity Disorder (ADHD)
+(National Center for Health Statistics)
+ClinicalTrials.gov: Attention Deficit Disorder with Hyperactivity
+Article: Does Attention-Deficit/Hyperactivity Disorder Predominant Presentation Matter? Examining Functional and Symptom Changes...
+Article: Child training in the Child ViReal Support Program: Combining iVR-based cognitive...
+Article: Personalized ADHD Medication Experiments to Inform Decisions About Continued Medication Use:...
+Attention Deficit Hyperactivity Disorder -- see more articles
+American Academy of Child and Adolescent Psychiatry
+Child and Adolescent Psychiatrist Finder
+(American Academy of Child and Adolescent Psychiatry)
+Children and Adults with Attention-Deficit/Hyperactivity Disorder
+(Substance Abuse and Mental Health Services Administration)
+National Institute of Mental Health
+Psychologist Locator
+(American Psychological Association)
+Attention-Deficit/Hyperactivity Disorder: What You Need to Know
+(National Institute of Mental Health)
+Therapy for ADHD (For Parents)
+(Nemours Foundation)
+Women and Girls (With ADHD)
+(Children and Adults with Attention-Deficit/Hyperactivity Disorder)
+(Nemours Foundation)
+Women and Girls (With ADHD)
+(Children and Adults with Attention-Deficit/Hyperactivity Disorder)
+ADHD in Adults: 4 Things to Know
+(National Institute of Mental Health)
+Adult Attention-Deficit / Hyperactivity Disorder (ADHD)
+(Mayo Foundation for Medical Education and Research)
+Relationships and Social Skills
+(Children and Adults with Attention-Deficit/Hyperactivity Disorder)
+ADHD: Attention Deficit/Hyperactivity Fact Sheet
+(Centers for Disease Control and Prevention)
+Attention deficit hyperactivity disorder
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Attention deficit hyperactivity disorder
+Hyperactivity and sugar
+Related Health Topics
+Child Behavior Disorders
+Learning Disabilities
+The primary NIH organization for research on
+Attention Deficit Hyperactivity Disorder is the
+National Institute of Mental Health
+ADHD Across the Lifespan: What It Looks Like in Adults
+ADHD Across the Lifespan: What It Looks Like in Children and Teens
+ADHD Support Toolkit
+Taking on the Stigma of ADHD
+Understanding ADHD: What You Need to Know
+What Medications Are Used to Treat ADHD?
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated October 17, 2023
+
+---
+
+[DISEASE: Autism]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/autism.html]
+Autism Spectrum Disorder: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Autism Spectrum Disorder
+Autism Spectrum Disorder
+Also called: ASD, Pervasive developmental disorder (PDD)
+Treatments and Therapies
+Statistics and Research
+Autism spectrum disorder (ASD) is a neurological and developmental disorder that begins early in childhood and lasts throughout a person's life. It affects how a person acts and interacts with others, communicates, and learns. It includes what used to be known as Asperger syndrome and pervasive developmental disorders.
+It is called a "spectrum" disorder because people with ASD can have a range of symptoms. People with ASD might have problems talking with you, or they might not look you in the eye when you talk to them. They may also have restricted interests and repetitive behaviors. They may spend a lot of time putting things in order, or they may say the same sentence again and again. They may often seem to be in their "own world."
+At well-child checkups, the health care provider should check your child's development. If there are signs of ASD, your child will have a comprehensive evaluation. It may include a team of specialists, doing various tests and evaluations to make a diagnosis.
+The causes of ASD are not known. Research suggests that both genes and environment play important roles.
+There is currently no one standard treatment for ASD. There are many ways to increase your child's ability to grow and learn new skills. Starting them early can lead to better results. Treatments include behavior and communication therapies, skills training, and medicines to control symptoms.
+NIH: National Institute of Child Health and Human Development
+(National Institute of Environmental Health Sciences)
+Autism Spectrum Disorder
+(National Institute of Mental Health)
+Autism Spectrum Disorder (ASD)
+(Eunice Kennedy Shriver National Institute of Child Health and Human Development)
+Signs and Symptoms of Autism Spectrum Disorder
+(Centers for Disease Control and Prevention)
+Autism Spectrum Disorder (ASD) Screening
+Screening and Diagnosis: Identifying Autism
+Screening for Autism Spectrum Disorder
+(Centers for Disease Control and Prevention)
+Why Act Early if You're Concerned about Development?
+(Centers for Disease Control and Prevention)
+How Can I Help Someone with Autism?
+(Nemours Foundation)
+New Autism Diagnosis
+(Autism Society of America Foundation)
+Treatments and Therapies
+Occupational Therapy
+Treatment and Intervention for Autism Spectrum Disorder
+(Centers for Disease Control and Prevention)
+What Are the Treatments for Autism?
+(Eunice Kennedy Shriver National Institute of Child Health and Human Development)
+Individualized Education Programs (IEPs)
+(Nemours Foundation)
+Nutrition for Your Child with Autism Spectrum Disorder (ASD)
+(Academy of Nutrition and Dietetics)
+Autism Spectrum Disorder: Communication Problems in Children
+(National Institute on Deafness and Other Communication Disorders)
+Frequently Asked Questions about Autism Spectrum Disorder
+(Centers for Disease Control and Prevention)
+Is There a Connection Between Vaccines and Autism?
+(Nemours Foundation)
+16p11.2 deletion syndrome: MedlinePlus Genetics
+(National Human Genome Research Institute)
+ADNP syndrome: MedlinePlus Genetics
+Autism spectrum disorder: MedlinePlus Genetics
+MBD5-associated neurodevelopmental disorder: MedlinePlus Genetics
+Timothy syndrome: MedlinePlus Genetics
+White-Sutton syndrome: MedlinePlus Genetics
+CDC's Developmental Milestones
+(Centers for Disease Control and Prevention)
+Statistics and Research
+Data and Statistics on Autism Spectrum Disorder
+(Centers for Disease Control and Prevention)
+ClinicalTrials.gov: Asperger Syndrome
+ClinicalTrials.gov: Autism Spectrum Disorder
+ClinicalTrials.gov: Autistic Disorder
+ClinicalTrials.gov: Child Development Disorders, Pervasive
+Article: Receptive-Expressive Language Phenotypes in Infants and Toddlers With Autism Features.
+Article: Consensus document on the treatment of insomnia in patients with autism...
+Article: Randomized controlled trial of family involved core features target intervention for...
+Autism Spectrum Disorder -- see more articles
+Centers for Disease Control and Prevention
+Eunice Kennedy Shriver National Institute of Child Health and Human Development
+National Institute of Mental Health
+National Institute of Neurological Disorders and Stroke
+National Institute on Deafness and Other Communication Disorders
+Psychologist Locator
+(American Psychological Association)
+What to Say: Answers for Teens with Autism
+(Nemours Foundation)
+Autism Spectrum Disorder
+(Nemours Foundation)
+How to Make Friends When You Have Autism
+(Nemours Foundation)
+Autism: The Challenges and Opportunities of an Adult Diagnosis
+(Harvard Medical School)
+Autism spectrum disorder
+(Medical Encyclopedia)
+Autism spectrum disorder - Asperger syndrome
+(Medical Encyclopedia)
+Autism spectrum disorder - childhood disintegrative disorder
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Autism spectrum disorder
+Autism spectrum disorder - Asperger syndrome
+Autism spectrum disorder - childhood disintegrative disorder
+Related Health Topics
+Child Behavior Disorders
+The primary NIH organization for research on
+Autism Spectrum Disorder is the
+National Institute of Mental Health
+6 Key Facts About Autism Spectrum Disorder
+Embracing Autism Diagnosis Helps Family Take Charge
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated June 28, 2025
+
+---
+
+[DISEASE: Panicdisorder]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/panicdisorder.html]
+Panic Disorder: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+What is panic disorder?
+Panic disorder is a type of anxiety disorder. It causes repeated panic attacks, which are sudden periods of intense fear, discomfort, or a sense of losing control. These attacks happen even though there is no real danger. They often cause physical symptoms. For example, you may have a rapid or pounding heartbeat and feel like you are having a heart attack.
+If you have panic attacks, it doesn't mean you will develop a panic disorder. Many people only have one or two panic attacks in their lifetime and get better without treatment.
+But some of the people who have panic attacks do develop panic disorder. They have repeated panic attacks. The attacks can happen as often as several times a day or as rarely as a few times a year. People with panic disorder often worry about having another attack. It may cause them to avoid places and situations where they had panic attacks in the past.
+Panic disorder is not life-threatening, but it can be upsetting and affect your quality of life. And if it is not treated, it can sometimes lead to other health conditions, including depression and substance use disorders.
+What causes panic disorder?
+The cause of panic disorder is unknown. Researchers think that certain factors may play a role:
+Genetics - panic disorder sometimes runs in families. But no one knows for sure why some family members have it while others don't.
+Brain biology and chemistry.
+Who is more likely to develop panic disorder?
+Panic disorder is more common in women than men. It often starts in the late teens or early adulthood. Sometimes it starts when a person is under a lot of stress. People who have had trauma, especially in childhood, are more likely to develop panic disorder.
+What are the symptoms of panic disorder?
+People with panic disorder may have:
+Sudden and repeated panic attacks of overwhelming anxiety and fear
+A feeling of being out of control or a fear of death during a panic attack
+An intense worry about another panic attack
+A fear or avoidance of places and situations where they had panic attacks in the past
+Physical symptoms during a panic attack, such as:
+Pounding or racing heart
+Trembling or shaking
+The feeling that they are choking
+Weakness or dizziness
+Stomach pain or nausea
+Panic attacks can happen anytime, without warning. They can last anywhere from a few minutes to over an hour.
+How is panic disorder diagnosed?
+To find out if you have panic disorder, your health care provider:
+Will ask about your medical history and symptoms
+May check if an unrelated physical problem is causing your symptoms, for example with:
+Blood tests to check for thyroid problems and other possible conditions
+May do a panic disorder test
+May refer you to a mental health provider for the panic disorder test or other types of psychological evaluations
+What are the treatments for panic disorder?
+Treatment for panic disorder usually includes one or more of the following:
+Talk therapy, also called psychotherapy or counseling, which can help you understand your feelings.
+It may include cognitive-behavioral therapy (CBT), a type of talk therapy that helps you change your negative thoughts and how you react to things that cause you to feel anxiety.
+Medicines, including:
+Antidepressants, such as selective serotonin reuptake inhibitors (SSRIs) and serotonin-norepinephrine reuptake inhibitors (SNRIs)
+Anti-anxiety medicines
+Your provider may also suggest that you follow a healthy lifestyle, which may help with panic disorder. It may include:
+Eating regular meals
+Getting enough sleep
+Getting regular exercise
+Joining a support group may also be helpful. Support groups can make you feel like you are not alone, and you may learn some new tips on how to cope.
+NIH: National Institute of Mental Health
+Panic Attacks and Panic Disorder
+(Mayo Foundation for Medical Education and Research)
+Panic Disorder and Panic Attacks
+(American Academy of Family Physicians)
+Panic Disorder: When Fear Overwhelms
+(National Institute of Mental Health)
+Treatments and Therapies
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+ClinicalTrials.gov: Panic Disorder
+Article: The Effect of Cognitive Behavioral Therapy-Based Intervention Program on Psychological Well-Being...
+Article: Altered autonomic stress reactivity and recovery in panic disorder during the...
+Article: Fluoroquinolones and the risk of panic attacks: a systematic review and...
+Panic Disorder -- see more articles
+Anxiety and Depression Association of America
+(Anxiety and Depression Association of America)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+National Institute of Mental Health
+(American Academy of Pediatrics)
+(Medical Encyclopedia)
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Related Health Topics
+The primary NIH organization for research on
+Panic Disorder is the
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated June 10, 2024
+
+---
+
+[DISEASE: Phobias]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/phobias.html]
+Phobias: MedlinePlus
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+Treatments and Therapies
+A phobia is a type of anxiety disorder. It is a strong, irrational fear of something that poses little or no real danger.
+There are many specific phobias. Acrophobia is a fear of heights. Agoraphobia is a fear of public places, and claustrophobia is a fear of closed-in places. If you become anxious and extremely self-conscious in everyday social situations, you could have a social phobia. Other common phobias involve tunnels, highway driving, water, flying, animals and blood.
+People with phobias try to avoid what they are afraid of. If they cannot, they may experience:
+A strong desire to get away
+Phobias usually start in children or teens, and continue into adulthood. The causes of specific phobias are not known, but they sometimes run in families.
+Treatment helps most people with phobias. Options include medicines, therapy or both.
+NIH: National Institute of Mental Health
+Phobias and Phobia-Related Disorders
+(National Institute of Mental Health)
+(Mayo Foundation for Medical Education and Research)
+Treatments and Therapies
+Mental Health Medications
+(National Institute of Mental Health)
+(National Institute of Mental Health)
+(Mayo Foundation for Medical Education and Research)
+Fear of Public Speaking: How Can I Overcome It?
+(Mayo Foundation for Medical Education and Research)
+How to Cope with Medical Test Anxiety
+(Centers for Disease Control and Prevention)
+Social Anxiety Disorder: What You Need to Know
+(National Institute of Mental Health)
+ClinicalTrials.gov: Agoraphobia
+ClinicalTrials.gov: Phobia, Social
+ClinicalTrials.gov: Phobic Disorders
+Find Your Local NAMI
+(Anxiety and Depression Association of America)
+(Substance Abuse and Mental Health Services Administration)
+Help for Mental Illnesses
+(National Institute of Mental Health)
+Psychologist Locator
+(American Psychological Association)
+Childhood Fears and Worries
+(Nemours Foundation)
+(Nemours Foundation)
+(Nemours Foundation)
+(Nemours Foundation)
+(Medical Encyclopedia)
+Phobia - simple/specific
+(Medical Encyclopedia)
+Social anxiety disorder
+(Medical Encyclopedia)
+MEDICAL ENCYCLOPEDIA
+Phobia - simple/specific
+Social anxiety disorder
+Related Health Topics
+The primary NIH organization for research on
+National Institute of Mental Health
+The information on this site should not be used as a substitute for professional medical care or advice. Contact a health care provider if you have questions about your health.
+Learn how to cite this page
+Guidelines for Links
+MedlinePlus Connect for EHRs
+Last updated December 14, 2025
+
+---
+
+[DISEASE: Sleepingdisorders]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/sleepingdisorders.html]
+MedlinePlus: We're sorry, we can't find the page you requested
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+We're sorry. We can't find the page you requested.
+You might want to search the MedlinePlus site:
+Or, try one of these pages:
+MedlinePlus Homepage
+Medical Encyclopedia
+If you need help, see our site map or contact us.
+Guidelines for Links
+MedlinePlus Connect for EHRs
+
+---
+
+[DISEASE: Substanceusedisorders]
+[CATEGORY: mental_health]
+[TYPE: medlineplus_mental]
+[LANGUAGE: en]
+[SOURCE: https://medlineplus.gov/substanceusedisorders.html]
+MedlinePlus: We're sorry, we can't find the page you requested
+An official website of the United States government
+Official websites use .govA
+.gov website belongs to an official government
+organization in the United States.
+Secure .gov websites use HTTPSA
+) or https:// means you’ve safely connected to
+the .gov website. Share sensitive information only on official,
+Medical Encyclopedia
+Health TopicsDrugs & SupplementsGeneticsMedical TestsMedical Encyclopedia
+We're sorry. We can't find the page you requested.
+You might want to search the MedlinePlus site:
+Or, try one of these pages:
+MedlinePlus Homepage
+Medical Encyclopedia
+If you need help, see our site map or contact us.
+Guidelines for Links
+MedlinePlus Connect for EHRs
